@@ -311,5 +311,3 @@ void imprimirLineas(char c,int cant,ofstream &archReporte) {
     for (int i=0;i<cant;i++) archReporte<<c;
     archReporte<<endl;
 }
-
-//MIN 1:04  1 HORA
