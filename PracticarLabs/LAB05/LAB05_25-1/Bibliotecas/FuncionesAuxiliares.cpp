@@ -36,16 +36,6 @@ void cargarRepresentantesEmpresas(const char* nombArchEmpresas,
     }
 }
 
-void ordenarRepresentantesEmpresas(int *arrDniRepreEmpresa,int nroRepreEmpresa) {
-    for (int i = 0; i < nroRepreEmpresa; i++) {
-        for (int j = i+1; j < nroRepreEmpresa; j++) {
-            if (arrDniRepreEmpresa[i] > arrDniRepreEmpresa[j]) {
-                swapInt(arrDniRepreEmpresa[i],arrDniRepreEmpresa[j]);
-            }
-        }
-    }
-}
-
 void cargarMultasInfraccion(const char* nombArchTablaInfra,char *arrCodeCharInfraccion,
                             int *arrCodeIntInfraccion,double *arrMultaInfraccion,int &nroMultas) {
     //G2007   425.23      No conducir ...
