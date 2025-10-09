@@ -40,22 +40,50 @@ void pruebaEtiquetaCanal(const char* nombArchRepPruebaEtiCanal,
                         int *arrCodeEtiquetaCanal,int nroEtiquetaCanal);
 
 void procesarReproEtiquetas(const char* nombArchReproEtiquetas,
-                            int *arrFechaCanal,char *arrCodeCharCanal,int *arrCodeIntCanal,
+                            char *arrCodeCharCanal,int *arrCodeIntCanal,
                             double *arrRatingCanal,int nroCanales,
                             int *arrCodeEtiqueta,int *arrTiempoDurEtiqueta,int nroEtiquetas,
+                            double *arrSumaRatingCanalLigadoEtiqueta,int *arrCantCanalLigadoEtiqueta,
                             char *arrCodeCharEtiquetaCanal,int *arrCodeIntEtiquetaCanal,
-                            int *arrCodeEtiquetaCanal,int nroEtiquetaCanal,
+                            int *arrCodeEtiquetaCanal,int nroEtiquetaCanal,double* arrRatingCanalEtiquetaCanal,
                             int *arrNroTotalReproCanal,int *arrTiempoTotalReproCanal,
-                            int *arrNroTotalReproCanalGlobal,int *arrTiempoTotalReproCanalGlobal);
+                            int *arrNroTotalReproCanalGlobal,int *arrTiempoTotalReproCanalGlobal,
+                            double *arrIngresoPorReproEtiqueta,double tarifaDurEtiqueta);
 
-int buscarCanal(char *arrCodeCharCanal,int *arrCodeIntCanal,
-                char codeCharCanalArch,int codeIntCanalArch,int nroEtiquetaCanal);
+int buscarEtiquetaCanal(char *arrCodeCharEtiquetaCanal,int *arrCodeIntEtiquetaCanal,
+                char codeCharCanalArch,int codeIntCanalArch,
+                int *arrCodeEtiquetaCanal,int codeEtiquetaReproArch,
+                int nroEtiquetaCanal);
 
+int buscarEtiqueta(int *arrCodeEtiqueta,int codeEtiquetaReproArch,int nroEtiquetas);
+
+double buscarRatingCanal(char *arrCodeCharCanal,int *arrCodeIntCanal,double *arrRatingCanal,
+                    char codeCharEtiCanalArch,int codeIntEtiCanalArch,int nroCanales);
+
+void ordenarEtiquetas(int *arrCodeEtiqueta,int *arrTiempoDurEtiqueta,int nroEtiquetas);
+
+void generarReporte(const char* nombArchReporte,char *arrCodeCharCanal,int *arrCodeIntCanal,
+                    double *arrRatingCanal,int nroCanales,
+                    int *arrCodeEtiqueta,int *arrTiempoDurEtiqueta,int nroEtiquetas,
+                    double *arrSumaRatingCanalLigadoEtiqueta,int *arrCantCanalLigadoEtiqueta,
+                    char *arrCodeCharEtiquetaCanal,int *arrCodeIntEtiquetaCanal,
+                    int *arrCodeEtiquetaCanal,int nroEtiquetaCanal,double* arrRatingCanalEtiquetaCanal,
+                    int *arrNroTotalReproCanal,int *arrTiempoTotalReproCanal,
+                    int *arrNroTotalReproCanalGlobal,int *arrTiempoTotalReproCanalGlobal,
+                    double *arrIngresoPorReproEtiqueta,double tarifaDurEtiqueta);
+
+void imprimirTitulo(ofstream &output,double tarifaDur);
+
+void imprimirResumen(ofstream &output,int *arrNroTotalReproCanalGlobal,int *arrTiempoTotalReproCanalGlobal,
+                    double *arrIngresoPorReproEtiqueta,double *arrSumaRatingCanalLigadoEtiqueta,int *arrCantCanalLigadoEtiqueta,int i);
 
 //Modulos auxiliares
+int filtrarRating(ofstream&output,double promedioRating );
+void swapInt(int &a,int &b);
+void imprimirSubtitulo(ofstream &output);
 int leerTiempo(ifstream& input);
 void imprimirTiempo(ofstream& output,int tiempo,bool esMinuto);
-void imprimirNroOrden(ofstream& output,int nroOrden) ;
+void imprimirNumeroOrden(ofstream& output,int nroOrden,bool tieneCero);
 void imprimirLineas(char c,int cant,ofstream& output);
 void ignorar(ifstream& input,char delimitador);
 int leerFecha(ifstream& input);
