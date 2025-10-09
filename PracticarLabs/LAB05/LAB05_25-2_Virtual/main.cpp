@@ -38,6 +38,7 @@ int main(int argc, char **argv) {
     char arrCodeCharEtiquetaCanal[MAX_ETIQUETA_CANAL]{};
     int arrCodeIntEtiquetaCanal[MAX_ETIQUETA_CANAL]{};
     int arrCodeEtiquetaCanal[MAX_ETIQUETA_CANAL]{};
+    double arrRatingCanalEtiquetaCanal[MAX_ETIQUETA_CANAL]{};
     int nroEtiquetaCanal=0;
     cargarEtiquetaCanal("ArchivoDeDatos/EtiquetasEnCanales.txt",
                         arrCodeCharEtiquetaCanal,arrCodeIntEtiquetaCanal,
@@ -50,22 +51,43 @@ int main(int argc, char **argv) {
     //28/02/2025  E6696      888106      244
     int arrNroTotalReproCanal[MAX_ETIQUETA_CANAL]{};
     int arrTiempoTotalReproCanal[MAX_ETIQUETA_CANAL]{};
-    int arrNroTotalReproCanalGlobal[MAX_ETIQUETA_CANAL]{};
-    int arrTiempoTotalReproCanalGlobal[MAX_ETIQUETA_CANAL]{};
+
+    int arrNroTotalReproCanalGlobal[MAX_ETIQUETAS]{};
+    int arrTiempoTotalReproCanalGlobal[MAX_ETIQUETAS]{};
+    double arrSumaRatingCanalLigadoEtiqueta[MAX_ETIQUETAS]{};
+    double arrIngresoPorReproEtiqueta[MAX_ETIQUETAS]{};
+    int arrCantCanalLigadoEtiqueta[MAX_ETIQUETAS]{};
+
+
+    double tarifaDur=0.75;
+    //preguntarTarifa(tarifaDur);
+
+    ordenarEtiquetas(arrCodeEtiqueta,arrTiempoDurEtiqueta,nroEtiquetas);
 
     procesarReproEtiquetas("ArchivoDeDatos/ReproduccionesDeEtiquetas (3).txt",
-                            arrFechaCanal,arrCodeCharCanal,arrCodeIntCanal,
+                            arrCodeCharCanal,arrCodeIntCanal,
                             arrRatingCanal,nroCanales,
                             arrCodeEtiqueta,arrTiempoDurEtiqueta,nroEtiquetas,
+                            arrSumaRatingCanalLigadoEtiqueta,arrCantCanalLigadoEtiqueta,
                             arrCodeCharEtiquetaCanal,arrCodeIntEtiquetaCanal,
-                            arrCodeEtiquetaCanal,nroEtiquetaCanal,
+                            arrCodeEtiquetaCanal,nroEtiquetaCanal,arrRatingCanalEtiquetaCanal,
                             arrNroTotalReproCanal,arrTiempoTotalReproCanal,
-                            arrNroTotalReproCanalGlobal,arrTiempoTotalReproCanalGlobal);
+                            arrNroTotalReproCanalGlobal,arrTiempoTotalReproCanalGlobal,arrIngresoPorReproEtiqueta,tarifaDur);
 
 
     //Reporte.txt
     //Ordenar
     //GenerarReporte
+    generarReporte("ArchivoDeReportes/ReporteTwitch.txt",
+                arrCodeCharCanal,arrCodeIntCanal,
+                arrRatingCanal,nroCanales,
+                arrCodeEtiqueta,arrTiempoDurEtiqueta,nroEtiquetas,
+                arrSumaRatingCanalLigadoEtiqueta,arrCantCanalLigadoEtiqueta,
+                arrCodeCharEtiquetaCanal,arrCodeIntEtiquetaCanal,
+                arrCodeEtiquetaCanal,nroEtiquetaCanal,arrRatingCanalEtiquetaCanal,
+                arrNroTotalReproCanal,arrTiempoTotalReproCanal,
+                arrNroTotalReproCanalGlobal,arrTiempoTotalReproCanalGlobal,arrIngresoPorReproEtiqueta,tarifaDur);
+
 
     return 0;
 }
