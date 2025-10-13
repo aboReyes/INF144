@@ -21,6 +21,9 @@ void aperturaArchivoEscritura(const char* nombArch,ofstream& arch);
 void leerLibros(const char* nombArchLibros,int *arrCodeLibro,
                 double *arrPrecioLibro,int &cantLibros);
 
+void insertarOrdenado(int codeLibro,double precioLibro,int* arrCodeLibro,
+                        double *arrPrecioLibro,int &cantLibros);
+
 void ordenarLibros(int *arrCodeLibro,
                 double *arrPrecioLibro,int cantLibros);
 
