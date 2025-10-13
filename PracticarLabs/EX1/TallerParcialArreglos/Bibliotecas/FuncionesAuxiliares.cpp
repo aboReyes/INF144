@@ -25,18 +25,34 @@ void leerLibros(const char* nombArchLibros,int *arrCodeLibro,
     ifstream archLibros;
     aperturaArchivoLectura(nombArchLibros,archLibros);
     int codeLibro;
+    double precioLibro;
     while (true) {
         archLibros>>codeLibro;
         if (archLibros.eof()) break;
         ignorar(archLibros,']',true);
         ignorar(archLibros,'*',true);
-        archLibros>>arrPrecioLibro[cantLibros];
-        arrCodeLibro[cantLibros]=codeLibro;
-        cantLibros++;
+        archLibros>>precioLibro;
+        insertarOrdenado(codeLibro,precioLibro,arrCodeLibro,arrPrecioLibro,cantLibros);
     }
     //cout<<"hay "<<cantLibros<<endl;
 }
 
+void insertarOrdenado(int codeLibro,double precioLibro,int* arrCodeLibro,
+                        double *arrPrecioLibro,int &cantLibros) {
+    int i=cantLibros-1;
+    //comienza a ordenar
+    while (i>=0 and arrPrecioLibro[i]>precioLibro) {
+        arrCodeLibro[i+1]=arrCodeLibro[i];
+        arrPrecioLibro[i+1]=arrPrecioLibro[i];
+        i--;
+    }
+    //cuando empieza no entran al while y los registra con lo leimos
+    arrCodeLibro[i+1]=codeLibro;
+    arrPrecioLibro[i+1]=precioLibro;
+    cantLibros++;
+}
+
+//otro método de ordenamiento pero en este caso, es por separado. En mi caso, utilizé el leerInsertarOrdenado
 void ordenarLibros(int *arrCodeLibro,
                 double *arrPrecioLibro,int cantLibros) {
     for(int i=0;i<cantLibros-1;i++) {
