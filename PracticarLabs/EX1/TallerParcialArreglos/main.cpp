@@ -1,7 +1,7 @@
 /*
 *Autor: Diego Axel Lopez Reyes
 *Titulo:
-*Fecha y Hora: me demoré 2:30 horas :c
+*Fecha y Hora: 10:43
 */
 
 #include "Bibliotecas/FuncionesAuxiliares.h"
@@ -15,8 +15,8 @@ int main(int argc, char **argv) {
 
     leerLibros("ArchivoDeDatos/libros (1).txt",arrCodeLibro,
                 arrPrecioLibro,cantLibros);
-    ordenarLibros(arrCodeLibro,
-                arrPrecioLibro,cantLibros);
+    /*ordenarLibros(arrCodeLibro,
+                arrPrecioLibro,cantLibros);*/
     repPruebaLibros("ArchivoDeReporte/ReportePruebaLibros.txt",arrCodeLibro,
                 arrPrecioLibro,cantLibros);
 
