@@ -16,6 +16,11 @@ int main() {
         arrCodeStream,arrDurStream,arrCodeIdiomaStream,
         arrCharCatIdiomaStream,arrIntCatIdiomaStream,cantStreams);
 
+    pruebaStreams("ArchivoDeReportes/PruebaStreams.txt",
+        arrCodeStream,arrDurStream,arrCodeIdiomaStream,
+        arrCharCatIdiomaStream,arrIntCatIdiomaStream,
+        cantStreams);
+
 
     //Canales.txt
     //1/10/2022    A1911    AdmiralBulldog
@@ -23,30 +28,53 @@ int main() {
     //738184    1/9/2025    15:13:35    3.38    0.628
     //929142    18/8/2025    5:22:57    3.78    0.320
 
-    int arrFechaCanal[MAX_STREAMS]{};
     char arrCodeCharCanal[MAX_STREAMS]{};
     int arrCodeIntCanal[MAX_STREAMS]{};
     int arrFechaAntiguaCanal[MAX_STREAMS]{};
     int arrFechaRecienteCanal[MAX_STREAMS]{};
     double arrRatingPromCanal[MAX_STREAMS]{};
     double arrTasaDropPromCanal[MAX_STREAMS]{};
-    int arrDurStreamCanal[MAX_STREAMS]{};
+    int arrCantReproducciones[MAX_STREAMS]{};
+    int arrDurTotalReproducciones[MAX_STREAMS]{};
 
-    procesarCanales("ArchivoDeDatos/Canales.txt",arrCodeStream,
-                    arrFechaCanal,arrCodeCharCanal,arrCodeIntCanal,
+   procesarCanales("ArchivoDeDatos/Canales (4).txt",
+                    arrCodeStream,arrDurStream,
+                    arrCodeCharCanal,arrCodeIntCanal,
                     arrFechaAntiguaCanal,arrFechaRecienteCanal,
                     arrRatingPromCanal,arrTasaDropPromCanal,
-                    arrDurStreamCanal,cantStreams);
+                    arrCantReproducciones,arrDurTotalReproducciones,
+                    cantStreams);
 
 
     //Reporte sin ordenar
 
-    reporteStreams("ArchivoDeReportes/Reproducciones-Streams.txt",
-                    arrCodeStream,arrCodeIdiomaStream,
-                    arrCharCatIdiomaStream,arrIntCatIdiomaStream,
+    imprimirReporte("ArchivoDeReportes/Reproducciones-Streams.txt",
+                    arrCodeStream,arrDurStream,arrCodeIdiomaStream,
+                    arrCharCatIdiomaStream,arrIntCatIdiomaStream,cantStreams,
                     arrFechaAntiguaCanal,arrFechaRecienteCanal,
                     arrRatingPromCanal,arrTasaDropPromCanal,
-                    arrDurStreamCanal,cantStreams);
+                    arrCantReproducciones,arrDurTotalReproducciones,
+                    true);
+
+    //Ordenando el reporte
+
+    ordenacion(arrCodeStream,arrDurStream,arrCodeIdiomaStream,
+                arrCharCatIdiomaStream,arrIntCatIdiomaStream,cantStreams,
+                arrFechaAntiguaCanal,arrFechaRecienteCanal,
+                arrRatingPromCanal,arrTasaDropPromCanal,
+                arrCantReproducciones,arrDurTotalReproducciones);
+
+    //Reporte ordenado
+
+    imprimirReporte("ArchivoDeReportes/Reproducciones-Streams-Ordenado.txt",
+                    arrCodeStream,arrDurStream,arrCodeIdiomaStream,
+                    arrCharCatIdiomaStream,arrIntCatIdiomaStream,cantStreams,
+                    arrFechaAntiguaCanal,arrFechaRecienteCanal,
+                    arrRatingPromCanal,arrTasaDropPromCanal,
+                    arrCantReproducciones,arrDurTotalReproducciones,
+                    false);
+
+
 
     return 0;
 }
