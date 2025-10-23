@@ -39,7 +39,7 @@ void ordenar(int *arr1,char* arr2,double* arr3,int cant) {
 
 void leerInsertarOrdenado(const char* nombArch,
                         int* arrDato1,double* arrDato2,
-                        char* arrDato3,int cantDatos) {
+                        char* arrDato3,int &cantDatos) {
     ifstream input;
     aperturaArchivoLectura(nombArch,input);
     //dato1  dato2  dato3
@@ -60,7 +60,7 @@ void insertarOrdenado(int dato1,double dato2,char dato3,
                     int* arrDato1,double* arrDato2,char* arrDato3,
                     int &cantDatos) {
     int i=cantDatos-1;
-    while (i>0 and arrDato1[i]<dato1) { //condición
+    while (i>=0 and arrDato1[i]<dato1) { //condición
         arrDato1[i+1]=arrDato1[i];
         arrDato2[i+1]=arrDato2[i];
         arrDato3[i+1]=arrDato3[i];
