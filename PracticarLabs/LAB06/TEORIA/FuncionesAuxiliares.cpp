@@ -76,15 +76,15 @@ void insertarOrdenado(int dato1,double dato2,char dato3,
 int buscarBinario(int dato1,int* arrDato1,int cant) {
     int limiteInferior=0;
     int limiteSuperior=cant-1;
-    //puntoMedio=posEncontrada
+    int puntoMedio;
     while (true) {
         if (limiteInferior>limiteSuperior) return -1;
-        int puntoMedio=(limiteInferior+limiteSuperior)/2;
+        puntoMedio=(limiteInferior+limiteSuperior)/2;
         if (dato1==arrDato1[puntoMedio]) return puntoMedio;
         if (dato1>arrDato1[puntoMedio])
-            limiteInferior=puntoMedio;
+            limiteInferior=puntoMedio+1;
         else
-            limiteSuperior=puntoMedio;
+            limiteSuperior=puntoMedio-1;
     }
 }
 
