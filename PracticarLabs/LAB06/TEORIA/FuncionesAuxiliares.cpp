@@ -60,7 +60,7 @@ void insertarOrdenado(int dato1,double dato2,char dato3,
                     int* arrDato1,double* arrDato2,char* arrDato3,
                     int &cantDatos) {
     int i=cantDatos-1;
-    while (i>=0 and arrDato1[i]<dato1) { //condición
+    while (i>=0 and arrDato1[i]<dato1) { //condición (se puede usar multicriterio)
         arrDato1[i+1]=arrDato1[i];
         arrDato2[i+1]=arrDato2[i];
         arrDato3[i+1]=arrDato3[i];
