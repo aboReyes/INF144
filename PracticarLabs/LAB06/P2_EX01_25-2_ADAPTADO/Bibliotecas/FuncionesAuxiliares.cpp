@@ -1,142 +1,135 @@
 //
-// Created by ASUS on 24/10/2025.
+// Created by ASUS on 26/10/2025.
 //
 
 #include "FuncionesAuxiliares.h"
 
-void aperturaArchivoLectura(const char* nombArch,ifstream& arch) {
+
+void aperturaArchivosLectura(const char* nombArch,ifstream& arch) {
     arch.open(nombArch,ios::in);
     if (not arch.is_open()) {
-        cout<<"ERROR, el archivo "<< nombArch <<" no se puede abrir"<<endl;
+        cout<<"ERROR, el archivo "<<nombArch<<" no se puede abrir "<<endl;
         exit(1);
     }
 }
 
-void aperturaArchivoEscritura(const char* nombArch,ofstream& arch) {
+void aperturaArchivosEscritura(const char* nombArch,ofstream& arch) {
     arch.open(nombArch,ios::out);
     if (not arch.is_open()) {
-        cout<<"ERROR, el archivo "<< nombArch <<" no se puede abrir"<<endl;
+        cout<<"ERROR, el archivo "<<nombArch<<" no se puede abrir "<<endl;
         exit(1);
     }
 }
 
-void cargarStreams(const char* nombArchStreams,
-        int *arrCodeStream,int *arrDurStream,int *arrCodeIdiomaStream,
-        char *arrLetraCatIdiomaStream,int *arrNumCatIdiomaStream,
-        int &cantStreams) {
+void cargarStreams(const char*nombArchStreams,
+        int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
+        char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int &cantStreams) {
     //803100    1:22:25    4003    C1072
     ifstream archStreams;
-    int codeStream,durStream,codeIdioma,numCatIdioma;
-    char letraCatIdioma;
-    aperturaArchivoLectura(nombArchStreams,archStreams);
+    int codeStream,durStream,codeIdioma,codeIntCatIdioma;
+    char codeCharCatIdioma;
+    aperturaArchivosLectura(nombArchStreams,archStreams);
     while (true) {
         archStreams>>codeStream;
         if (archStreams.eof()) break;
         durStream=leerTiempo(archStreams);
         archStreams>>codeIdioma;
-        archStreams>>letraCatIdioma>>numCatIdioma;
+        archStreams>>codeCharCatIdioma>>codeIntCatIdioma;
         insertarOrdenado(codeStream,durStream,codeIdioma,
-                        letraCatIdioma,numCatIdioma,
-                        arrCodeStream,arrDurStream,arrCodeIdiomaStream,
-                        arrLetraCatIdiomaStream,arrNumCatIdiomaStream,
-                        cantStreams);
+            codeCharCatIdioma,codeIntCatIdioma,
+            arrCodeStream,arrDurStream,arrCodeIdioma,
+            arrCodeCharCatIdioma,arrCodeIntCatIdioma,cantStreams);
     }
 }
 
 void insertarOrdenado(int codeStream,int durStream,int codeIdioma,
-                    char letraCatIdioma,int numCatIdioma,
-                    int *arrCodeStream,int *arrDurStream,
-                    int *arrCodeIdiomaStream,
-                    char *arrLetraCatIdiomaStream,int *arrNumCatIdiomaStream,
-                    int &cantStreams) {
+            char codeCharCatIdioma,int codeIntCatIdioma,
+            int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
+            char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int &cantStreams){
     int i=cantStreams-1;
-    while (i>=0 and arrCodeStream[i]>codeStream) {
+    while (i>=0 and codeStream<arrCodeStream[i]) {
         arrCodeStream[i+1]=arrCodeStream[i];
         arrDurStream[i+1]=arrDurStream[i];
-        arrCodeIdiomaStream[i+1]=arrCodeIdiomaStream[i];
-        arrLetraCatIdiomaStream[i+1]=arrLetraCatIdiomaStream[i];
-        arrNumCatIdiomaStream[i+1]=arrNumCatIdiomaStream[i];
+        arrCodeIdioma[i+1]=arrCodeIdioma[i];
+        arrCodeCharCatIdioma[i+1]=arrCodeCharCatIdioma[i];
+        arrCodeIntCatIdioma[i+1]=arrCodeIntCatIdioma[i];
         i--;
     }
     arrCodeStream[i+1]=codeStream;
     arrDurStream[i+1]=durStream;
-    arrCodeIdiomaStream[i+1]=codeIdioma;
-    arrLetraCatIdiomaStream[i+1]=letraCatIdioma;
-    arrNumCatIdiomaStream[i+1]=numCatIdioma;
+    arrCodeIdioma[i+1]=codeIdioma;
+    arrCodeCharCatIdioma[i+1]=codeCharCatIdioma;
+    arrCodeIntCatIdioma[i+1]=codeIntCatIdioma;
     cantStreams++;
 }
 
 void pruebaStreams(const char* nombArchRep,
-                    int *arrCodeStream,int *arrDurStream,int *arrCodeIdiomaStream,
-                    char *arrLetraCatIdiomaStream,int *arrNumCatIdiomaStream,
-                    int cantStreams) {
+            int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
+            char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int cantStreams){
     //803100    1:22:25    4003    C1072
     ofstream output;
-    aperturaArchivoEscritura(nombArchRep,output);
-    imprimirSubtituloPruebaStreams(output);
+    aperturaArchivosEscritura(nombArchRep,output);
+    imprimirSubtituloReportePrueba(output);
     for (int i=0;i<cantStreams;i++) {
         output<<setw(10)<<right<<arrCodeStream[i];
-        output<<setw(10)<<" ";imprimirTiempo(output,arrDurStream[i]);
-        output<<setw(20)<<right<<arrCodeIdiomaStream[i];
-        output<<setw(15)<<right<<arrLetraCatIdiomaStream[i]<<arrNumCatIdiomaStream[i]<<endl;
+        output<<setw(10)<<" "; imprimirTiempo(output,arrDurStream[i]);
+        output<<setw(20)<<right<<arrCodeIdioma[i];
+        output<<setw(15)<<right<<arrCodeCharCatIdioma[i]<<arrCodeIntCatIdioma[i]<<endl;
     }
 }
 
-void procesarCanales(const char* nombArchCanales,
+void procesarCanales(const char* nombArch,
         int *arrCodeStream,int *arrDurStream,int cantStreams,
         int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
-        double *arrPromRatingCanal,double *arrPromDropCanal,
+        double *arrPromDropCanal,double *arrPromRatingCanal,
         int *arrCantReproCanal,int *arrTiempoTotalReproCanal) {
     //1/10/2022    A1911    AdmiralBulldog
-    //estos se repiten:
     //738184    1/9/2025    15:13:35    3.38    0.628
     //929142    18/8/2025    5:22:57    3.78    0.320
-    ifstream archCanales;
-    int fechaCreCanal,numCanal,codeStream,posStream,fechaStream,durStream;
+    ifstream input;
+    int fechaCreCanal,codeIntCanal,codeStream,fechaReproCanal,durStreamCanal,posStream;
     double rating,drop;
-    char letraCanal;
-    aperturaArchivoLectura(nombArchCanales,archCanales);
+    char codeCharCanal;
+    aperturaArchivosLectura(nombArch,input);
     while (true) {
-        fechaCreCanal=leerFecha(archCanales);
-        if (archCanales.eof()) break;
-        archCanales>>letraCanal>>numCanal;
-        ignorar(archCanales,' ');
+        fechaCreCanal=leerFecha(input);
+        if (input.eof()) break;
+        input>>codeCharCanal>>codeIntCanal;
+        ignorar(input,' ');
         while (true) {
-            archCanales>>codeStream;
-            fechaStream=leerFecha(archCanales);
-            durStream=leerTiempo(archCanales);
-            archCanales>>rating>>drop;
-            posStream=buscarBinario(codeStream,arrCodeStream,cantStreams);
+            input>>codeStream;
+            fechaReproCanal=leerFecha(input);
+            durStreamCanal=leerTiempo(input);
+            input>>rating>>drop;
+            posStream=busquedaBinaria(codeStream,arrCodeStream,cantStreams);
             if (posStream!=NO_ENCONTRADO) {
-                if (arrCantReproCanal[posStream]==0) {
-                    arrFechaAntiguaCanal[posStream]=fechaStream;
-                    arrFechaRecienteCanal[posStream]=fechaStream;
+                if (arrCantReproCanal[posStream]==0 or
+                    fechaReproCanal<arrFechaAntiguaCanal[posStream]){
+                    arrFechaAntiguaCanal[posStream]=fechaReproCanal;
                 }
-                if (fechaStream<arrFechaAntiguaCanal[posStream]) {
-                    arrFechaAntiguaCanal[posStream]=fechaStream;
+                if (arrCantReproCanal[posStream]==0 or
+                    fechaReproCanal>arrFechaRecienteCanal[posStream]) {
+                    arrFechaRecienteCanal[posStream]=fechaReproCanal;
                 }
-                if (fechaStream>arrFechaAntiguaCanal[posStream]) {
-                    arrFechaRecienteCanal[posStream]=fechaStream;
-                }
-                arrPromRatingCanal[posStream]+=rating;
                 arrPromDropCanal[posStream]+=drop;
+                arrPromRatingCanal[posStream]+=rating;
                 arrCantReproCanal[posStream]++;
             }
-            if (archCanales.get()=='\n') break;
+            if (input.get()=='\n') break;
         }
     }
     for (int i=0;i<cantStreams;i++) {
         if (arrCantReproCanal[i]>0) {
             arrPromRatingCanal[i]+=arrPromRatingCanal[i]/arrCantReproCanal[i];
             arrPromDropCanal[i]+=arrPromDropCanal[i]/arrCantReproCanal[i];
-            arrTiempoTotalReproCanal[i]+=arrDurStream[i]*arrCantReproCanal[i];
+            arrTiempoTotalReproCanal[i]+=arrDurStream[i]/arrCantReproCanal[i];
         }
     }
 }
 
-int buscarBinario(int codeStream,int *arrCodeStream,int cantStream) {
+int busquedaBinaria(int codeStream,int *arrCodeStream,int cantStreams) {
     int limiteInferior=0;
-    int limiteSuperior=cantStream-1;
+    int limiteSuperior=cantStreams-1;
     int puntoMedio;
     while (true) {
         if (limiteInferior>limiteSuperior) return NO_ENCONTRADO;
@@ -150,83 +143,100 @@ int buscarBinario(int codeStream,int *arrCodeStream,int cantStream) {
     }
 }
 
-void reporteStream(const char* nombArchRep,
-            int *arrCodeStream,int *arrCodeIdiomaStream,
-            char *arrLetraCatIdiomaStream,int *arrNumCatIdiomaStream,
-            int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
-            double*arrPromRatingCanal,double*arrPromDropCanal,int *arrDurStream,
-            int *arrCantReproCanal,int *arrTiempoTotalReproCanal,
-            int cantStreams,bool esOrdenado) {
+void imprimirReporte(const char *nombArchRep,
+        int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
+        char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int cantStreams,
+        int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
+        double *arrPromDropCanal,double *arrPromRatingCanal,
+        int *arrCantReproCanal,int *arrTiempoTotalReproCanal,
+        bool ordenado) {
     ofstream output;
-    int mayorTiempo=0,menorTiempo=99999,codeMayor,codeMenor;
-    aperturaArchivoEscritura(nombArchRep,output);
-    imprimirCabeceraReporte(output);
+    int mayorCode,mayorDur=0,menorCode,menorDur=999999;
+    aperturaArchivosEscritura(nombArchRep,output);
+    imprimirLineas('=',170,output);
+    output<<setw(65)<<" "<<"PLATAFORMA DE STREAMING TP"<<endl;
+    if (ordenado) {
+        output<<setw(55)<<" "<<"DETALLE COMPLETO DE REPRODUCCIONES DE STREAMS";
+        output<<" ORDENADO POR IDIOMA Y TASA DROP-OFF."<<endl;
+    }else {
+        output<<setw(55)<<" "<<"DETALLE COMPLETO DE REPRODUCCIONES DE STREAMS"<<endl;
+    }
+    imprimirLineas('=',170,output);
+    imprimirSubtituloReporteFinal(output);
     output<<fixed<<setprecision(2);
     for (int i=0;i<cantStreams;i++) {
-        output<<arrCodeStream[i];
-        output<<setw(10)<<right<<arrCodeIdiomaStream[i];
-        output<<setw(8)<<right<<arrLetraCatIdiomaStream[i]<<arrNumCatIdiomaStream[i];
+        output<<setw(10)<<right<<arrCodeStream[i];
+        output<<setw(13)<<right<<arrCodeIdioma[i];
+        output<<setw(10)<<right<<arrCodeCharCatIdioma[i]<<arrCodeIntCatIdioma[i];
         if (arrCantReproCanal[i]==0) {
             imprimirGuiones(output);
-            output<<setw(15)<<" ";imprimirTiempo(output,arrDurStream[i]);
-            output<<setw(12)<<right<<arrCantReproCanal[i];
-            output<<setw(8)<<" ";imprimirTiempo(output,arrTiempoTotalReproCanal[i]);
-            output<<endl;
         }else {
-            output<<setw(8)<<" "; imprimirFecha(output,arrFechaAntiguaCanal[i]);
-            output<<setw(8)<<" "; imprimirFecha(output,arrFechaRecienteCanal[i]);
-            output<<setw(11)<<right<<arrPromRatingCanal[i];
-            output<<setw(17)<<right<<arrPromDropCanal[i];
-            output<<setw(15)<<" "; imprimirTiempo(output,arrDurStream[i]);
-            output<<setw(12)<<right<<arrCantReproCanal[i];
-            output<<setw(8)<<" "; imprimirTiempo(output,arrTiempoTotalReproCanal[i]);
-            output<<endl;
+            output<<setw(11)<<" ";imprimirFecha(output,arrFechaAntiguaCanal[i]);
+            output<<setw(11)<<" ";imprimirFecha(output,arrFechaRecienteCanal[i]);
+            output<<setw(17)<<right<<arrPromRatingCanal[i];
+            output<<setw(20)<<right<<arrPromDropCanal[i];
         }
-
-        if (mayorTiempo<arrDurStream[i]) {
-            mayorTiempo=arrDurStream[i];
-            codeMayor=arrCodeStream[i];
+        output<<setw(17)<<" ";imprimirTiempo(output,arrDurStream[i]);
+        output<<setw(11)<<right<<arrCantReproCanal[i];
+        output<<setw(9)<<" ";imprimirTiempo(output,arrTiempoTotalReproCanal[i]);
+        output<<endl;
+        if (mayorDur<arrDurStream[i]) {
+            mayorDur=arrDurStream[i];
+            mayorCode=arrCodeStream[i];
         }
-        if (menorTiempo>arrDurStream[i]) {
-            menorTiempo=arrDurStream[i];
-            codeMenor=arrCodeStream[i];
+        if (menorDur>arrDurStream[i]) {
+            menorDur=arrDurStream[i];
+            menorCode=arrCodeStream[i];
         }
     }
-    if (esOrdenado) {
-        imprimirResumen(output,mayorTiempo,codeMayor,menorTiempo,codeMenor);
+    if (not ordenado){
+        imprimirResumen(output,mayorDur,mayorCode,menorDur,menorCode);
     }
 }
 
-void imprimirResumen(ofstream& output,int mayorTiempo,int codeMayor,
-                    int menorTiempo,int codeMenor) {
-    imprimirLineas('-',150,output);
-    output<<"RESUMEN:"<<endl;
-    output<<"STREAM CON MAYOR DURACION: "<<setw(15)<<right<<codeMayor<<" - ";
-    imprimirTiempo(output,mayorTiempo); output<<" hrs"<<endl;
-    output<<"STREAM CON MENOR DURACION: "<<setw(15)<<right<<codeMenor<<" - ";
-    imprimirTiempo(output,menorTiempo);
-    output<<" hrs"<<endl;
-    imprimirLineas('=',150,output);
+void ordenarReporte(int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
+        char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int cantStreams,
+        int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
+        double *arrPromDropCanal,double *arrPromRatingCanal,
+        int *arrCantReproCanal,int *arrTiempoTotalReproCanal) {
+    for (int i=0;i<cantStreams-1;i++) {
+        for (int j=i+1;j<cantStreams;j++) {
+            if (arrCodeIdioma[i]<arrCodeIdioma[j] or
+                arrCodeIdioma[i]==arrCodeIdioma[j] and
+                arrPromDropCanal[i]>arrPromDropCanal[j]) {
+                swapInt(arrCodeStream[i],arrCodeStream[j]);
+                swapInt(arrDurStream[i],arrDurStream[j]);
+                swapInt(arrCodeIdioma[i],arrCodeIdioma[j]);
+                swapChar(arrCodeCharCatIdioma[i],arrCodeCharCatIdioma[j]);
+                swapInt(arrCodeIntCatIdioma[i],arrCodeIntCatIdioma[j]);
+                swapInt(arrFechaAntiguaCanal[i],arrFechaAntiguaCanal[j]);
+                swapInt(arrFechaRecienteCanal[i],arrFechaRecienteCanal[j]);
+                swapDouble(arrPromRatingCanal[i],arrPromRatingCanal[j]);
+                swapDouble(arrPromDropCanal[i],arrPromDropCanal[j]);
+                swapInt(arrCantReproCanal[i],arrCantReproCanal[j]);
+                swapInt(arrTiempoTotalReproCanal[i],arrTiempoTotalReproCanal[j]);
+            }
+        }
+    }
 }
 
-void eliminar(int *arrCodeStream,int *arrCodeIdiomaStream,
-            char *arrLetraCatIdiomaStream,int *arrNumCatIdiomaStream,
-            int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
-            double *arrPromRatingCanal,double *arrPromDropCanal,int *arrDurStream,
-            int *arrCantReproCanal,int *arrTiempoTotalReproCanal,
-            int cantStreams) {
-    for (int i=0;i<cantStreams;) {
+void eliminar(int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
+        char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int cantStreams,
+        int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
+        double *arrPromDropCanal,double *arrPromRatingCanal,
+        int *arrCantReproCanal,int *arrTiempoTotalReproCanal) {
+    for (int i=0;i<cantStreams-1;) {
         if (arrCantReproCanal[i]==0) {
             for (int j=i+1;j<cantStreams;j++) {
                 arrCodeStream[j-1]=arrCodeStream[j];
-                arrCodeIdiomaStream[j-1]=arrCodeIdiomaStream[j];
-                arrLetraCatIdiomaStream[j-1]=arrLetraCatIdiomaStream[j];
-                arrNumCatIdiomaStream[j-1]=arrNumCatIdiomaStream[j];
+                arrDurStream[j-1]=arrDurStream[j];
+                arrCodeIdioma[j-1]=arrCodeIdioma[j];
+                arrCodeCharCatIdioma[j-1]=arrCodeCharCatIdioma[j];
+                arrCodeIntCatIdioma[j-1]=arrCodeIntCatIdioma[j];
                 arrFechaAntiguaCanal[j-1]=arrFechaAntiguaCanal[j];
                 arrFechaRecienteCanal[j-1]=arrFechaRecienteCanal[j];
-                arrPromRatingCanal[j-1]=arrPromRatingCanal[j];
                 arrPromDropCanal[j-1]=arrPromDropCanal[j];
-                arrDurStream[j-1]=arrDurStream[j];
+                arrPromRatingCanal[j-1]=arrPromRatingCanal[j];
                 arrCantReproCanal[j-1]=arrCantReproCanal[j];
                 arrTiempoTotalReproCanal[j-1]=arrTiempoTotalReproCanal[j];
             }
@@ -236,38 +246,82 @@ void eliminar(int *arrCodeStream,int *arrCodeIdiomaStream,
     }
 }
 
+void swapInt(int &a,int&b) {
+    int temp=a;
+    a=b;
+    b=temp;
+}
 
-void ordenarReporte(int *arrCodeStream,int *arrCodeIdiomaStream,
-            char *arrLetraCatIdiomaStream,int *arrNumCatIdiomaStream,
-            int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
-            double *arrPromRatingCanal,double *arrPromDropCanal,int *arrDurStream,
-            int *arrCantReproCanal,int *arrTiempoTotalReproCanal,
-            int cantStreams) {
-    for (int i=0;i<cantStreams-1;i++) {
-        for (int j=i+1;j<cantStreams;j++) {
-            if (arrCodeIdiomaStream[i]>arrCodeIdiomaStream[j] or
-                arrCodeIdiomaStream[i]==arrCodeIdiomaStream[j] and
-                arrPromDropCanal[i]<arrPromDropCanal[j]) {//Condición del problema
-                swapInt(arrCodeStream[i],arrCodeStream[j]);
-                swapInt(arrCodeIdiomaStream[i],arrCodeIdiomaStream[j]);
-                swapChar(arrLetraCatIdiomaStream[i],arrLetraCatIdiomaStream[j]);
-                swapInt(arrNumCatIdiomaStream[i],arrNumCatIdiomaStream[j]);
-                swapInt(arrFechaAntiguaCanal[i],arrFechaAntiguaCanal[j]);
-                swapInt(arrFechaRecienteCanal[i],arrFechaRecienteCanal[j]);
-                swapDouble(arrPromRatingCanal[i],arrPromRatingCanal[j]);
-                swapDouble(arrPromDropCanal[i],arrPromDropCanal[j]);
-                swapInt(arrDurStream[i],arrDurStream[j]);
-                swapInt(arrCantReproCanal[i],arrCantReproCanal[j]);
-                swapInt(arrTiempoTotalReproCanal[i],arrTiempoTotalReproCanal[j]);
-            }
-        }
+void swapChar(char &a,char&b) {
+    char temp=a;
+    a=b;
+    b=temp;
+}
+void swapDouble(double &a,double&b) {
+    double temp=a;
+    a=b;
+    b=temp;
+}
+void imprimirResumen(ofstream&output,
+    int mayorDur,int mayorCode,int menorDur,int menorCode) {
+    imprimirLineas('-',170,output);
+    output<<"RESUMEN:"<<endl;
+    output<<"STREAM CON MAYOR DURACION: "<<setw(15)<<right<<mayorCode<<" - ";
+    imprimirTiempo(output,mayorDur); output<<" hrs"<<endl;
+    output<<"STREAM CON MENOR DURACION: "<<setw(15)<<right<<menorCode<<" - ";;
+    imprimirTiempo(output,menorDur); output<<" hrs"<<endl;
+    imprimirLineas('=',170,output);
+}
+
+void imprimirGuiones(ofstream& output) {
+    output<<setw(21)<<right<<"----------";
+    output<<setw(21)<<right<<"----------";
+    output<<setw(17)<<right<<"-----";
+    output<<setw(20)<<right<<"-----";
+}
+
+void imprimirSubtituloReporteFinal(ofstream& output) {
+    output<<setw(10)<<right<<"STREAM";
+    output<<setw(15)<<right<<"IDIOMA";
+    output<<setw(15)<<right<<"CATEGORIA";
+    output<<setw(20)<<right<<"REP.ANTIGUA";
+    output<<setw(20)<<right<<"REP.RECIENTE";
+    output<<setw(20)<<right<<"PROM.RAT.CAL";
+    output<<setw(25)<<right<<"PROM.TASA.DROP-OFF";
+    output<<setw(15)<<right<<"DURAC.";
+    output<<setw(15)<<right<<"#REPR.";
+    output<<setw(15)<<right<<"TOT.REPR."<<endl;
+    imprimirLineas('-',170,output);
+}
+
+void imprimirSubtituloReportePrueba(ofstream& output) {
+    output<<setw(25)<<" "<<"REPORTE DE PRUEBA STREAMS"<<endl;
+    imprimirLineas('=',80,output);
+    output<<setw(10)<<right<<"CODIGO STREAM";
+    output<<setw(20)<<right<<"DURACION STREAM";
+    output<<setw(20)<<right<<"CODIGO IDIOMA";
+    output<<setw(20)<<right<<"CATEGORIA IDIOMA"<<endl;
+    imprimirLineas('-',80,output);
+}
+
+void imprimirLineas(char c,int cant,ofstream&output) {
+    for (int i=0;i<cant;i++) output << c;
+    output << endl;
+}
+
+void ignorar(ifstream& input,char delimitador) {
+    char c;
+    input>>ws;
+    while (true) {
+        c=input.get();
+        if (c==delimitador) break;
     }
 }
 
 int leerFecha(ifstream& input) {
     int dd,mm,yyyy;
     char c;
-    input>>dd>>c>>mm>>c>>yyyy;
+    input >> dd>>c>>mm>>c>>yyyy;
     return yyyy*10000+mm*100+dd;
 }
 
@@ -285,16 +339,7 @@ void imprimirFecha(ofstream& output,int fecha) {
     output.fill(' ');
 }
 
-void ignorar(ifstream& input,char delimitador) {
-    char c;
-    input>>ws;
-    while (true) {
-        c=input.get();
-        if (c==delimitador) break;
-    }
-}
-
-int leerTiempo(ifstream& input) {
+int leerTiempo(ifstream&input) {
     int hh,mm,ss;
     char c;
     input>>hh>>c>>mm>>c>>ss;
@@ -313,66 +358,6 @@ void imprimirTiempo(ofstream& output,int tiempo) {
     output<<setw(2)<<right<<mm<<":";
     output<<setw(2)<<right<<ss;
     output.fill(' ');
-
-}
-
-//////
-
-void imprimirSubtituloPruebaStreams(ofstream& output) {
-    //803100    1:22:25    4003    C1072
-    output<<setw(25)<<" "<<"REPORTE DE PRUEBA STREAMS"<<endl;
-    imprimirLineas('=',80,output);
-    output<<"CODIGO STREAM";
-    output<<setw(20)<<right<<"DURACION STREAM";
-    output<<setw(20)<<right<<"CODIGO IDIOMA";
-    output<<setw(20)<<right<<"CATEGORIA IDIOMA "<<endl;
 }
 
 
-void imprimirLineas(char c,int cant,ofstream& output) {
-    for (int i=0;i<cant;i++) output << c;
-    output << endl;
-}
-
-void swapInt(int &a,int &b) {
-    int aux=a;
-    a=b;
-    b=aux;
-}
-
-void swapChar(char &a,char &b) {
-    char aux=a;
-    a=b;
-    b=aux;
-}
-
-void swapDouble(double &a,double &b) {
-    double aux=a;
-    a=b;
-    b=aux;
-}
-
-void imprimirGuiones(ofstream& output) {
-    output<<setw(18)<<right<<"----------";
-    output<<setw(18)<<right<<"----------";
-    output<<setw(11)<<right<<"----";
-    output<<setw(17)<<right<<"----";
-}
-
-void imprimirCabeceraReporte(ofstream& output) {
-    imprimirLineas('=',150,output);
-    output<<setw(60)<<" "<<"PLATAFORMA DE STREAMING TP"<<endl;
-    output<<setw(55)<<" "<<"DETALLE COMPLETO DE REPRODUCCION DE STREAMS"<<endl;
-    imprimirLineas('=',150,output);
-    output<<"STREAM";
-    output<<setw(11)<<right<<"IDIOMA";
-    output<<setw(13)<<right<<"CATEGORIA";
-    output<<setw(17)<<right<<"REP.ANTIGUA";
-    output<<setw(18)<<right<<"REP.RECIENTE";
-    output<<setw(15)<<right<<"PROM.RAT.CAL";
-    output<<setw(20)<<right<<"PROM.TASA.DROP-OFF";
-    output<<setw(14)<<right<<"DURAC.";
-    output<<setw(15)<<right<<"#REPR.";
-    output<<setw(15)<<right<<"TOT.REPR."<<endl;
-    imprimirLineas('-',150,output);
-}
