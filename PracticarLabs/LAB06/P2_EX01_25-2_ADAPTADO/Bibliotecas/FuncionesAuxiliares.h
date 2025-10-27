@@ -1,86 +1,80 @@
 //
-// Created by ASUS on 24/10/2025.
+// Created by ASUS on 26/10/2025.
 //
 
-#ifndef P2_EX1_25_2_MODIFICADO_FUNCIONESAUXILIARES_H
-#define P2_EX1_25_2_MODIFICADO_FUNCIONESAUXILIARES_H
+#ifndef P2_HASTACANSARME_FUNCIONESAUXILIARES_H
+#define P2_HASTACANSARME_FUNCIONESAUXILIARES_H
 
 #include <iostream>
 #include <iomanip>
 #include <fstream>
 using namespace std;
-#define MAX_STREAMS 120
 #define NO_ENCONTRADO -1
+#define MAX_STREAMS 120
 
-//Modulos apertura de archivos
-void aperturaArchivoLectura(const char* nombArch,ifstream& arch);
-void aperturaArchivoEscritura(const char* nombArch,ofstream& arch);
+//ModulosAperturaDeArchvos
+void aperturaArchivosLectura(const char* nombArch,ifstream& arch);
+void aperturaArchivosEscritura(const char* nombArch,ofstream& arch);
 
-
-//Modulos principales
-void cargarStreams(const char* nombArchStreams,
-        int *arrCodeStream,int *arrDurStream,int *arrCodeIdiomaStream,
-        char *arrLetraCatIdiomaStream,int *arrNumCatIdiomaStream,
-        int &cantStreams);
+//ModulosPrincipales
+void cargarStreams(const char*nombArchStreams,
+        int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
+        char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int &cantStreams);
 
 void insertarOrdenado(int codeStream,int durStream,int codeIdioma,
-                    char letraCatIdioma,int numCatIdioma,
-                    int *arrCodeStream,int *arrDurStream,
-                    int *arrCodeIdiomaStream,
-                    char *arrLetraCatIdiomaStream,int *arrNumCatIdiomaStream,
-                    int &cantStreams);
+            char codeCharCatIdioma,int codeIntCatIdioma,
+            int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
+            char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int &cantStreams);
 
 void pruebaStreams(const char* nombArchRep,
-                    int *arrCodeStream,int *arrDurStream,int *arrCodeIdiomaStream,
-                    char *arrLetraCatIdiomaStream,int *arrNumCatIdiomaStream,
-                    int cantStreams);
+            int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
+            char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int cantStreams);
 
-void procesarCanales(const char* nombArchCanales,
+void procesarCanales(const char* nombArch,
         int *arrCodeStream,int *arrDurStream,int cantStreams,
         int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
-        double *arrPromRatingCanal,double *arrPromDropCanal,
+        double *arrPromDropCanal,double *arrPromRatingCanal,
         int *arrCantReproCanal,int *arrTiempoTotalReproCanal);
 
-int buscarBinario(int codeStream,int *arrCodeStream,int cantStream);
+int busquedaBinaria(int codeStream,int *arrCodeStream,int cantStreams);
 
-void reporteStream(const char* nombArchRep,
-            int *arrCodeStream,int *arrCodeIdiomaStream,
-            char *arrLetraCatIdiomaStream,int *arrNumCatIdiomaStream,
-            int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
-            double*arrPromRatingCanal,double*arrPromDropCanal,int *arrDurStream,
-            int *arrCantReproCanal,int *arrTiempoTotalReproCanal,
-            int cantStreams,bool esOrdenado);
+void imprimirReporte(const char *nombArchRep,
+        int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
+        char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int cantStreams,
+        int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
+        double *arrPromDropCanal,double *arrPromRatingCanal,
+        int *arrCantReproCanal,int *arrTiempoTotalReproCanal,
+        bool ordenado);
 
-void imprimirResumen(ofstream& output,int mayorTiempo,int codeMayor,
-                    int menorTiempo,int codeMenor);
+void ordenarReporte(int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
+        char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int cantStreams,
+        int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
+        double *arrPromDropCanal,double *arrPromRatingCanal,
+        int *arrCantReproCanal,int *arrTiempoTotalReproCanal);
 
-void eliminar(int *arrCodeStream,int *arrCodeIdiomaStream,
-            char *arrLetraCatIdiomaStream,int *arrNumCatIdiomaStream,
-            int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
-            double *arrPromRatingCanal,double *arrPromDropCanal,int *arrDurStream,
-            int *arrCantReproCanal,int *arrTiempoTotalReproCanal,
-            int cantStreams);
-
-void ordenarReporte(int *arrCodeStream,int *arrCodeIdiomaStream,
-            char *arrLetraCatIdiomaStream,int *arrNumCatIdiomaStream,
-            int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
-            double *arrPromRatingCanal,double *arrPromDropCanal,int *arrDurStream,
-            int *arrCantReproCanal,int *arrTiempoTotalReproCanal,
-            int cantStreams);
+void eliminar(int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
+        char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int cantStreams,
+        int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
+        double *arrPromDropCanal,double *arrPromRatingCanal,
+        int *arrCantReproCanal,int *arrTiempoTotalReproCanal);
 
 
-//Modulos auxiliares
-void imprimirLineas(char c,int cant,ofstream& output);
-void swapInt(int &a,int &b);
-void swapChar(char &a,char &b);
-void swapDouble(double &a,double &b);
+//ModulosAuxiliares
+void swapInt(int &a,int&b);
+void swapChar(char &a,char&b);
+void swapDouble(double &a,double&b);
+void imprimirResumen(ofstream&output,
+    int mayorDur,int mayorCode,int menorDur,int menorCode);
 void imprimirGuiones(ofstream& output);
-void imprimirCabeceraReporte(ofstream& output);
-void imprimirSubtituloPruebaStreams(ofstream& output);
-void imprimirFecha(ofstream& output,int fecha);
+void imprimirSubtituloReporteFinal(ofstream& output);
+void imprimirSubtituloReportePrueba(ofstream& output);
+void imprimirLineas(char c,int cant,ofstream&output);
 int leerFecha(ifstream& input);
-void ignorar(ifstream& input,char delimitador);
-int leerTiempo(ifstream& input);
+void imprimirFecha(ofstream& output,int fecha);
+int leerTiempo(ifstream&input);
 void imprimirTiempo(ofstream& output,int tiempo);
+void ignorar(ifstream& input,char delimitador);
 
-#endif //P2_EX1_25_2_MODIFICADO_FUNCIONESAUXILIARES_H
+
+
+#endif //P2_HASTACANSARME_FUNCIONESAUXILIARES_H
