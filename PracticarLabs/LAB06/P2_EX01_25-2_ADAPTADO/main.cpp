@@ -1,35 +1,34 @@
 /*
 *Autor: Diego Axel Lopez Reyes
-*Titulo:
-*Fecha y Hora:
+*Descripcion: Generaremos un reporte en base a los archivos txt seleccionados
+*donde usaremos la busqueda binaria e insertar ordenador, las cuales son herramientas
+*fundamentales para el manejo de arreglos y la correcta impresion de dicho reporte
 */
 
 #include "Bibliotecas/FuncionesAuxiliares.h"
 
 int main(int argc, char **argv) {
 
-    //Ordenar Streams.txt por codigo de stream forma ascendente
+    //Streams.txt
     //803100    1:22:25    4003    C1072
     int arrCodeStream[MAX_STREAMS]{};
     int arrDurStream[MAX_STREAMS]{};
-    int arrCodeIdiomaStream[MAX_STREAMS]{};
-    char arrLetraCatIdiomaStream[MAX_STREAMS]{};
-    int arrNumCatIdiomaStream[MAX_STREAMS]{};
+    int arrCodeIdioma[MAX_STREAMS]{};
+    char arrCodeCharCatIdioma[MAX_STREAMS]{};
+    int arrCodeIntCatIdioma[MAX_STREAMS]{};
     int cantStreams=0;
 
-    cargarStreams("ArchivoDeDatos/Streams (1).txt",
-        arrCodeStream,arrDurStream,arrCodeIdiomaStream,
-        arrLetraCatIdiomaStream,arrNumCatIdiomaStream,
-        cantStreams);
+    cargarStreams("ArchivosDeDatos/Streams (2).txt",
+        arrCodeStream,arrDurStream,arrCodeIdioma,
+        arrCodeCharCatIdioma,arrCodeIntCatIdioma,cantStreams);
 
-    pruebaStreams("ArchivoDeReportes/ReportePruebaStreams.txt",
-        arrCodeStream,arrDurStream,arrCodeIdiomaStream,
-        arrLetraCatIdiomaStream,arrNumCatIdiomaStream,
-        cantStreams);
+    pruebaStreams("ArchivosDeReporte/Prueba-Streams.txt",
+        arrCodeStream,arrDurStream,arrCodeIdioma,
+        arrCodeCharCatIdioma,arrCodeIntCatIdioma,cantStreams);
+
 
     //Canales.txt
     //1/10/2022    A1911    AdmiralBulldog
-    //estos se repiten:
     //738184    1/9/2025    15:13:35    3.38    0.628
     //929142    18/8/2025    5:22:57    3.78    0.320
 
@@ -40,57 +39,53 @@ int main(int argc, char **argv) {
     int arrCantReproCanal[MAX_STREAMS]{};
     int arrTiempoTotalReproCanal[MAX_STREAMS]{};
 
-    procesarCanales("ArchivoDeDatos/Canales (6).txt",
+    procesarCanales("ArchivosDeDatos/Canales (7).txt",
         arrCodeStream,arrDurStream,cantStreams,
         arrFechaAntiguaCanal,arrFechaRecienteCanal,
-        arrPromRatingCanal,arrPromDropCanal,
+        arrPromDropCanal,arrPromRatingCanal,
         arrCantReproCanal,arrTiempoTotalReproCanal);
 
-    //ReporteSinOrdenar
 
-    bool esOrdenado;
-    reporteStream("ArchivoDeReportes/Reproducciones-Streams.txt",
-            arrCodeStream,arrCodeIdiomaStream,
-            arrLetraCatIdiomaStream,arrNumCatIdiomaStream,
-            arrFechaAntiguaCanal,arrFechaRecienteCanal,
-            arrPromRatingCanal,arrPromDropCanal,arrDurStream,
-            arrCantReproCanal,arrTiempoTotalReproCanal,
-            cantStreams,true);
+    //Reporte1
 
-    //Eliminar los que tienen guiones
+    imprimirReporte("ArchivosDeReporte/Reproducciones-Streams.txt",
+        arrCodeStream,arrDurStream,arrCodeIdioma,
+        arrCodeCharCatIdioma,arrCodeIntCatIdioma,cantStreams,
+        arrFechaAntiguaCanal,arrFechaRecienteCanal,
+        arrPromDropCanal,arrPromRatingCanal,
+        arrCantReproCanal,arrTiempoTotalReproCanal,false);
 
-    eliminar(arrCodeStream,arrCodeIdiomaStream,
-            arrLetraCatIdiomaStream,arrNumCatIdiomaStream,
-            arrFechaAntiguaCanal,arrFechaRecienteCanal,
-            arrPromRatingCanal,arrPromDropCanal,arrDurStream,
-            arrCantReproCanal,arrTiempoTotalReproCanal,
-            cantStreams);
 
-    //ReporteConEliminacion
-    reporteStream("ArchivoDeReportes/Reproducciones-Streams2.txt",
-            arrCodeStream,arrCodeIdiomaStream,
-            arrLetraCatIdiomaStream,arrNumCatIdiomaStream,
-            arrFechaAntiguaCanal,arrFechaRecienteCanal,
-            arrPromRatingCanal,arrPromDropCanal,arrDurStream,
-            arrCantReproCanal,arrTiempoTotalReproCanal,
-            cantStreams,true);
+    //Reporte2 ordenado
 
-    //Reporte con eliminacion y ordenacion, sin resumen
+    ordenarReporte(arrCodeStream,arrDurStream,arrCodeIdioma,
+        arrCodeCharCatIdioma,arrCodeIntCatIdioma,cantStreams,
+        arrFechaAntiguaCanal,arrFechaRecienteCanal,
+        arrPromDropCanal,arrPromRatingCanal,
+        arrCantReproCanal,arrTiempoTotalReproCanal);
 
-    ordenarReporte(arrCodeStream,arrCodeIdiomaStream,
-            arrLetraCatIdiomaStream,arrNumCatIdiomaStream,
-            arrFechaAntiguaCanal,arrFechaRecienteCanal,
-            arrPromRatingCanal,arrPromDropCanal,arrDurStream,
-            arrCantReproCanal,arrTiempoTotalReproCanal,
-            cantStreams);
+    imprimirReporte("ArchivosDeReporte/Reproducciones-Streams-Ordenado.txt",
+        arrCodeStream,arrDurStream,arrCodeIdioma,
+        arrCodeCharCatIdioma,arrCodeIntCatIdioma,cantStreams,
+        arrFechaAntiguaCanal,arrFechaRecienteCanal,
+        arrPromDropCanal,arrPromRatingCanal,
+        arrCantReproCanal,arrTiempoTotalReproCanal,true);
 
-    reporteStream("ArchivoDeReportes/Reproducciones-Streams3.txt",
-            arrCodeStream,arrCodeIdiomaStream,
-            arrLetraCatIdiomaStream,arrNumCatIdiomaStream,
-            arrFechaAntiguaCanal,arrFechaRecienteCanal,
-            arrPromRatingCanal,arrPromDropCanal,arrDurStream,
-            arrCantReproCanal,arrTiempoTotalReproCanal,
-            cantStreams,false);
+    //Reporte 3 eliminar
+
+    eliminar(arrCodeStream,arrDurStream,arrCodeIdioma,
+        arrCodeCharCatIdioma,arrCodeIntCatIdioma,cantStreams,
+        arrFechaAntiguaCanal,arrFechaRecienteCanal,
+        arrPromDropCanal,arrPromRatingCanal,
+        arrCantReproCanal,arrTiempoTotalReproCanal);
+
+    imprimirReporte("ArchivosDeReporte/Reproducciones-Streams-Eliminado.txt",
+        arrCodeStream,arrDurStream,arrCodeIdioma,
+        arrCodeCharCatIdioma,arrCodeIntCatIdioma,cantStreams,
+        arrFechaAntiguaCanal,arrFechaRecienteCanal,
+        arrPromDropCanal,arrPromRatingCanal,
+        arrCantReproCanal,arrTiempoTotalReproCanal,true);
+
 
     return 0;
 }
