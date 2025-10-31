@@ -1,0 +1,106 @@
+==========================================================================================
+                                   ARREGLO ORIGINAL
+==========================================================================================
+    CODIGO                             DESCRIPCION                                STOCK
+------------------------------------------------------------------------------------------
+    765960                    CEFADROXILO 250MG SUSP                               84
+    160556                    AMBROXOL C/20 TAB                                   276
+    366499                    CITALOPRAM 20MG 14T                                 221
+    944154                    PRAVASTATINA 10 MG C/15                              54
+    282195                    NITAZOXANIDA 200 MG T6                               17
+    847714                    BETAMETASONA CREMA 30GR                             106
+    916539                    SAL DE UVAS PICOT                                   166
+    409970                    ELECTROLIT PED FRESA 625ML                           63
+    746806                    FENITOINA T50 100MG                                  92
+    176455                    KETOKONAZOL CRA 30GR                                103
+    729695                    ISOSORBIDE 10MG T/20                                274
+    340805                    ELECTROLIT FRESA 500ML                              113
+    333908                    CORTILONA CRA 30GR                                   75
+    724950                    ACIDO GLUTAMICO 600 MG C/100                        274
+    168133                    VANCOMICINA 500MG SOL INY                           130
+    895283                    CLORMADINONA 2MG 20T                                 73
+    944297                    TIAMAZOL 5MG 20T                                    260
+    575057                    ESPIRONOLACTONA 25MG 20T                             41
+    550217                    AMOXICILINA 500MG/5ML SUSP                          230
+    623027                    BEZAFIBRATO 200MG C/30TAB                            76
+    960314                    CETIRIZINA 10 MG TABS C/10                           58
+    853253                    AMOXICILINA 250MG C12                               120
+    496446                    HIDROCORTISONA CRA 30GR                             128
+    485573                    NAPROXENO SODICO 100/2.5 SUSP                         3
+    856412                    TAMOXIFENO 10MG 30T                                   4
+    912828                    LEVONORGESTREL 1.5MG /1 TAB                          24
+    557015                    "EUCALIPTO    GUAYACOL PERLAS30"                     63
+    813338                    CARNITINA C/30                                       55
+==========================================================================================
+                                   ARREGLO DEFICIT
+==========================================================================================
+    CODIGO                             DESCRIPCION                                STOCK
+------------------------------------------------------------------------------------------
+    270164                    ACECLOFENACO 100MG 10T                              262
+    791897                    CLORFENAMINA 4MG T20                                251
+    762385                    BEZOCAINA 10GR GEL                                  364
+    686105                    CALCITRIOL 0.25MCG 50 CAP                            70
+    480391                    TRAMADOL 100MG 5AMP                                 188
+    838014                    CEFACLOR 125 MG SUSP                                294
+    362085                    ENALAPRIL T/30 10MG                                 279
+    460007                    HIDROX--MAGNESIO+ALUMINIO 240ML                     307
+    935783                    SUCRALFATO 40 TAB/1G                                221
+    178046                    PIROXICAM 30 GM CRA                                 324
+    775340                    METRONIDAZOL 500 MG T30                             279
+    708075                    LINCOMICINA 600 MG INY C/3                          225
+    304305                    PRUEBA DE EMBARAZO                                  238
+    683467                    TOLBUTAMIDA 50T 500MG                               273
+    284090                    RIFAMPICINA 300 MG C/16 CAP                         159
+    482448                    CLORANFENICOL SOL OFT 10ML                          267
+    835103                    FUROSEMIDA 40 MG C/20                               305
+    702264                    CALCIO+VITAMINA D SUSP                              359
+    437093                    CEFUROXIMA 250MG SUSP                               189
+    177908                    DICLOFENACO 100MG 20T                               204
+    612954                    QUINFAMIDA 100 MG 3TAB                              222
+    307965                    PROPANOLOL 40 MG C/20 TAB                           114
+    749244                    TAMSULOSINA 0.4 MG CAPS 20                          408
+    313114                    METILPREDNISOLONA 500MG                             126
+    635559                    FAMOTIDINA 20MG 30C                                 398
+    605093                    AMPICILINA 125MG SUSP 90ML                           43
+    458140                    ERITROMICINA 250MG SUSP                             170
+    140757                    CLOTRIMAZOL C/6 CPR VAG                             240
+    163590                    NAPROXENO 250 MG TAB C/30                           279
+    228423                    AMIKACINA 500MG C/1 AMP                             246
+    582522                    KETOTIFENO SOL 120ML                                 18
+    773585                    LOPERAMIDA T/12 2MG                                 283
+    332763                    INDOMETACINA C30                                    138
+    149628                    HIERRO DEXTRANO AMP4                                113
+    442537                    PROGESTERONA+ESTRADIOL 50/5 AMP                      90
+    889944                    FENITOINA SODICA 7.5MG 120ML                         58
+    406451                    VERAPAMILO 80 MG/20 TAB                             110
+    123882                    PROTEINAS+CREATINA 500 GR 30T                        50
+    538466                    CLENBUTEROL .02MG 50T                               114
+    687301                    MELOXICAM 7.5 MG C/14                               175
+    974658                    GLIBENCLAMIDA 5 MG C/50                              82
+    532005                    VITAMINA+OMEGA 3 30T                                149
+    866818                    HIDROCLOROTIAZIDA 25 MG 20TAB                       157
+    375499                    TOPIRAMATO 100MG 20T                                163
+    530848                    MINOCICLINA 100MG 10T                                19
+    968817                    GABAPENTINA 300 MG C/15                              56
+    926280                    KETOPROFENO 100MG C15                               184
+    442151                    DICICLOVERINA 10MG 30T                              136
+    925603                    EXALVER FENILEFRINA PED. 30 ML                       88
+    864765                    KETOTIFENO C/30                                      98
+    263604                    VITAMINAS A C Y D 3AMP/3ML ING                       27
+    436335                    ERITROMICINA T 250 MG C/20                           58
+    497563                    PREDNISOLONA 5MG SOL OFT 5 ML                        54
+    847668                    CIPROFLOXACINO SOL.OFT 5MG                          164
+    432223                    AMBROXOL GOTAS 30ML                                  86
+    546924                    NAFAZOLINA SOL OFT 15 ml                            128
+    390889                    NORFLOXACINO T20 400MG                               41
+    731743                    VITAMINA P/DIABETICOS 30T                            20
+    582596                    SULFADIAZINA DE PLATA CRA 28GR                       33
+    861587                    SENOSIDOS A y B C20                                 124
+    858652                    PLANTAGO PSYLLIUM 400GR. GI                          84
+    274470                    OXIDO DE ZINC TUBO PASTA 30GR                        48
+    340661                    SULINDACO 200MG/20 TAB                               74
+    570364                    OXOLAMINA JBE 100ML                                  32
+    306905                    VITAMINAS EMBARAZO 9 MESES C30                       24
+    986790                    DOXICICLINA 100MG 10 CAPS                            50
+    893250                    DIMENHIDRINATO 24 T 50MG                             30
+    898399                    ACIDO MEFENAMICO 500MG C10 TAB                       23
