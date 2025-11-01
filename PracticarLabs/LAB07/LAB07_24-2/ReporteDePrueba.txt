@@ -1,0 +1,180 @@
+======================================================================================================================================================
+                                                  REPORTE DE PRUEBA PARA PLATOS
+======================================================================================================================================================
+     CODIGO         DESCRIPCION                                            PRECIO         CATEGORIA                         DESCUENTO
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     73428          TEQUENOS                                               19.50          APERITIVO                           0.00
+     11283          2_BOLAS_DE_HELADO                                      14.90          POSTRES                            17.72
+     39584          COCA_COLA_1_LITRO                                      15.50          BEBIDAS                            13.44
+     77894          ENSALADA_SENSACION_GRANDE_CON_POLLO                    32.90          ENSALADAS                           5.74
+     53518          PAPAS_FRITAS                                           15.90          ADICIONAL                           0.00
+     15665          1/2_POLLO_PARRILLERO_ORIGINAL_ENCAMOTADO               50.90          BRASA                              18.94
+     77606          ENSALADA_HONEY_GRANDE_SOLO                             24.90          ENSALADAS                          19.98
+     77549          ENSALADA_COCIDA_REGULAR                                18.90          ENSALADAS                          19.71
+     90766          ANTICUCHO_DE_CORAZON                                   25.90          ADICIONAL                           0.00
+     39747          COCA_COLA_1/2_LITRO                                     7.00          BEBIDAS                             9.03
+     77419          ENSALADA_DELICIA_GRANDE_CON_POLLO                      31.90          ENSALADAS                           0.00
+     39431          CERVEZA_CUSQUENA                                       12.50          BEBIDAS                            11.05
+     39738          CERVEZA_HEINEKEN                                       18.90          BEBIDAS                             0.00
+     15283          1/4_POLLO_PARRILLERO_ORIGINAL-_ARROCERO                33.50          BRASA                               0.00
+     15365          1/4_POLLO_BBQ/HOT_ANTICUCHO                            44.90          BRASA                               5.28
+     55338          SANGUCHE_BRASA                                         22.90          SANGUCHE                            9.46
+     39442          LIMONADA_1_LITRO                                       21.90          BEBIDAS                            11.88
+     77691          ENSALADA_SENSACION_MEDIANA_CON_POLLO                   23.90          ENSALADAS                           0.00
+     39896          VINO_FINA_RESERVA_TINTO                               128.90          BEBIDAS                             0.00
+     15153          PIQUEOS_MOLLEJITAS                                     18.90          PIQUEO                             19.04
+     77487          ENSALADA_CESARS_GRANDE_SOLO                            24.90          ENSALADAS                           9.72
+     11871          LOMO_A_LA_PARRILLA                                     54.90          PARRILLA                           11.86
+     39851          CASILLERO_DEL_DIABLO_BLANCO                            73.90          BEBIDAS                            16.73
+     31644          CHICHARRON_DE_POLLO_AL_PLATO                           33.90          ESPECIALES                          0.00
+     15950          1/4_POLLO_PARRILLERO_ORIGINAL_ANTICUCHO                43.90          BRASA                               8.90
+     15724          1/4_POLLO_ENCAMOTADO                                   31.50          BRASA                               0.00
+     53265          ANTICUCHO                                              12.90          ENTRADA                             0.00
+     39265          TABERNERO_GRAN_TINTO                                   49.90          BEBIDAS                             8.70
+     53939          TEQUENO                                                 4.90          ADICIONAL                           0.00
+     39536          SPRITE_1_LITRO                                         15.50          BEBIDAS                             0.00
+     77156          ENSALADA_COCIDA_GRANDE                                 22.90          ENSALADAS                          13.52
+     15319          1/2_POLLO_PARRILLERO_ORIGINAL_PAPAS_ENSALADA           47.90          BRASA                               0.00
+     15404          PIQUEOS_BROCHETA                                       17.90          PIQUEO                              0.00
+     39955          CASILLERO_DEL_DIABLO_TINTO                             73.90          BEBIDAS                            14.83
+     15297          1/2_POLLO_BBQ/HOT_ENCAMOTADO                           51.90          BRASA                               0.00
+     15488          PIQUEOS_CHORIZOS_COCKTAIL                              16.90          PIQUEO                             16.67
+     15608          PIQUEOS_CHICHARRON_DE_POLLO                            27.90          PIQUEO                              0.00
+     15378          1/4_POLLO_ARROCERO                                     33.50          BRASA                               0.00
+     39137          CERVEZA_PILSEN                                         12.00          BEBIDAS                             0.00
+     11692          PARRILLA_PARA_DOS                                      89.90          PARRILLA                           17.36
+     15578          1/4_POLLO_A_LO_BRAVO                                   33.50          BRASA                               0.00
+     11621          CHEESECAKE_DE_MARACUYA                                 15.90          POSTRES                            11.30
+     53377          PLATANO                                                 3.90          ADICIONAL                           0.00
+     39141          CHICHA_1_LITRO                                         21.90          BEBIDAS                             6.80
+     77690          ENSALADA_CESARS_GRANDE_CON_POLLO                       32.90          ENSALADAS                           0.00
+     15272          1/2_POLLO_PARRILLERO_ORIGINAL_ANTICUCHO                59.90          BRASA                               7.45
+     15864          1/4_POLLO_PARRILLERO_ORIGINAL_PAPAS_ENSALADA           32.50          BRASA                              16.73
+     77381          ENSALADA_HONEY_GRANDE_CON_POLLO                        32.90          ENSALADAS                           0.00
+     90365          MOLLEGITAS_A_LA_PARRILLA                               25.90          ENTRADA                             0.00
+     15136          1/2_POLLO_BBQ/HOT_ANTICUCHO                            60.50          BRASA                               5.45
+     15142          1/2_POLLO_BBQ/HOT_A_LO_BRAVO                           52.90          BRASA                               7.47
+     15392          PIQUEOS_ANTICUCHO                                      18.90          PIQUEO                              0.00
+     77214          ENSALADA_FRESCA_GRANDE                                 22.90          ENSALADAS                           0.00
+     15116          1/2_POLLO_ENCAMOTADO                                   49.90          BRASA                               9.18
+     15510          1/4_POLLO_PARRILLERO_ORIGINAL_ENCAMOTADO               35.90          BRASA                              14.80
+     15326          1/4_POLLO_PARRILLERO_ORIGINAL_A_LO_BRAVO               36.90          BRASA                              18.31
+     15479          1/2_POLLO_PARRILLERO_ORIGINAL_A_LO_BRAVO               51.90          BRASA                               0.00
+     15921          1/4_POLLO_PAPAS_ENSALADA                               29.50          BRASA                              16.09
+     11620          CHEESECAKE_DE_FRESA                                    15.90          POSTRES                             0.00
+     15419          1/4_POLLO_BBQ/HOT_A_LO_BRAVO                           37.90          BRASA                               0.00
+     77910          ENSALADA_DELICIA_MEDIANA_CON_POLLO                     22.90          ENSALADAS                           0.00
+     55330          SANGUCHE_PARRILLERO                                    24.90          SANGUCHE                            6.30
+     73500          CHORIZOS_COCKTAIL                                      12.90          APERITIVO                           0.00
+     53764          PLATANO-HUEVO                                           6.90          ADICIONAL                          10.57
+     11751          MAZAMORRA_MORADA                                        8.90          POSTRES                             0.00
+     39695          SANGRIA                                                36.90          BEBIDAS                            19.63
+     11731          ARROZ_CON_LECHE                                         8.90          POSTRES                             0.00
+     53760          ARROZ                                                   6.90          ADICIONAL                          10.76
+     39227          SPRITE1/2_LITRO                                         7.00          BEBIDAS                             0.00
+     31796          ANTICUCHO_DE_CORAZON_AL_PLATO                          31.90          ESPECIALES                         19.94
+     90758          BROCHETAS_DE_POLLO                                     25.90          ENTRADA                             7.08
+     15197          1/2_POLLO_ARROCERO                                     47.50          BRASA                              11.82
+     77572          ENSALADA_FRESCA_REGULAR                                18.90          ENSALADAS                           0.00
+     53502          PORCION_DE_CAMOTE                                      15.90          ADICIONAL                          10.81
+     15611          1/2_POLLO_PAPAS_ENSALADA                               46.90          BRASA                               0.00
+     39199          LIMONADA_1_LITRO                                       10.50          BEBIDAS                             0.00
+     15926          1/2_POLLO_BBQ/HOT_ARROCERO                             49.90          BRASA                               5.90
+     39489          FANTA_1/2_LITRO                                         7.00          BEBIDAS                             0.00
+     15592          1/4_POLLO_ANTICUCHO                                    33.90          BRASA                               0.00
+     77493          ENSALADA_CESARS_MEDIANA_CON_POLLO                      23.90          ENSALADAS                          12.78
+     15823          1/4_POLLO_BBQ/HOT_ENCAMOTADO                           36.90          BRASA                               0.00
+     11611          TRES_LECHES                                            15.90          POSTRES                            15.19
+     15945          1/2_POLLO_BBQ/HOT_PAPAS_ENSALADA                       48.90          BRASA                               0.00
+     73410          ANTICUCHO-POLLO                                        12.90          ENTRADA                             0.00
+     15539          PIQUEOS_MINI_POLLITOS_PANKO                            21.90          PIQUEO                             13.99
+     39160          INKA_COLA_1_LITRO                                      15.50          BEBIDAS                            17.39
+     15621          1/4_POLLO_BBQ/HOT_PAPAS_ENSALADA                       33.50          BRASA                              13.94
+     31815          MOLLEJITAS_AL_PLATO                                    30.90          ESPECIALES                          0.00
+     39864          INKA_COLA_1/2_LITRO                                     7.00          BEBIDAS                            10.52
+     15760          1/4_POLLO_BBQ/HOT_ARROCERO                             34.50          BRASA                               0.00
+     11471          1_BOLA_DE_HELADO                                        8.90          POSTRES                             0.00
+     11172          TORTA_DE_NARANJA                                       15.90          POSTRES                             5.53
+     39810          INTIPALKA_MALBEC                                       71.90          BEBIDAS                             0.00
+     15745          1/2_POLLO_PARRILLERO_ORIGINAL-_ARROCERO                48.90          BRASA                              14.48
+     39475          INTIPALKA_SYRAH                                        71.90          BEBIDAS                            18.66
+     39903          CHICHA1/2_LITRO                                        10.50          BEBIDAS                            13.99
+     53991          HUEVO                                                   3.90          ADICIONAL                           0.00
+     53957          PAPAS_FRITAS_1/2_PORCION                               10.90          ADICIONAL                           0.00
+     11171          TORTA_DE_CHOCOLATE                                     15.90          POSTRES                            19.42
+     77762          ENSALADA_DELICIA_GRANDE_SOLO                           23.90          ENSALADAS                           0.00
+     11850          BIFE_A_LA_PARRILLA                                     53.90          PARRILLA                            0.00
+     77703          ENSALADA_SENSACION_GRANDE_SOLO                         24.90          ENSALADAS                           0.00
+     53814          PALTA                                                   9.90          ADICIONAL                          10.91
+     39987          FANTA_1_LITRO                                          15.50          BEBIDAS                             0.00
+     11500          PARRILLA_PARA_CUATRO                                  128.90          PARRILLA                            0.00
+     53546          CHOCLO                                                  9.90          ADICIONAL                           7.19
+     15756          1/2_POLLO_A_LO_BRAVO                                   50.90          BRASA                               0.00
+     15525          1/2_POLLO_ANTICUCHO                                    58.50          BRASA                              18.60
+     53477          PAPAS_DORADAS                                          15.90          ADICIONAL                          13.60
+     77971          ENSALADA_HONEY_MEDIANA_CON_POLLO                       23.90          ENSALADAS                           0.00
+======================================================================================================================================================
+                                                  REPORTE DE PRUEBA PARA REPARTIDORES
+======================================================================================================================================================
+  DNI             NOMBRE                                                      VEHICULO          CODIGO DISTRITO            NOMBRE DISTRITO
+------------------------------------------------------------------------------------------------------------------------------------------------------
+54805724          Vizcardo Sinche Maribel                                     MOTOCICLETA            4826                  Santa Rosa                    
+95482222          Asmad Chavez Adria                                          BICICLETA              8667                  Jesus Maria                   
+60685215          Sakaguchi Mori Carlos Ronal                                 MOTOCICLETA            1439                  Comas                         
+24721987          Ramirez Astete Karina Estefania                             BICICLETA              6092                  Punta Hermosa                 
+64102186          Diaz Tang Enrique                                           BICICLETA              7318                  La Victoria                   
+96430314          Sam Yallico Ines                                            BICICLETA              8659                  Puente Piedra                 
+82962199          Pena Suarez Glenda Margot                                   MOTOCICLETA            9713                  San Isidro                    
+52397686          Narvaez Castillo Jesus Rafael                               MOTOCICLETA            6936                  San Luis                      
+25516055          Jauregui Del Castillo Victor Ricardo                        MOTOCICLETA            5964                  Pueblo Libre                  
+13037550          Rodriguez Moreno Blanca Ofelia                              BICICLETA              6223                  Miraflores                    
+71914615          Escalante Rojas Ines Adria                                  BICICLETA              4803                  Carabayllo                    
+97394359          Egusquiza Berrocal Doris Nancy                              MOTOCICLETA            8667                  Jesus Maria                   
+96407230          Moscoso Arias Fiorella                                      BICICLETA              6184                  Pachacamac                    
+25921814          Solis Narvaez Maria Madeleine                               BICICLETA              7752                  Los Olivos                    
+24542282          Lozada Arguedas Felicita Valentina                          MOTOCICLETA            4803                  Carabayllo                    
+28777346          Hijar Lam Martin                                            MOTOCICLETA            8659                  Puente Piedra                 
+34795643          Pairazaman Raffo Tatiana Delicia                            BICICLETA              1439                  Comas                         
+78894665          Bravo Cortes Janet Flor                                     BICICLETA              4504                  Santa Anita                   
+73953533          Justino Norabuena Virginia Karina                           BICICLETA              9713                  San Isidro                    
+43679625          Patino Bolanos Delicia Virginia                             MOTOCICLETA            6092                  Punta Hermosa                 
+23889863          Arroyo Tomasiche Natalia                                    MOTOCICLETA            6223                  Miraflores                    
+88923038          Vega Soria Henrry                                           MOTOCICLETA            2765                  San Juan De Miraflores        
+35679675          Prado Vera Juan                                             MOTOCICLETA            5817                  San Miguel                    
+32579168          Contreras Chang Johana Cinthia                              MOTOCICLETA            5926                  Chaclacayo                    
+14994362          Lozada Forzani Delia                                        MOTOCICLETA            7752                  Los Olivos                    
+53469476          Solis Chung Rolando                                         BICICLETA              5817                  San Miguel                    
+24363330          Camacho Pairazaman Ydali Lucero                             MOTOCICLETA            7318                  La Victoria                   
+80913411          Mercado Coronel Elia                                        MOTOCICLETA            6184                  Pachacamac                    
+89367567          Florencio Coronado Alonso                                   MOTOCICLETA            4504                  Santa Anita                   
+32708645          Valverde Maeireizo Melvin Jair                              BICICLETA              5926                  Chaclacayo                    
+96708707          Sinche Rivero Yvonne Silvana                                BICICLETA              2765                  San Juan De Miraflores        
+33479141          Trigueros Jugo Luz                                          BICICLETA              5964                  Pueblo Libre                  
+77697252          Zarate Perez Alexander                                      BICICLETA              6936                  San Luis                      
+88547910          Lozada Iberos Heli Blanca                                   BICICLETA              4826                  Santa Rosa                    
+95324349          Luna Vargas Waldemar                                        MOTOCICLETA            4311                  Lince                         
+38893634          Pinto Rojas Juvenal Francisco                               BICICLETA              3562                  Rimac                         
+29844212          Astete Chang Guida                                          BICICLETA              2958                  San Martin De Porres          
+84929617          Sanchez Del Castillo Fiorella Rosario                       MOTOCICLETA            7093                  Independencia                 
+60437425          Zegarra Pena Carmela                                        MOTOCICLETA            7040                  El Agustino                   
+34996654          Florian Valderrama Jose                                     MOTOCICLETA            9222                  Surquillo                     
+20690760          Inga Palomares Erika                                        MOTOCICLETA            4439                  Magdalena Del Mar             
+52583286          Fuentes Gamarra Hugo                                        MOTOCICLETA            3053                  Ate Vitarte                   
+62397617          Cortes Cortez Raul Alex                                     MOTOCICLETA            8280                  Villa El Salvador             
+76233255          Epiquen Avila Enrique                                       MOTOCICLETA            2220                  Cercado De Lima               
+14341844          Durand Miranda Miguel Juan                                  BICICLETA              9222                  Surquillo                     
+93026806          Trigueros Portugal Arturo Fausto                            BICICLETA              3691                  San Borja                     
+17083555          Leyva Landeo Nancy Sonia                                    BICICLETA              7040                  El Agustino                   
+22237434          Diaz Moya Elia Annie                                        MOTOCICLETA            9443                  Santiago De Surco             
+77459005          Mejia Rodriguez Ines Valentina                              BICICLETA              4328                  Brena                         
+88118517          Salamanca Cabrera Nestor Evert                              MOTOCICLETA            7894                  San Juan De Lurigancho        
+96481826          Gonzales Gamarra Giovana Karina                             BICICLETA              3716                  La Molina                     
+67377009          Rondon Cabrera Alexander Adolfo                             BICICLETA              7894                  San Juan De Lurigancho        
+21507828          Martinez Cruz Evert Rony                                    MOTOCICLETA            4328                  Brena                         
+99751918          Mendoza Romero Virginia Ydali                               BICICLETA              9443                  Santiago De Surco             
+89839090          Iparraguirre Perez Nicolas                                  BICICLETA              8594                  Villa Maria Del Triunfo       
+78587625          Suarez Chang Gloria                                         MOTOCICLETA            2958                  San Martin De Porres          
+62800798          Del Castillo Annie Avila                                    BICICLETA              4439                  Magdalena Del Mar             
+25186258          Avila Martel Jaime Manuel                                   MOTOCICLETA            3716                  La Molina                     
+85167262          Vizcarra Montero Jair                                       MOTOCICLETA            8594                  Villa Maria Del Triunfo       
+12141513          Cueva Fuentes Cinthia Delia                                 MOTOCICLETA            1657                  Chorrillos                    
