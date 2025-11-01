@@ -1,0 +1,115 @@
+                                                                 EMPRESA DE REPARTOS A DOMICILIO TP S. A.
+                                                                      RELACION DE PLATOS VENDIDOS
+==========================================================================================================================================================================
+No.      PLATO   OFRECIDO                                                                CANTIDAD VENDIDA      PRECIO       INGRESO BRUTO       DESCUENTO         TOTAL
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+001)     39747   Coca Cola 1/2 Litro-PROMOCIONADO-ADICIONAL                                     73              7.00            511.00             9.03%         464.86
+002)     53760   Arroz-PROMOCIONADO-POSTRES                                                     33              6.90            227.70            10.76%         203.20
+003)     39160   Inka Cola 1 Litro-PROMOCIONADO-BEBIDAS                                        179             15.50           2774.50            17.39%        2292.01
+004)     15319   1/2 Pollo Parrillero Original Papas Ensalada-BRASA                            104             47.90           4981.60              -           4981.60
+005)     15404   Piqueos Brocheta-PIQUEO                                                        27             17.90            483.30              -            483.30
+006)     11500   Parrilla Para Cuatro-PIQUEO                                                    17            128.90           2191.30              -           2191.30
+007)     90365   Mollegitas A La Parrilla-ADICIONAL                                             22             25.90            569.80              -            569.80
+008)     11751   Mazamorra Morada-ADICIONAL                                                     95              8.90            845.50              -            845.50
+009)     39475   Intipalka Syrah-PROMOCIONADO-PARRILLA                                          66             71.90           4745.40            18.66%        3859.91
+010)     53546   Choclo-PROMOCIONADO-BEBIDAS                                                    85              9.90            841.50             7.19%         781.00
+011)     73428   Tequenos-APERITIVO                                                            121             19.50           2359.50              -           2359.50
+012)     15283   1/4 Pollo Parrillero Original Arrocero-BRASA                                   73             33.50           2445.50              -           2445.50
+013)     31815   Mollejitas Al Plato-ADICIONAL                                                  95             30.90           2935.50              -           2935.50
+014)     11850   Bife A La Parrilla-PARRILLA                                                    76             53.90           4096.40              -           4096.40
+015)     15921   1/4 Pollo Papas Ensalada-PROMOCIONADO-BRASA                                    47             29.50           1386.50            16.09%        1163.41
+016)     39265   Tabernero Gran Tinto-PROMOCIONADO-BEBIDAS                                     132             49.90           6586.80             8.70%        6013.75
+017)     39536   Sprite 1 Litro-BEBIDAS                                                        206             15.50           3193.00              -           3193.00
+018)     39227   Sprite1/2 Litro-BEBIDAS                                                        91              7.00            637.00              -            637.00
+019)     15621   1/4 Pollo Bbq/hot Papas Ensalada-PROMOCIONADO-BRASA                            90             33.50           3015.00            13.94%        2594.71
+020)     53814   Palta-PROMOCIONADO-ADICIONAL                                                  120              9.90           1188.00            10.91%        1058.39
+021)     11620   Cheesecake De Fresa-ENSALADAS                                                  51             15.90            810.90              -            810.90
+022)     39137   Cerveza Pilsen-BEBIDAS                                                         60             12.00            720.00              -            720.00
+023)     77487   Ensalada Cesars Grande Solo-PROMOCIONADO-BEBIDAS                               88             24.90           2191.20             9.72%        1978.22
+024)     53991   Huevo-BEBIDAS                                                                  42              3.90            163.80              -            163.80
+025)     15136   1/2 Pollo Bbq/hot Anticucho-PROMOCIONADO-BRASA                                128             60.50           7744.00             5.45%        7321.95
+026)     77156   Ensalada Cosida Grande-PROMOCIONADO-ENSALADAS                                  54             22.90           1236.60            13.52%        1069.41
+027)     53939   Tequeno-ADICIONAL                                                              39              4.90            191.10              -            191.10
+028)     53518   Papas Fritas-PIQUEO                                                           183             15.90           2909.70              -           2909.70
+029)     15297   1/2 Pollo Bbq/hot Encamotado-BRASA                                             73             51.90           3788.70              -           3788.70
+030)     15864   1/4 Pollo Parrillero Original Papas Ensalada-PROMOCIONADO-BRASA               102             32.50           3315.00            16.73%        2760.40
+031)     15592   1/4 Pollo Anticucho-BRASA                                                      15             33.90            508.50              -            508.50
+032)     11621   Cheesecake De Maracuya-PROMOCIONADO-ENSALADAS                                  20             15.90            318.00            11.30%         282.07
+033)     39955   Casillero Del Diablo Tinto-PROMOCIONADO-BEBIDAS                               196             73.90          14484.40            14.83%       12336.36
+034)     15479   1/2 Pollo Parrillero Original A Lo Bravo-BRASA                                106             51.90           5501.40              -           5501.40
+035)     39442   Limonada 1 Litro-PROMOCIONADO-ENTRADA                                          30             21.90            657.00            11.88%         578.95
+036)     39199   Limonada 1 Litro-POSTRES                                                      102             10.50           1071.00              -           1071.00
+037)     77894   Ensalada Sensacion Grande Con Pollo-PROMOCIONADO-ENSALADAS                     26             32.90            855.40             5.74%         806.30
+038)     77762   Ensalada Delicia Grande Solo-ENSALADAS                                         20             23.90            478.00              -            478.00
+039)     15611   1/2 Pollo Papas Ensalada-BRASA                                                 40             46.90           1876.00              -           1876.00
+040)     15756   1/2 Pollo A Lo Bravo-BRASA                                                     58             50.90           2952.20              -           2952.20
+041)     15578   1/4 Pollo A Lo Bravo-BRASA                                                     72             33.50           2412.00              -           2412.00
+042)     55338   Sanguche Brasa-PROMOCIONADO-ENSALADAS                                          61             22.90           1396.90             9.46%        1264.75
+043)     15392   Piqueos Anticucho-PIQUEO                                                       38             18.90            718.20              -            718.20
+044)     11172   Torta De Naranja-PROMOCIONADO-POSTRES                                          39             15.90            620.10             5.53%         585.81
+045)     77493   Ensalada Cesars Mediana Con Pollo-PROMOCIONADO-BEBIDAS                        199             23.90           4756.10            12.78%        4148.27
+046)     77214   Ensalada Fresca Grande-BEBIDAS                                                 58             22.90           1328.20              -           1328.20
+047)     39141   Chicha 1 Litro-PROMOCIONADO-ENSALADAS                                          57             21.90           1248.30             6.80%        1163.42
+048)     53502   Porcion De Camote-PROMOCIONADO-SANGUCHE                                        22             15.90            349.80            10.81%         311.99
+049)     73500   Chorizos Cocktail-BEBIDAS                                                      77             12.90            993.30              -            993.30
+050)     11871   Lomo A La Parrilla-PROMOCIONADO-ESPECIALES                                     83             54.90           4556.70            11.86%        4016.28
+051)     39431   Cerveza Cusquena-PROMOCIONADO-BEBIDAS                                         167             12.50           2087.50            11.05%        1856.83
+052)     15197   1/2 Pollo Arrocero-PROMOCIONADO-BRASA                                         129             47.50           6127.50            11.82%        5403.23
+053)     39738   Cerveza Heineken-BEBIDAS                                                      105             18.90           1984.50              -           1984.50
+054)     39810   Intipalka Malbec-BEBIDAS                                                       28             71.90           2013.20              -           2013.20
+055)     90758   Brochetas De Pollo-PROMOCIONADO-ENTRADA                                        53             25.90           1372.70             7.08%        1275.51
+056)     15153   Piqueos Mollejitas-PROMOCIONADO-ADICIONAL                                      60             18.90           1134.00            19.04%         918.09
+057)     39987   Fanta 1 Litro-ADICIONAL                                                        21             15.50            325.50              -            325.50
+058)     15116   1/2 Pollo Encamotado-PROMOCIONADO-BRASA                                       163             49.90           8133.70             9.18%        7387.03
+059)     15326   1/4 Pollo Parrillero Original A Lo Bravo-PROMOCIONADO-BRASA                    16             36.90            590.40            18.31%         482.30
+060)     15823   1/4 Pollo Bbq/hot Encamotado-BRASA                                            102             36.90           3763.80              -           3763.80
+061)     15926   1/2 Pollo Bbq/hot Arrocero-PROMOCIONADO-BRASA                                  22             49.90           1097.80             5.90%        1033.03
+062)     77703   Ensalada Sensacion Grande Solo-ENSALADAS                                       81             24.90           2016.90              -           2016.90
+063)     15510   1/4 Pollo Parrillero Original Encamotado-PROMOCIONADO-BRASA                    19             35.90            682.10            14.80%         581.15
+064)     77381   Ensalada Honey Grande Con Pollo-BEBIDAS                                       131             32.90           4309.90              -           4309.90
+065)     15950   1/4 Pollo Parrillero Original Anticucho-PROMOCIONADO-BRASA                     63             43.90           2765.70             8.90%        2519.55
+066)     77971   Ensalada Honey Mediana Con Pollo-ENSALADAS                                     63             23.90           1505.70              -           1505.70
+067)     11692   Parrilla Para Dos-PROMOCIONADO-PIQUEO                                          58             89.90           5214.20            17.36%        4309.01
+068)     77606   Ensalada Honey Grande Solo-PROMOCIONADO-ENSALADAS                             106             24.90           2639.40            19.98%        2112.05
+069)     11611   Tres Leches-PROMOCIONADO-POSTRES                                               74             15.90           1176.60            15.19%         997.87
+070)     15142   1/2 Pollo Bbq/hot A Lo Bravo-PROMOCIONADO-BRASA                                63             52.90           3332.70             7.47%        3083.75
+071)     53377   Platano-BEBIDAS                                                               125              3.90            487.50              -            487.50
+072)     15745   1/2 Pollo Parrillero Original Arrocero-PROMOCIONADO-BRASA                      93             48.90           4547.70            14.48%        3889.19
+073)     77691   Ensalada Sensacion Mediana Con Pollo-ENSALADAS                                 32             23.90            764.80              -            764.80
+074)     15945   1/2 Pollo Bbq/hot Papas Ensalada-BRASA                                         19             48.90            929.10              -            929.10
+075)     15665   1/2 Pollo Parrillero Original Encamotado-PROMOCIONADO-BRASA                    84             50.90           4275.60            18.94%        3465.80
+076)     55330   Sanguche Parrillero-PROMOCIONADO-ENSALADAS                                     64             24.90           1593.60             6.30%        1493.20
+077)     39489   Fanta 1/2 Litro-BEBIDAS                                                        45              7.00            315.00              -            315.00
+078)     15760   1/4 Pollo Bbq/hot Arrocero-BRASA                                               42             34.50           1449.00              -           1449.00
+079)     11471   1 Bola De Helado-POSTRES                                                      120              8.90           1068.00              -           1068.00
+080)     11731   Arroz Con Leche-ADICIONAL                                                      47              8.90            418.30              -            418.30
+081)     31796   Anticucho De Corazon Al Plato-PROMOCIONADO-APERITIVO                           40             31.90           1276.00            19.94%        1021.57
+082)     53477   Papas Doradas-PROMOCIONADO-PARRILLA                                            36             15.90            572.40            13.60%         494.55
+083)     90766   Anticucho De Corazon-ADICIONAL                                                 67             25.90           1735.30              -           1735.30
+084)     31644   Chicharron De Pollo Al Plato-POSTRES                                           40             33.90           1356.00              -           1356.00
+085)     11171   Torta De Chocolate-PROMOCIONADO-POSTRES                                        55             15.90            874.50            19.42%         704.67
+086)     15419   1/4 Pollo Bbq/hot A Lo Bravo-BRASA                                             72             37.90           2728.80              -           2728.80
+087)     39864   Inka Cola 1/2 Litro-PROMOCIONADO-BEBIDAS                                       44              7.00            308.00            10.52%         275.60
+088)     39896   Fina Reserva Tinto-BEBIDAS                                                      9            128.90           1160.10              -           1160.10
+089)     15488   Piqueos Chorizos Cocktail-PROMOCIONADO-ADICIONAL                               13             16.90            219.70            16.67%         183.08
+090)     53764   Platano Y Huevo-PROMOCIONADO-SANGUCHE                                          43              6.90            296.70            10.57%         265.34
+091)     77419   Ensalada Delicia Grande Con Pollo-ENSALADAS                                     4             31.90            127.60              -            127.60
+092)     39851   Casillero Del Diablo Blanco-PROMOCIONADO-BEBIDAS                               96             73.90           7094.40            16.73%        5907.51
+093)     15365   1/4 Pollo Bbq/hot Anticucho-PROMOCIONADO-BRASA                                105             44.90           4714.50             5.28%        4465.57
+094)     39584   Coca Cola 1 Litro-PROMOCIONADO-ESPECIALES                                     181             15.50           2805.50            13.44%        2428.44
+095)     15539   Piqueos Mini Pollitos Panko-PROMOCIONADO-ADICIONAL                              4             21.90             87.60            13.99%          75.34
+096)     15525   1/2 Pollo Anticucho-PROMOCIONADO-BRASA                                         66             58.50           3861.00            18.60%        3142.85
+097)     53265   Anticucho-ENTRADA                                                             208             12.90           2683.20              -           2683.20
+098)     15608   Piqueos Chicharron De Pollo-PIQUEO                                             67             27.90           1869.30              -           1869.30
+099)     15272   1/2 Pollo Parrillero Original Anticucho-PROMOCIONADO-BRASA                     16             59.90            958.40             7.45%         887.00
+100)     15724   1/4 Pollo Encamotado-BRASA                                                    165             31.50           5197.50              -           5197.50
+101)     39903   Chicha1/2 Litro-PROMOCIONADO-POSTRES                                           78             10.50            819.00            13.99%         704.42
+102)     73410   Anticucho-ESPECIALES                                                           32             12.90            412.80              -            412.80
+103)     77690   Ensalada Cesars Grande Con Pollo-APERITIVO                                     79             32.90           2599.10              -           2599.10
+104)     15378   1/4 Pollo Arrocero-BRASA                                                       57             33.50           1909.50              -           1909.50
+105)     39695   Sangria-PROMOCIONADO-ENSALADAS                                                164             36.90           6051.60            19.63%        4863.67
+106)     53957   Papas Fritas 1/2 Porcion-PARRILLA                                              23             10.90            250.70              -            250.70
+107)     77549   Ensalada Cosida Regular-PROMOCIONADO-ENSALADAS                                 71             18.90           1341.90            19.71%        1077.41
+108)     11283   2 Bolas De Helado-PROMOCIONADO-POSTRES                                         22             14.90            327.80            17.72%         269.71
+109)     77572   Ensalada Fresca Regular-BEBIDAS                                               101             18.90           1908.90              -           1908.90
+110)     77910   Ensalada Delicia Mediana Con Pollo-ENSALADAS                                  170             22.90           3893.00              -           3893.00
