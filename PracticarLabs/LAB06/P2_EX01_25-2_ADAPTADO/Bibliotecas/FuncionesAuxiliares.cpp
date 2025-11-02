@@ -220,6 +220,35 @@ void ordenarReporte(int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
     }
 }
 
+//si categoria de idioma ascendente y tasa drop descendente
+void ordenarReporte(int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
+        char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int cantStreams,
+        int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
+        double *arrPromDropCanal,double *arrPromRatingCanal,
+        int *arrCantReproCanal,int *arrTiempoTotalReproCanal) {
+    for (int i=0;i<cantStreams-1;i++) {
+        for (int j=i+1;j<cantStreams;j++) {
+            if (arrCodeCharCatIdioma[i]>arrCodeCharCatIdioma[j] or
+                arrCodeCharCatIdioma[i]==arrCodeCharCatIdioma[j] and
+                arrCodeIntCatIdioma[i]>arrCodeIntCatIdioma[j] or
+                arrCodeIntCatIdioma[i]==arrCodeIntCatIdioma[j] and
+                arrPromDropCanal[i]<arrPromDropCanal[j]) {
+                swapInt(arrCodeStream[i],arrCodeStream[j]);
+                swapInt(arrDurStream[i],arrDurStream[j]);
+                swapInt(arrCodeIdioma[i],arrCodeIdioma[j]);
+                swapChar(arrCodeCharCatIdioma[i],arrCodeCharCatIdioma[j]);
+                swapInt(arrCodeIntCatIdioma[i],arrCodeIntCatIdioma[j]);
+                swapInt(arrFechaAntiguaCanal[i],arrFechaAntiguaCanal[j]);
+                swapInt(arrFechaRecienteCanal[i],arrFechaRecienteCanal[j]);
+                swapDouble(arrPromRatingCanal[i],arrPromRatingCanal[j]);
+                swapDouble(arrPromDropCanal[i],arrPromDropCanal[j]);
+                swapInt(arrCantReproCanal[i],arrCantReproCanal[j]);
+                swapInt(arrTiempoTotalReproCanal[i],arrTiempoTotalReproCanal[j]);
+            }
+        }
+    }
+}
+
 void eliminar(int *arrCodeStream,int *arrDurStream,int *arrCodeIdioma,
         char *arrCodeCharCatIdioma,int *arrCodeIntCatIdioma,int cantStreams,
         int *arrFechaAntiguaCanal,int *arrFechaRecienteCanal,
