@@ -17,8 +17,8 @@ int main(int argc, char **argv) {
     cargarFacultades("ArchivoDeDatos/Facultades.txt",
                     facultad,arrCodeFacultad,cantFacultades);
 
-    int codigoFacultad=100456;
-    //preguntarFacultad(codigoFacultad);
+    int codigoFacultad;
+    preguntarFacultad(codigoFacultad);
 
     //Calificaciones.txt
     //DER614   5.75
