@@ -1,0 +1,18 @@
+Codigo: CW154A34
+Nombre: marbles_on_stream
+Enlace: https://Laboratorio06_2025_2/ArchivoDeReportes/Marbles_On_Stream
+REPRODUCCIONES: 
+================================================================================
+FECHA          CANAL                   RATING       DROP-OFF       DURACION
+15/09/2025     nl_Kripp                 1.96          0.83         00:10:05
+04/10/2025     YoDa                     1.35          0.80         02:01:49
+12/09/2025     Solary                   4.64          0.11         02:13:47
+20/09/2025     LIRIK                    2.58          0.20         01:50:27
+03/09/2025     Fresh                    2.61          0.87         00:16:42
+10/10/2025     Evelone192               1.53          0.86         01:19:29
+23/08/2025     Fextralife               2.91          0.31         01:35:20
+23/10/2025     Rubius                   1.05          0.59         00:35:51
+================================================================================
+PROMEDIO DE RATING:              2.33
+PROMEDIO DE DROP-OFF:            0.57
+DURACION TOTAL:                 10:03:30
