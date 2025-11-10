@@ -1,0 +1,47 @@
+               REPORTE PRUEBA DISTRITOS
+==================================================
+  CODIGO     NOMBRE                   UBICACION
+--------------------------------------------------
+  LN3085     Ancon                      NORTE          
+  LE3053     Ate Vitarte                ESTE           
+  LO1769     Barranco                   OESTE          
+  LO4328     Brena                      OESTE          
+  LN4803     Carabayllo                 NORTE          
+  LO2220     Cercado de Lima            OESTE          
+  LE5926     Chaclacayo                 ESTE           
+  LO1657     Chorrillos                 OESTE          
+  LE3801     Cieneguilla                ESTE           
+  LN1439     Comas                      NORTE          
+  LE7040     El Agustino                ESTE           
+  LN7093     Independencia              NORTE          
+  LO8667     Jesus Maria                OESTE          
+  LE3716     La Molina                  ESTE           
+  LO7318     La Victoria                OESTE          
+  LO4311     Lince                      OESTE          
+  LN7752     Los Olivos                 NORTE          
+  LE9832     Lurigancho                 ESTE           
+  LS8160     Lurin                      SUR            
+  LO4439     Magdalena del Mar          OESTE          
+  LO6223     Miraflores                 OESTE          
+  LS6184     Pachacamac                 SUR            
+  LS3328     Pucusana                   SUR            
+  LO5964     Pueblo Libre               OESTE          
+  LN8659     Puente Piedra              NORTE          
+  LS6092     Punta Hermosa              SUR            
+  LS3175     Punta Negra                SUR            
+  LO3562     Rimac                      OESTE          
+  LS2020     San Bartolo                SUR            
+  LO3691     San Borja                  OESTE          
+  LO9713     San Isidro                 OESTE          
+  LE7894     San Juan de Lurigancho     ESTE           
+  LS2765     San Juan de Miraflores     SUR            
+  LE6936     San Luis                   ESTE           
+  LN2958     San Martin de Porres       NORTE          
+  LO5817     San Miguel                 OESTE          
+  LE4504     Santa Anita                ESTE           
+  LS3308     Santa Maria del Mar        SUR            
+  LN4826     Santa Rosa                 NORTE          
+  LO9443     Santiago de Surco          OESTE          
+  LO9222     Surquillo                  OESTE          
+  LS8280     Villa El Salvador          SUR            
+  LS8594     Villa Maria del Triunfo    SUR            

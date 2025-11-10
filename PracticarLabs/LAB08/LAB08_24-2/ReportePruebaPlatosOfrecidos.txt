@@ -1,0 +1,114 @@
+                              REPORTE PRUEBA PLATOS OFRECIDOS
+====================================================================================================
+  CODIGO       DESCRIPCION                                       PRECIO    CATEGORIA
+----------------------------------------------------------------------------------------------------
+  AP-73428     TEQUEÑOS                                          19.50     APERITIVO      
+  PO-11283     2 BOLAS DE HELADO                                 14.90     POSTRES        
+  BE-39584     COCA COLA 1 LITRO                                 15.50     BEBIDAS        
+  EN-77894     ENSALADA SENSACION GRANDE CON POLLO               32.90     ENSALADAS      
+  AD-53518     PAPAS FRITAS                                      15.90     ADICIONAL      
+  BR-15665     1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO          50.90     BRASA          
+  EN-77606     ENSALADA HONEY GRANDE SOLO                        24.90     ENSALADAS      
+  EN-77549     ENSALADA COCIDA REGULAR                           18.90     ENSALADAS      
+  AD-90766     ANTICUCHO DE CORAZON                              25.90     ADICIONAL      
+  BE-39747     COCA COLA 1/2 LITRO                                7.00     BEBIDAS        
+  EN-77419     ENSALADA DELICIA GRANDE CON POLLO                 31.90     ENSALADAS      
+  BE-39431     CERVEZA CUSQUENA                                  12.50     BEBIDAS        
+  BE-39738     CERVEZA HEINEKEN                                  18.90     BEBIDAS        
+  BR-15283     1/4 POLLO PARRILLERO ORIGINAL- ARROCERO           33.50     BRASA          
+  BR-15365     1/4 POLLO BBQ/HOT ANTICUCHO                       44.90     BRASA          
+  SA-55338     SANGUCHE BRASA                                    22.90     SANGUCHE       
+  BE-39442     LIMONADA 1 LITRO                                  21.90     BEBIDAS        
+  EN-77691     ENSALADA SENSACION MEDIANA CON POLLO              23.90     ENSALADAS      
+  BE-39896     VINO FINA RESERVA TINTO                          128.90     BEBIDAS        
+  PI-15153     PIQUEOS MOLLEJITAS                                18.90     PIQUEO         
+  EN-77487     ENSALADA CESARS GRANDE SOLO                       24.90     ENSALADAS      
+  PA-11871     LOMO A LA PARRILLA                                54.90     PARRILLA       
+  BE-39851     CASILLERO DEL DIABLO BLANCO                       73.90     BEBIDAS        
+  ES-31644     CHICHARRON DE POLLO AL PLATO                      33.90     ESPECIALES     
+  BR-15950     1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO           43.90     BRASA          
+  BR-15724     1/4 POLLO ENCAMOTADO                              31.50     BRASA          
+  EN-53265     ANTICUCHO                                         12.90     ENTRADA        
+  BE-39265     TABERNERO GRAN TINTO                              49.90     BEBIDAS        
+  AD-53939     TEQUENO                                            4.90     ADICIONAL      
+  BE-39536     SPRITE 1 LITRO                                    15.50     BEBIDAS        
+  EN-77156     ENSALADA COCIDA GRANDE                            22.90     ENSALADAS      
+  BR-15319     1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA      47.90     BRASA          
+  PI-15404     PIQUEOS BROCHETA                                  17.90     PIQUEO         
+  BE-39955     CASILLERO DEL DIABLO TINTO                        73.90     BEBIDAS        
+  BR-15297     1/2 POLLO BBQ/HOT ENCAMOTADO                      51.90     BRASA          
+  PI-15488     PIQUEOS CHORIZOS COCKTAIL                         16.90     PIQUEO         
+  PI-15608     PIQUEOS CHICHARRON DE POLLO                       27.90     PIQUEO         
+  BR-15378     1/4 POLLO ARROCERO                                33.50     BRASA          
+  BE-39137     CERVEZA PILSEN                                    12.00     BEBIDAS        
+  PA-11692     PARRILLA PARA DOS                                 89.90     PARRILLA       
+  BR-15578     1/4 POLLO A LO BRAVO                              33.50     BRASA          
+  PO-11621     CHEESECAKE DE MARACUYA                            15.90     POSTRES        
+  AD-53377     PLATANO                                            3.90     ADICIONAL      
+  BE-39141     CHICHA 1 LITRO                                    21.90     BEBIDAS        
+  EN-77690     ENSALADA CESARS GRANDE CON POLLO                  32.90     ENSALADAS      
+  BR-15272     1/2 POLLO PARRILLERO ORIGINAL ANTICUCHO           59.90     BRASA          
+  BR-15864     1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA      32.50     BRASA          
+  EN-77381     ENSALADA HONEY GRANDE CON POLLO                   32.90     ENSALADAS      
+  EN-90365     MOLLEGITAS A LA PARRILLA                          25.90     ENTRADA        
+  BR-15136     1/2 POLLO BBQ/HOT ANTICUCHO                       60.50     BRASA          
+  BR-15142     1/2 POLLO BBQ/HOT A LO BRAVO                      52.90     BRASA          
+  PI-15392     PIQUEOS ANTICUCHO                                 18.90     PIQUEO         
+  EN-77214     ENSALADA FRESCA GRANDE                            22.90     ENSALADAS      
+  BR-15116     1/2 POLLO ENCAMOTADO                              49.90     BRASA          
+  BR-15510     1/4 POLLO PARRILLERO ORIGINAL ENCAMOTADO          35.90     BRASA          
+  BR-15326     1/4 POLLO PARRILLERO ORIGINAL A LO BRAVO          36.90     BRASA          
+  BR-15479     1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO          51.90     BRASA          
+  BR-15921     1/4 POLLO PAPAS ENSALADA                          29.50     BRASA          
+  PO-11620     CHEESECAKE DE FRESA                               15.90     POSTRES        
+  BR-15419     1/4 POLLO BBQ/HOT A LO BRAVO                      37.90     BRASA          
+  EN-77910     ENSALADA DELICIA MEDIANA CON POLLO                22.90     ENSALADAS      
+  SA-55330     SANGUCHE PARRILLERO                               24.90     SANGUCHE       
+  AP-73500     CHORIZOS COCKTAIL                                 12.90     APERITIVO      
+  AD-53764     PLATANO-HUEVO                                      6.90     ADICIONAL      
+  PO-11751     MAZAMORRA MORADA                                   8.90     POSTRES        
+  BE-39695     SANGRIA                                           36.90     BEBIDAS        
+  PO-11731     ARROZ CON LECHE                                    8.90     POSTRES        
+  AD-53760     ARROZ                                              6.90     ADICIONAL      
+  BE-39227     SPRITE1/2 LITRO                                    7.00     BEBIDAS        
+  ES-31796     ANTICUCHO DE CORAZON AL PLATO                     31.90     ESPECIALES     
+  EN-90758     BROCHETAS DE POLLO                                25.90     ENTRADA        
+  BR-15197     1/2 POLLO ARROCERO                                47.50     BRASA          
+  EN-77572     ENSALADA FRESCA REGULAR                           18.90     ENSALADAS      
+  AD-53502     PORCION DE CAMOTE                                 15.90     ADICIONAL      
+  BR-15611     1/2 POLLO PAPAS ENSALADA                          46.90     BRASA          
+  BE-39199     LIMONADA 1 LITRO                                  10.50     BEBIDAS        
+  BR-15926     1/2 POLLO BBQ/HOT ARROCERO                        49.90     BRASA          
+  BE-39489     FANTA 1/2 LITRO                                    7.00     BEBIDAS        
+  BR-15592     1/4 POLLO ANTICUCHO                               33.90     BRASA          
+  EN-77493     ENSALADA CESARS MEDIANA CON POLLO                 23.90     ENSALADAS      
+  BR-15823     1/4 POLLO BBQ/HOT ENCAMOTADO                      36.90     BRASA          
+  PO-11611     TRES LECHES                                       15.90     POSTRES        
+  BR-15945     1/2 POLLO BBQ/HOT PAPAS ENSALADA                  48.90     BRASA          
+  EN-73410     ANTICUCHO-POLLO                                   12.90     ENTRADA        
+  PI-15539     PIQUEOS MINI POLLITOS PANKO                       21.90     PIQUEO         
+  BE-39160     INKA COLA 1 LITRO                                 15.50     BEBIDAS        
+  BR-15621     1/4 POLLO BBQ/HOT PAPAS ENSALADA                  33.50     BRASA          
+  ES-31815     MOLLEJITAS AL PLATO                               30.90     ESPECIALES     
+  BE-39864     INKA COLA 1/2 LITRO                                7.00     BEBIDAS        
+  BR-15760     1/4 POLLO BBQ/HOT ARROCERO                        34.50     BRASA          
+  PO-11471     1 BOLA DE HELADO                                   8.90     POSTRES        
+  PO-11172     TORTA DE NARANJA                                  15.90     POSTRES        
+  BE-39810     INTIPALKA MALBEC                                  71.90     BEBIDAS        
+  BR-15745     1/2 POLLO PARRILLERO ORIGINAL- ARROCERO           48.90     BRASA          
+  BE-39475     INTIPALKA SYRAH                                   71.90     BEBIDAS        
+  BE-39903     CHICHA1/2 LITRO                                   10.50     BEBIDAS        
+  AD-53991     HUEVO                                              3.90     ADICIONAL      
+  AD-53957     PAPAS FRITAS 1/2 PORCION                          10.90     ADICIONAL      
+  PO-11171     TORTA DE CHOCOLATE                                15.90     POSTRES        
+  EN-77762     ENSALADA DELICIA GRANDE SOLO                      23.90     ENSALADAS      
+  PA-11850     BIFE A LA PARRILLA                                53.90     PARRILLA       
+  EN-77703     ENSALADA SENSACION GRANDE SOLO                    24.90     ENSALADAS      
+  AD-53814     PALTA                                              9.90     ADICIONAL      
+  BE-39987     FANTA 1 LITRO                                     15.50     BEBIDAS        
+  PA-11500     PARRILLA PARA CUATRO                             128.90     PARRILLA       
+  AD-53546     CHOCLO                                             9.90     ADICIONAL      
+  BR-15756     1/2 POLLO A LO BRAVO                              50.90     BRASA          
+  BR-15525     1/2 POLLO ANTICUCHO                               58.50     BRASA          
+  AD-53477     PAPAS DORADAS                                     15.90     ADICIONAL      
+  EN-77971     ENSALADA HONEY MEDIANA CON POLLO                  23.90     ENSALADAS      

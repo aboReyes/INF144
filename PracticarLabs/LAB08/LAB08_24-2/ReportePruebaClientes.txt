@@ -1,0 +1,105 @@
+                         REPORTE PRUEBA CLIENTES
+======================================================================
+  DNI          NOMBRE                              CODIGO DISTRITO
+----------------------------------------------------------------------
+  90367684     CORONEL CHUMPITAZ HELI                  LO4328         
+  99774549     HENRIQUEZ ESPINO BEATRIZ                LO3691         
+  63640178     CABRERA CANALES GUILLERMO EDRIC         LO4439         
+  66039166     LAURA WONG MELVIN HENRRY                LO3562         
+  20371464     CARO POLO SANDRO                        LE7894         
+  35606314     PORTUGAL BENAVENTE JOHANA GLORIA        LO1657         
+  35852072     JUSTINO CRUZ WILLIAMS                   LE3053         
+  51465986     CAMACHO AGUERO ELIA ROSA                LE3716         
+  79100967     LANDA PISCOYA CHRISTIAN                 LN2958         
+  72973662     BENAVENTE AYALA VIRGINIA IRMA           LN7093         
+  54149342     MIYAKE MEREL MADELEINE YLIANA           LO2220         
+  72330000     MEDINA VELASQUEZ MILENA JENNY           LN2958         
+  31284904     CORREA VIZCARDO MIGUEL                  LO4328         
+  66091742     AMEZQUITA EPIQUEN EVERT ROBERTO         LN1439         
+  93961840     CRUZ FUENTES JOHANA YDALI               LS8594         
+  32538825     YOSHINARI RIVERA PAUL                   LO5964         
+  94683380     ASMAD ACUNA ANNIE OFELIA                LN7093         
+  59561864     CHAVEZ PRADO SILVANA                    LO9443         
+  61061535     DE LA CUBA ALBERTO PAIRAZAMAN           LO5964         
+  22679759     GORDILLO YINO YVONNE ROSARIO            LN7752         
+  53420926     MARTEL ASMAD BRUNO ROBERTO              LE7040         
+  37282858     HIJAR YEP WILLIAMS CHRISTIAN            LO5817         
+  34571095     CALDERON ORTEGA GUILLERMO               LN4826         
+  93282118     SUAREZ BOLANOS RAFAEL                   LO6223         
+  86836066     IBEROS VALDERRAMA RAFAEL                LO8667         
+  57182371     VILCARA CORREA VICTOR                   LS8280         
+  43704548     VALVERDE BERROCAL RONY GONZALO          LO4439         
+  12484697     HENRIQUEZ PORTUGAL ALEX                 LO2220         
+  17299012     GONZALES ARIAS HENRY                    LE7894         
+  99891737     RETAMOSO BARRERA OSCAR                  LO2220         
+  91187814     MALDONADO FLORIAN JOHANA                LE4504         
+  36471787     ACUNA YINO ROCIO YOLANDA                LO5964         
+  81647285     VILLEGAS PALOMINO DORIS FREYSA          LE7894         
+  15290194     BARRIOS TOMASICHE CARLOS ALBERTO        LS8280         
+  45914393     MEJIA HUAYANAY CHRISTIAN ALONSO         LO3691         
+  54815159     FLORIAN MORALES YDALI                   LO5964         
+  85395219     MOYA ARANDA JOHNNY                      LE7894         
+  13731806     CORTEZ SEGURA CARMELA INES              LO3562         
+  75100362     VEGA MUNOZ GONZALO                      LO5964         
+  68269451     HIJAR PAIRAZAMAN JENNY DELICIA          LE3716         
+  86988155     ALAMO PAIRAZAMAN MIGUEL ROBERTO         LE4504         
+  77440060     CORONADO FIGUEROA JOHAN                 LE4504         
+  68114999     RUIZ GORDILLO CAROLA ERIKA              LN1439         
+  92275859     CALIXTO TOMASICHE MONICA DORIS          LE7040         
+  28992638     ANTEZANO SEGURA TERESA DELIA            LO6223         
+  71422479     ZARATE DEL POZO HUMBERTO ANTONIO        LS8280         
+  25062013     GAVIDIA MENDOZA RONALD JOHNNY           LE7894         
+  49357767     PATINO CHUNG BEATRIZ ROSA               LN2958         
+  51873364     SEGURA MALCA RONY                       LO3562         
+  95656771     FARFAN FALCON ELIZABETH KARIN           LO9222         
+  30246960     SUCHERO EPIQUEN EDGAR JAVIER            LO4328         
+  34697743     ASTETE RIOS CESAR WILVER                LO9443         
+  62126128     MEREL SALAZAR ANNIE LOURDES             LE4504         
+  51642949     SUELDO RUIZ ANTONIO                     LN2958         
+  80694546     DIAZ REYES WALTER EDGAR                 LE3716         
+  65912822     LAU BACA MONICA TERESA                  LN4826         
+  45201670     URBINA HIJAR RAFAEL                     LE4504         
+  81539774     URBINA CASTILLO HELI                    LO4439         
+  77324146     FALCON PRECIADO ALEX HENRY              LO4328         
+  62287143     DE LA CUBA JUGO LUCERO DELICIA          LO5964         
+  52313890     DURAND MEZA WALDEMAR EDGARD             LO4328         
+  36934113     SALAS URBINA MAGDA CARMEN               LN7752         
+  58643376     VILLEGAS LEIVA FELICITA                 LO9222         
+  27709566     SUAREZ MUNOZ MADELEINE                  LE3053         
+  60543714     BARRERA MIRANDA ALEXANDER MARTIN        LO3691         
+  35347567     FIGUEROA COLLADO EVERT                  LO7318         
+  22598563     MONTERO MONTERO ANNIE                   LO8667         
+  14956687     LA HAZA CABRERA ALBERTO DE              LE6936         
+  59596317     AYALA VIZCARDO EDGAR MANUEL             LO3562         
+  93231760     CHUMPITAZ ALCOCER ANGEL ERICK           LN7752         
+  93939698     CHUMPITAZ PALOMARES VIRGINIA            LE7040         
+  41964357     VILLA SEDANO MARTIN JUVENAL             LO3562         
+  79133967     GUEVARA MIYAKE MILENA                   LO4439         
+  72937662     ROSEMBERG LAU JULIO HENRRY              LO4328         
+  59199342     ZAMBRANO MOSCOSO OFELIA MARIA           LO5964         
+  67277765     CORTEZ SEGURA CARMELA INES              LO9222         
+  92980780     VEGA MUNOZ GONZALO                      LO4439         
+  65278099     HIJAR PAIRAZAMAN JENNY DELICIA          LS8594         
+  78223294     ALAMO PAIRAZAMAN MIGUEL ROBERTO         LO9443         
+  81334083     CORONADO FIGUEROA JOHAN                 LO3691         
+  49573578     RUIZ GORDILLO CAROLA ERIKA              LE7040         
+  31526241     CALIXTO TOMASICHE MONICA DORIS          LO4328         
+  80740735     ANTEZANO SEGURA TERESA DELIA            LO4328         
+  73518695     ZARATE DEL POZO HUMBERTO ANTONIO        LE7894         
+  76595144     GAVIDIA MENDOZA RONALD JOHNNY           LE7894         
+  37769366     PATINO CHUNG BEATRIZ ROSA               LO9222         
+  40711531     SEGURA MALCA RONY                       LE3053         
+  82583252     FARFAN FALCON ELIZABETH KARIN           LO9443         
+  31712526     SUCHERO EPIQUEN EDGAR JAVIER            LE7040         
+  32352361     ASTETE RIOS CESAR WILVER                LN2958         
+  51808448     MEREL SALAZAR ANNIE LOURDES             LO3562         
+  46466842     SUELDO RUIZ ANTONIO                     LS8594         
+  65308391     DIAZ REYES WALTER EDGAR                 LN2958         
+  56100384     LAU BACA MONICA TERESA                  LE3716         
+  52650965     URBINA HIJAR RAFAEL                     LO1657         
+  64262396     URBINA CASTILLO HELI                    LN7093         
+  22303979     FALCON PRECIADO ALEX HENRY              LS8280         
+  51108372     DE LA CUBA JUGO LUCERO DELICIA          LO4439         
+  38986512     DURAND MEZA WALDEMAR EDGARD             LE3716         
+  63230770     SALAS URBINA MAGDA CARMEN               LE7894         
+  86297512     VILLEGAS LEIVA FELICITA                 LO2220         
