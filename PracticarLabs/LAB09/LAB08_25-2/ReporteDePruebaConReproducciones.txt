@@ -601,7 +601,7 @@ ibai                     3.05          01:23:57
 LCS                      2.69          01:24:40
 ============================================================
 Codigo: IC184W19       
-Nombre: pokémon community game
+Nombre: pokÃ©mon community game
 ------------------------------------------------------------
 REPRODUCCIONES: 
 CANAL                   RATING         DURACION
