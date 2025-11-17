@@ -1,0 +1,20 @@
+               REPORTE POR CATEGORIA:
+==================================================
+Codigo: NL146N94
+Nombre: DOTA 2
+Enlace: https://Laboratorio08_2025_2/ArchivoDeReportes/DOTA 2
+--------------------------------------------------
+REPRODUCCIONES: 
+CANAL                   RATING         DURACION
+AURONPLAY                2.66          01:01:29
+HASANABI                 3.71          00:16:51
+LOLTYLER1                1.57          01:31:09
+PESTILY                  3.38          00:43:55
+TFUE                     1.94          02:21:16
+THEREALKNOSSI            3.74          02:12:55
+TIMTHETATMAN             3.24          02:11:37
+YASSUO                   1.82          00:03:27
+--------------------------------------------------
+RATING PROMEDIO:            2.76
+DURACION TOTAL:            10:22:39
+==================================================
