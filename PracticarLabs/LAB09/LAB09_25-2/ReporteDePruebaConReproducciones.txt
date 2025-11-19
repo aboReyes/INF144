@@ -1,0 +1,1006 @@
+                                      REPORTE POR CATEGORIAS
+====================================================================================================
+Codigo:      UM163F47
+Nombre:      just chatting
+Descripcion: Casual conversations; reactions; and hangouts without a main game.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Anomaly             RATING:  1.38     DURACION: 02:08:10
+CANAL: ROSHTEIN            RATING:  3.23     DURACION: 00:57:19
+CANAL: TheGrefg            RATING:  2.48     DURACION: 01:30:43
+====================================================================================================
+Codigo:      DN124W94
+Nombre:      league of legends
+Descripcion: 5v5 MOBA; ranked climbs; pro play analysis; and coaching.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Rubius              RATING:  3.98     DURACION: 00:44:47
+CANAL: YoDa                RATING:  3.78     DURACION: 02:18:49
+CANAL: Gaules              RATING:  2.13     DURACION: 02:23:25
+====================================================================================================
+Codigo:      TZ196V36
+Nombre:      grand theft auto v
+Descripcion: Open-world gameplay: GTA Online missions
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: TFBlade             RATING:  2.18     DURACION: 01:07:32
+CANAL: Castro_1021         RATING:  1.13     DURACION: 00:10:39
+CANAL: ibai                RATING:  4.43     DURACION: 01:27:50
+CANAL: LIRIK               RATING:  3.87     DURACION: 02:17:05
+====================================================================================================
+Codigo:      QU119C56
+Nombre:      counter strike
+Descripcion: Tactical 5v5 FPS; scrims; ranked; utility lineups; and tournaments.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: TFBlade             RATING:  1.42     DURACION: 00:50:07
+CANAL: DrLupo              RATING:  3.69     DURACION: 00:41:37
+CANAL: auronplay           RATING:  2.60     DURACION: 00:14:50
+CANAL: LCK_Korea           RATING:  1.61     DURACION: 01:35:20
+CANAL: Fresh               RATING:  3.36     DURACION: 00:30:58
+====================================================================================================
+Codigo:      LH114O61
+Nombre:      valorant
+Descripcion: Hero-based 5v5 FPS; ranked; team scrims; agent guides
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: DrLupo              RATING:  3.66     DURACION: 00:33:24
+CANAL: YoDa                RATING:  1.14     DURACION: 00:45:22
+CANAL: auronplay           RATING:  1.12     DURACION: 02:05:25
+CANAL: DrLupo              RATING:  1.44     DURACION: 02:19:32
+CANAL: LCK                 RATING:  3.12     DURACION: 00:12:49
+====================================================================================================
+Codigo:      DB186L52
+Nombre:      world of warcraft
+Descripcion: MMORPG raids; Mythic+; leveling; PvP arenas; and class guides.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Gotaga              RATING:  2.86     DURACION: 00:50:50
+CANAL: Pestily             RATING:  2.43     DURACION: 01:19:47
+CANAL: LCK                 RATING:  2.48     DURACION: 00:47:23
+CANAL: YoDa                RATING:  1.14     DURACION: 00:39:19
+====================================================================================================
+Codigo:      XG132J21
+Nombre:      irl
+Descripcion: Real-life streaming: travel; city walks; food tours; and daily life.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Myth                RATING:  2.62     DURACION: 00:37:35
+CANAL: LIRIK               RATING:  4.66     DURACION: 01:30:09
+CANAL: TheRealKnossi       RATING:  1.33     DURACION: 00:33:50
+CANAL: LEC                 RATING:  2.63     DURACION: 00:53:43
+====================================================================================================
+Codigo:      DT153T53
+Nombre:      minecraft
+Descripcion: Survival; creative builds; minigames; speedruns; and modded packs.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: ibai                RATING:  2.65     DURACION: 00:19:26
+====================================================================================================
+Codigo:      NL146N94
+Nombre:      dota 2
+Descripcion: 5v5 MOBA; high-MMR pubs; scrims; drafts; and tournament coverage.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: auronplay           RATING:  2.66     DURACION: 01:01:29
+CANAL: TheRealKnossi       RATING:  3.74     DURACION: 02:12:55
+CANAL: HasanAbi            RATING:  3.71     DURACION: 00:16:51
+CANAL: TimTheTatman        RATING:  3.24     DURACION: 02:11:37
+CANAL: Pestily             RATING:  3.38     DURACION: 00:43:55
+CANAL: Yassuo              RATING:  1.82     DURACION: 00:03:27
+CANAL: loltyler1           RATING:  1.57     DURACION: 01:31:09
+CANAL: Tfue                RATING:  1.94     DURACION: 02:21:16
+====================================================================================================
+Codigo:      MJ182W35
+Nombre:      fortnite
+Descripcion: Battle royale & creative modes; arena grind; events; and challenges.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: YoDa                RATING:  1.50     DURACION: 02:04:08
+CANAL: alanzoka            RATING:  4.41     DURACION: 01:02:38
+CANAL: TheGrefg            RATING:  4.33     DURACION: 00:20:36
+CANAL: Pestily             RATING:  4.99     DURACION: 01:17:11
+====================================================================================================
+Codigo:      WC173Z82
+Nombre:      metal gear solid delta  snake eater
+Descripcion: Stealth-action remake playthroughs; challenges; and lore.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Solary              RATING:  2.40     DURACION: 01:27:50
+CANAL: ESL_CSGO            RATING:  3.59     DURACION: 01:44:07
+CANAL: Pestily             RATING:  3.84     DURACION: 00:52:42
+CANAL: YoDa                RATING:  1.54     DURACION: 00:00:43
+====================================================================================================
+Codigo:      KI146T56
+Nombre:      apex legends
+Descripcion: Battle royale/arenas; ranked pushes; tournaments; and legend tips.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Asmongold           RATING:  3.71     DURACION: 00:38:36
+====================================================================================================
+Codigo:      QC176I92
+Nombre:      call of duty  warzone
+Descripcion: BR metas; loadouts; high-kill lobbies; and ranked Resurgence.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Fextralife          RATING:  2.96     DURACION: 00:24:29
+CANAL: LCK_Korea           RATING:  1.41     DURACION: 01:32:01
+CANAL: Gaules              RATING:  3.12     DURACION: 00:53:25
+CANAL: TFBlade             RATING:  2.35     DURACION: 01:17:20
+CANAL: NICKMERCS           RATING:  4.42     DURACION: 00:55:26
+====================================================================================================
+Codigo:      LN112E45
+Nombre:      dead by daylight
+Descripcion: 4v1 horror; killer/survivor gameplay; builds; and customs.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Castro_1021         RATING:  3.53     DURACION: 00:05:54
+CANAL: OgamingLoL          RATING:  4.17     DURACION: 02:17:14
+CANAL: ESL_CSGO            RATING:  4.74     DURACION: 01:56:21
+CANAL: TheGrefg            RATING:  2.10     DURACION: 02:02:59
+CANAL: Asmongold           RATING:  1.18     DURACION: 00:28:22
+CANAL: loltyler1           RATING:  3.17     DURACION: 02:07:18
+CANAL: LCS                 RATING:  1.41     DURACION: 02:00:14
+CANAL: loltyler1           RATING:  4.52     DURACION: 01:34:28
+====================================================================================================
+Codigo:      KO184K63
+Nombre:      teamfight tactics
+Descripcion: Auto-battler; patch meta comps; high-ELO ladders; and tips.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Dota2RuHub          RATING:  2.12     DURACION: 00:49:58
+CANAL: Gotaga              RATING:  1.43     DURACION: 00:34:08
+CANAL: Pestily             RATING:  3.55     DURACION: 01:09:24
+====================================================================================================
+Codigo:      MI118Y35
+Nombre:      special events
+Descripcion: One-off broadcasts: showcases; charity streams; and premieres.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Rubius              RATING:  1.24     DURACION: 00:50:15
+CANAL: Pestily             RATING:  4.91     DURACION: 01:41:23
+CANAL: xQcOW               RATING:  1.34     DURACION: 02:17:31
+CANAL: Solary              RATING:  3.07     DURACION: 02:00:06
+CANAL: ibai                RATING:  2.81     DURACION: 02:09:45
+CANAL: Sardoche            RATING:  2.93     DURACION: 00:15:59
+CANAL: TimTheTatman        RATING:  3.84     DURACION: 00:09:48
+CANAL: NICKMERCS           RATING:  2.90     DURACION: 00:47:31
+CANAL: ESL_CSGO            RATING:  4.81     DURACION: 00:50:07
+====================================================================================================
+Codigo:      WT179Q13
+Nombre:      marvel rivals
+Descripcion: Team shooter with Marvel heroes; matches; comps; and strategies.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Anomaly             RATING:  1.89     DURACION: 01:26:41
+CANAL: Solary              RATING:  4.89     DURACION: 02:22:42
+CANAL: LIRIK               RATING:  4.05     DURACION: 01:42:06
+CANAL: auronplay           RATING:  4.45     DURACION: 01:05:48
+CANAL: Solary              RATING:  2.45     DURACION: 01:25:58
+CANAL: Myth                RATING:  4.34     DURACION: 02:13:03
+====================================================================================================
+Codigo:      QT146C58
+Nombre:      overwatch 2
+Descripcion: 5v5 hero FPS; role queue ranked; scrims; and VOD reviews.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Yassuo              RATING:  3.11     DURACION: 01:20:38
+CANAL: LCK_Korea           RATING:  4.48     DURACION: 00:53:08
+====================================================================================================
+Codigo:      QR146D97
+Nombre:      escape from tarkov
+Descripcion: Extraction shooter; raids; looting routes; wipes; and market.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: summit1g            RATING:  4.99     DURACION: 00:21:53
+CANAL: dota2mc_ru          RATING:  4.97     DURACION: 00:20:10
+====================================================================================================
+Codigo:      RO195M41
+Nombre:      rocket league
+Descripcion: Car-soccer; ranked playlists; freestyling; and tournaments.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: ESL_CSGO            RATING:  2.73     DURACION: 02:11:37
+CANAL: HasanAbi            RATING:  2.29     DURACION: 01:55:47
+CANAL: YoDa                RATING:  2.18     DURACION: 00:13:58
+====================================================================================================
+Codigo:      RD128Y57
+Nombre:      world of tanks
+Descripcion: Tank warfare; tech tree grinds; clan wars; and missions.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: MontanaBlack88      RATING:  4.76     DURACION: 00:21:01
+CANAL: LEC                 RATING:  1.34     DURACION: 01:13:35
+CANAL: Tfue                RATING:  4.17     DURACION: 00:27:56
+CANAL: LIRIK               RATING:  4.96     DURACION: 01:50:27
+CANAL: MOONMOON            RATING:  3.23     DURACION: 02:08:27
+====================================================================================================
+Codigo:      DQ172M16
+Nombre:      clash royale
+Descripcion: Mobile RTS; ladder; challenges; deck building; and tips.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: hanryang1125        RATING:  3.23     DURACION: 01:52:28
+CANAL: Anomaly             RATING:  2.31     DURACION: 00:58:45
+CANAL: xQcOW               RATING:  4.72     DURACION: 01:54:20
+CANAL: TFBlade             RATING:  4.14     DURACION: 02:00:14
+CANAL: LIRIK               RATING:  4.56     DURACION: 00:01:35
+CANAL: ESL_CSGO            RATING:  2.96     DURACION: 01:09:24
+====================================================================================================
+Codigo:      BY199O22
+Nombre:      variety
+Descripcion: Mixed-content channels rotating games and formats frequently.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Evelone192          RATING:  1.88     DURACION: 01:36:29
+CANAL: alanzoka            RATING:  3.24     DURACION: 00:18:35
+====================================================================================================
+Codigo:      BQ129A71
+Nombre:      street fighter 6
+Descripcion: 1v1 fighting; ranked sets; lab work; tech; and tournaments.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: LEC                 RATING:  2.39     DURACION: 00:02:36
+CANAL: Fresh               RATING:  3.34     DURACION: 00:43:21
+====================================================================================================
+Codigo:      LJ159A55
+Nombre:      hollow knight
+Descripcion: Metroidvania; challenge runs; speedruns; and full completions.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: handongsuk          RATING:  1.75     DURACION: 01:53:11
+CANAL: Anomaly             RATING:  4.77     DURACION: 02:04:25
+====================================================================================================
+Codigo:      CY155Y58
+Nombre:      peak
+Descripcion: Competitive/action title; early-meta exploration and live matches.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Lord_Kebun          RATING:  1.66     DURACION: 02:22:25
+CANAL: TheGrefg            RATING:  4.13     DURACION: 01:16:36
+CANAL: Gaules              RATING:  2.71     DURACION: 02:19:32
+CANAL: handongsuk          RATING:  3.99     DURACION: 00:19:35
+CANAL: Sardoche            RATING:  2.70     DURACION: 01:26:59
+====================================================================================================
+Codigo:      PK187T86
+Nombre:      sports
+Descripcion: Sports talk; watch-alongs; management sims; and highlights.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: TFBlade             RATING:  4.01     DURACION: 00:12:58
+CANAL: Tfue                RATING:  3.37     DURACION: 02:07:35
+CANAL: Rubius              RATING:  4.50     DURACION: 01:15:01
+====================================================================================================
+Codigo:      RK128P86
+Nombre:      last epoch
+Descripcion: ARPG; endgame monoliths; builds; crafting; and loot hunts.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Sardoche            RATING:  3.54     DURACION: 00:30:40
+CANAL: Tfue                RATING:  3.01     DURACION: 00:26:30
+CANAL: Fresh               RATING:  4.90     DURACION: 01:39:04
+CANAL: TheGrefg            RATING:  2.43     DURACION: 00:02:36
+====================================================================================================
+Codigo:      RQ191T25
+Nombre:      old school runescape
+Descripcion: Classic MMORPG; skilling; PvM bosses; and Ironman runs.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: TheGrefg            RATING:  3.71     DURACION: 01:22:05
+CANAL: hanryang1125        RATING:  4.41     DURACION: 00:16:25
+CANAL: Rubius              RATING:  1.06     DURACION: 00:13:58
+====================================================================================================
+Codigo:      LB198Z91
+Nombre:      deadlock
+Descripcion: Competitive shooter/MOBA hybrid; matches and meta testing.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: LCK_Korea           RATING:  1.10     DURACION: 02:06:52
+CANAL: loltyler1           RATING:  1.27     DURACION: 01:48:26
+CANAL: YoDa                RATING:  2.67     DURACION: 01:03:39
+CANAL: handongsuk          RATING:  2.74     DURACION: 01:52:28
+CANAL: Lord_Kebun          RATING:  1.10     DURACION: 02:17:14
+CANAL: Fextralife          RATING:  2.20     DURACION: 01:20:30
+CANAL: Fresh               RATING:  2.40     DURACION: 01:29:51
+CANAL: handongsuk          RATING:  2.18     DURACION: 00:57:27
+====================================================================================================
+Codigo:      RN127Z69
+Nombre:      hearthstone
+Descripcion: Digital CCG; ladder climbs; Arena; Battlegrounds; and deck guides.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: GamesDoneQuick      RATING:  3.76     DURACION: 02:18:32
+CANAL: auronplay           RATING:  3.22     DURACION: 01:15:19
+====================================================================================================
+Codigo:      KS132B14
+Nombre:      asmr
+Descripcion: Whispered and sound-focused relaxation to help sleep and study.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: dota2mc_ru          RATING:  4.58     DURACION: 01:31:44
+CANAL: BeyondTheSummit     RATING:  4.00     DURACION: 00:52:51
+CANAL: Tfue                RATING:  2.69     DURACION: 00:43:38
+CANAL: Yassuo              RATING:  1.16     DURACION: 02:18:06
+CANAL: ESL_CSGO            RATING:  1.45     DURACION: 01:01:03
+====================================================================================================
+Codigo:      LD127Y85
+Nombre:      path of exile 2
+Descripcion: ARPG; campaign; league starts; crafting; and bossing.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: auronplay           RATING:  3.44     DURACION: 00:58:45
+CANAL: DrLupo              RATING:  2.98     DURACION: 01:25:49
+CANAL: YoDa                RATING:  3.67     DURACION: 01:20:04
+CANAL: LCS                 RATING:  4.77     DURACION: 01:59:14
+CANAL: Lord_Kebun          RATING:  1.47     DURACION: 01:49:44
+====================================================================================================
+Codigo:      HW116B55
+Nombre:      art
+Descripcion: Live drawing; painting; 3D modeling; and illustration workflows.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Sardoche            RATING:  3.45     DURACION: 00:19:44
+CANAL: LCS                 RATING:  4.04     DURACION: 01:48:26
+CANAL: CohhCarnage         RATING:  2.88     DURACION: 00:21:10
+====================================================================================================
+Codigo:      AK118L96
+Nombre:      pubg  battlegrounds
+Descripcion: Tactical battle royale; rotations; clutches; and team comps.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: TheRealKnossi       RATING:  2.21     DURACION: 02:20:33
+CANAL: TFBlade             RATING:  1.77     DURACION: 02:08:10
+CANAL: alanzoka            RATING:  3.15     DURACION: 02:05:00
+CANAL: DrDisrespect        RATING:  2.96     DURACION: 01:33:45
+CANAL: hanryang1125        RATING:  4.57     DURACION: 02:22:16
+CANAL: CohhCarnage         RATING:  4.04     DURACION: 01:50:53
+====================================================================================================
+Codigo:      NS118H61
+Nombre:      virtual casino
+Descripcion: Virtual casino-style games and demonstrations.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: nl_Kripp            RATING:  1.65     DURACION: 00:06:03
+CANAL: NICKMERCS           RATING:  3.53     DURACION: 00:09:13
+CANAL: Asmongold           RATING:  3.27     DURACION: 01:51:36
+====================================================================================================
+Codigo:      GW115W74
+Nombre:      slots
+Descripcion: Slot machine streams and related casino content.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Fresh               RATING:  1.15     DURACION: 00:36:00
+====================================================================================================
+Codigo:      NZ127Y46
+Nombre:      roblox
+Descripcion: Community-made experiences: obbies; roleplay; and minigames.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: summit1g            RATING:  2.81     DURACION: 01:02:47
+====================================================================================================
+Codigo:      AE182A15
+Nombre:      im only sleeping
+Descripcion: "“Sleep"" streams with chat interactions and ambience."
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Castro_1021         RATING:  4.53     DURACION: 00:42:29
+CANAL: OgamingLoL          RATING:  3.77     DURACION: 01:37:55
+CANAL: Pestily             RATING:  3.58     DURACION: 00:14:33
+====================================================================================================
+Codigo:      UW174Q61
+Nombre:      music
+Descripcion: Live music: covers; songwriting; production; and jam sessions.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Anomaly             RATING:  4.59     DURACION: 01:18:37
+CANAL: TimTheTatman        RATING:  1.88     DURACION: 00:37:35
+CANAL: TimTheTatman        RATING:  3.87     DURACION: 00:56:18
+CANAL: alanzoka            RATING:  4.76     DURACION: 02:21:59
+CANAL: summit1g            RATING:  1.89     DURACION: 00:02:18
+====================================================================================================
+Codigo:      NU114V45
+Nombre:      djs
+Descripcion: DJ sets; mixing; and live club-style performances.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: GamesDoneQuick      RATING:  4.97     DURACION: 02:21:16
+CANAL: OgamingLoL          RATING:  2.48     DURACION: 00:20:18
+====================================================================================================
+Codigo:      PY187C33
+Nombre:      ea sports fc 25
+Descripcion: Football/soccer; Ultimate Team; Seasons; and tournaments.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Rubius              RATING:  3.57     DURACION: 00:11:23
+CANAL: LEC                 RATING:  1.97     DURACION: 00:45:56
+CANAL: LCK_Korea           RATING:  4.96     DURACION: 00:44:38
+CANAL: LCK                 RATING:  1.28     DURACION: 01:55:47
+CANAL: HasanAbi            RATING:  3.03     DURACION: 01:58:57
+====================================================================================================
+Codigo:      EW188U26
+Nombre:      rust
+Descripcion: Survival PvP; wipe days; raids; bases; and team warfare.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Gaules              RATING:  3.48     DURACION: 01:49:26
+CANAL: Fresh               RATING:  2.08     DURACION: 00:02:44
+CANAL: Rubius              RATING:  1.53     DURACION: 02:13:47
+CANAL: DrDisrespect        RATING:  3.10     DURACION: 02:03:59
+CANAL: DrDisrespect        RATING:  2.01     DURACION: 00:06:03
+CANAL: Gaules              RATING:  4.70     DURACION: 02:03:42
+CANAL: TimTheTatman        RATING:  1.48     DURACION: 01:30:35
+====================================================================================================
+Codigo:      ZG113P58
+Nombre:      retro
+Descripcion: Classic and retro gaming; speedruns; challenges; and nostalgia.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Gaules              RATING:  2.85     DURACION: 00:38:01
+CANAL: BeyondTheSummit     RATING:  4.34     DURACION: 01:23:05
+CANAL: Asmongold           RATING:  1.19     DURACION: 01:02:04
+CANAL: YoDa                RATING:  4.07     DURACION: 01:53:37
+CANAL: LEC                 RATING:  4.05     DURACION: 00:26:21
+====================================================================================================
+Codigo:      FE115G27
+Nombre:      shadowverse  worlds beyond
+Descripcion: Anime-style CCG; ladder; tournaments; and deck tech.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Solary              RATING:  4.77     DURACION: 02:14:47
+CANAL: dota2mc_ru          RATING:  3.83     DURACION: 00:51:24
+CANAL: Rubius              RATING:  3.90     DURACION: 00:01:18
+CANAL: Myth                RATING:  1.86     DURACION: 01:08:24
+====================================================================================================
+Codigo:      ZU177L96
+Nombre:      tom clancys rainbow six siege x
+Descripcion: Tactical FPS; strats; ranked; and operator guides.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Myth                RATING:  4.57     DURACION: 00:50:33
+CANAL: TheRealKnossi       RATING:  1.40     DURACION: 01:31:00
+====================================================================================================
+Codigo:      VG156H76
+Nombre:      albion online
+Descripcion: Sandbox MMORPG; PvP; ZvZ; gathering; and crafting economies.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Anomaly             RATING:  2.06     DURACION: 00:11:23
+CANAL: LCK_Korea           RATING:  1.58     DURACION: 01:14:44
+CANAL: LIRIK               RATING:  2.82     DURACION: 00:32:59
+CANAL: Solary              RATING:  3.16     DURACION: 00:28:22
+CANAL: Gotaga              RATING:  3.51     DURACION: 01:01:38
+====================================================================================================
+Codigo:      KB123B15
+Nombre:      destiny 2
+Descripcion: Looter-shooter; raids; Trials; builds; and seasonal content.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Gotaga              RATING:  2.07     DURACION: 02:05:34
+CANAL: Gaules              RATING:  1.45     DURACION: 01:39:39
+CANAL: nl_Kripp            RATING:  4.33     DURACION: 00:26:38
+CANAL: handongsuk          RATING:  2.57     DURACION: 00:32:41
+CANAL: TFBlade             RATING:  4.11     DURACION: 01:08:07
+====================================================================================================
+Codigo:      BK137V33
+Nombre:      always on
+Descripcion: 24/7 channels with loops; cams; and continuous programming.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: NICKMERCS           RATING:  3.49     DURACION: 00:13:49
+CANAL: HasanAbi            RATING:  3.44     DURACION: 00:58:54
+CANAL: handongsuk          RATING:  1.19     DURACION: 00:56:01
+CANAL: TFBlade             RATING:  2.21     DURACION: 00:20:01
+CANAL: Fextralife          RATING:  4.78     DURACION: 02:05:51
+====================================================================================================
+Codigo:      LO141I68
+Nombre:      call of duty  black ops 6
+Descripcion: CoD entry; multiplayer; Zombies; and campaign runs.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Sardoche            RATING:  4.26     DURACION: 00:49:49
+CANAL: summit1g            RATING:  1.04     DURACION: 00:27:13
+CANAL: Dota2RuHub          RATING:  3.25     DURACION: 00:27:04
+CANAL: Fresh               RATING:  4.91     DURACION: 02:09:53
+CANAL: Castro_1021         RATING:  3.38     DURACION: 02:15:22
+====================================================================================================
+Codigo:      RL171J41
+Nombre:      delta force
+Descripcion: Tactical shooter; squad play; extraction/objective modes.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: LCS                 RATING:  2.08     DURACION: 00:27:13
+CANAL: CohhCarnage         RATING:  1.60     DURACION: 00:20:01
+CANAL: MOONMOON            RATING:  2.56     DURACION: 00:51:50
+CANAL: Evelone192          RATING:  4.24     DURACION: 01:36:03
+====================================================================================================
+Codigo:      CG165W46
+Nombre:      madden nfl 26
+Descripcion: American football; Franchise; MUT; and head-to-head play.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: LCS                 RATING:  2.64     DURACION: 01:48:52
+CANAL: Anomaly             RATING:  2.72     DURACION: 01:12:43
+CANAL: TimTheTatman        RATING:  1.79     DURACION: 01:29:51
+CANAL: ESL_CSGO            RATING:  1.03     DURACION: 01:02:04
+CANAL: ESL_CSGO            RATING:  1.61     DURACION: 00:48:14
+====================================================================================================
+Codigo:      OA138Q42
+Nombre:      rimworld
+Descripcion: Colony sim; storytelling runs; modpacks; and challenge scenarios.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Gaules              RATING:  3.03     DURACION: 01:28:42
+CANAL: CohhCarnage         RATING:  1.66     DURACION: 01:43:32
+CANAL: Castro_1021         RATING:  2.27     DURACION: 01:21:22
+CANAL: auronplay           RATING:  1.65     DURACION: 02:05:17
+====================================================================================================
+Codigo:      DU188A83
+Nombre:      garrys mod
+Descripcion: Sandbox & community modes; RP; TTT; and minigames.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Castro_1021         RATING:  1.59     DURACION: 01:51:10
+CANAL: Solary              RATING:  4.03     DURACION: 01:30:17
+CANAL: DrLupo              RATING:  2.07     DURACION: 01:12:43
+CANAL: TimTheTatman        RATING:  4.11     DURACION: 01:18:37
+====================================================================================================
+Codigo:      PA184Q16
+Nombre:      tibia
+Descripcion: Classic MMORPG; hunts; quests; and guild events.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: ESL_CSGO            RATING:  1.05     DURACION: 01:59:48
+CANAL: Myth                RATING:  4.69     DURACION: 01:42:14
+CANAL: nl_Kripp            RATING:  1.42     DURACION: 00:02:27
+CANAL: loltyler1           RATING:  4.17     DURACION: 00:34:16
+CANAL: alanzoka            RATING:  4.96     DURACION: 00:02:44
+====================================================================================================
+Codigo:      NN197G83
+Nombre:      games + demos
+Descripcion: Demos and showcases for new and indie games.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Castro_1021         RATING:  1.06     DURACION: 02:19:15
+CANAL: loltyler1           RATING:  3.96     DURACION: 01:55:12
+====================================================================================================
+Codigo:      HV185O43
+Nombre:      elden ring
+Descripcion: Soulslike ARPG; challenge runs; builds; and boss fights.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: MontanaBlack88      RATING:  4.94     DURACION: 00:48:06
+CANAL: HasanAbi            RATING:  3.28     DURACION: 00:11:05
+CANAL: alanzoka            RATING:  3.53     DURACION: 01:00:29
+CANAL: riotgames           RATING:  2.46     DURACION: 02:11:11
+CANAL: GamesDoneQuick      RATING:  2.37     DURACION: 01:52:45
+CANAL: nl_Kripp            RATING:  2.12     DURACION: 01:05:05
+====================================================================================================
+Codigo:      UE163E26
+Nombre:      final fantasy xiv online
+Descripcion: MMORPG; MSQ; raids; glam; and daily roulettes.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: ESL_CSGO            RATING:  3.19     DURACION: 01:25:32
+CANAL: sodapoppin          RATING:  1.86     DURACION: 01:06:58
+CANAL: ROSHTEIN            RATING:  1.14     DURACION: 00:27:39
+CANAL: auronplay           RATING:  1.22     DURACION: 01:10:25
+CANAL: LCK_Korea           RATING:  1.45     DURACION: 01:23:14
+CANAL: Evelone192          RATING:  3.52     DURACION: 01:40:05
+CANAL: LIRIK               RATING:  2.36     DURACION: 01:00:03
+====================================================================================================
+Codigo:      MD184K15
+Nombre:      phasmophobia
+Descripcion: Co-op ghost hunting; investigations and challenge runs.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Rubius              RATING:  4.21     DURACION: 00:11:57
+CANAL: LIRIK               RATING:  2.27     DURACION: 01:20:12
+CANAL: Tfue                RATING:  1.40     DURACION: 00:55:09
+CANAL: alanzoka            RATING:  4.46     DURACION: 01:46:34
+CANAL: ibai                RATING:  3.05     DURACION: 01:23:57
+CANAL: LCS                 RATING:  2.69     DURACION: 01:24:40
+====================================================================================================
+Codigo:      IC184W19
+Nombre:      pokémon community game
+Descripcion: Chat-driven Pokémon minigame played in-stream.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Tfue                RATING:  1.79     DURACION: 01:04:31
+CANAL: YoDa                RATING:  1.32     DURACION: 00:12:23
+CANAL: auronplay           RATING:  3.55     DURACION: 00:39:01
+CANAL: YoDa                RATING:  1.50     DURACION: 01:26:59
+CANAL: MontanaBlack88      RATING:  4.97     DURACION: 01:01:12
+CANAL: MontanaBlack88      RATING:  3.63     DURACION: 01:19:03
+====================================================================================================
+Codigo:      BA171U58
+Nombre:      talk shows & podcasts
+Descripcion: Live interviews; panels; and podcast recordings.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: HasanAbi            RATING:  1.71     DURACION: 00:53:34
+CANAL: Fextralife          RATING:  3.30     DURACION: 01:11:17
+CANAL: loltyler1           RATING:  1.98     DURACION: 00:08:38
+CANAL: Fextralife          RATING:  1.11     DURACION: 02:22:42
+CANAL: handongsuk          RATING:  4.36     DURACION: 01:42:14
+====================================================================================================
+Codigo:      XL132F68
+Nombre:      clair obscur  expedition 33
+Descripcion: Story-driven RPG; playthroughs and theorycrafting.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: DrLupo              RATING:  1.91     DURACION: 01:58:13
+CANAL: xQcOW               RATING:  3.96     DURACION: 01:50:53
+CANAL: Yassuo              RATING:  2.97     DURACION: 00:45:04
+====================================================================================================
+Codigo:      YC193H47
+Nombre:      animals aquariums and zoos
+Descripcion: Live animal cams; care streams; and zoo tours.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: hanryang1125        RATING:  3.88     DURACION: 00:01:35
+CANAL: hanryang1125        RATING:  4.91     DURACION: 02:10:19
+CANAL: GamesDoneQuick      RATING:  4.58     DURACION: 01:04:22
+CANAL: MOONMOON            RATING:  4.68     DURACION: 01:57:56
+CANAL: nl_Kripp            RATING:  1.18     DURACION: 01:25:06
+====================================================================================================
+Codigo:      DA182Q73
+Nombre:      arena breakout  infinite
+Descripcion: Extraction FPS; builds; raids; and economy.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: TheRealKnossi       RATING:  4.08     DURACION: 00:47:40
+====================================================================================================
+Codigo:      CV195R73
+Nombre:      vrchat
+Descripcion: Social VR; avatar showcases; world hopping; and meetups.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: ibai                RATING:  1.49     DURACION: 02:17:05
+====================================================================================================
+Codigo:      ET182T41
+Nombre:      project zomboid
+Descripcion: Survival sim; base building; mods; and RP servers.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: TimTheTatman        RATING:  1.37     DURACION: 02:15:22
+CANAL: BeyondTheSummit     RATING:  2.78     DURACION: 01:58:05
+CANAL: ESL_CSGO            RATING:  3.10     DURACION: 01:42:23
+CANAL: OgamingLoL          RATING:  3.45     DURACION: 01:35:20
+CANAL: Myth                RATING:  3.46     DURACION: 01:30:35
+CANAL: Asmongold           RATING:  2.44     DURACION: 01:15:53
+====================================================================================================
+Codigo:      OR112F58
+Nombre:      are you smarter than a 5th grader
+Descripcion: Quiz/show game sessions with viewers.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: MontanaBlack88      RATING:  3.81     DURACION: 01:03:22
+CANAL: DrDisrespect        RATING:  4.72     DURACION: 01:41:40
+CANAL: DrDisrespect        RATING:  4.39     DURACION: 00:31:24
+====================================================================================================
+Codigo:      VD139J89
+Nombre:      gears of war  reloaded
+Descripcion: Cover-based shooter; campaign playthroughs and versus.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Lord_Kebun          RATING:  1.39     DURACION: 01:51:10
+CANAL: riotgames           RATING:  4.18     DURACION: 01:20:04
+CANAL: Dota2RuHub          RATING:  1.21     DURACION: 01:48:00
+CANAL: NICKMERCS           RATING:  3.95     DURACION: 00:12:06
+====================================================================================================
+Codigo:      ZT132U54
+Nombre:      oh deer
+Descripcion: Light indie experience; exploration and humor.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Sardoche            RATING:  4.41     DURACION: 01:41:48
+CANAL: TheGrefg            RATING:  3.85     DURACION: 00:34:42
+CANAL: Pestily             RATING:  4.04     DURACION: 00:16:42
+CANAL: handongsuk          RATING:  3.10     DURACION: 01:06:32
+CANAL: Pestily             RATING:  2.32     DURACION: 01:00:29
+====================================================================================================
+Codigo:      VX165C97
+Nombre:      helldivers 2
+Descripcion: Co-op shooter; operations; weapons; and stratagems.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: summit1g            RATING:  3.33     DURACION: 02:06:35
+CANAL: LIRIK               RATING:  2.08     DURACION: 00:58:36
+CANAL: TFBlade             RATING:  3.04     DURACION: 00:09:04
+====================================================================================================
+Codigo:      NO156F14
+Nombre:      foxhole
+Descripcion: Massive war MMO; logistics; fronts; and player-driven battles.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Rubius              RATING:  4.44     DURACION: 01:24:23
+CANAL: Rubius              RATING:  1.03     DURACION: 00:10:05
+CANAL: LCS                 RATING:  3.62     DURACION: 01:38:56
+CANAL: Rubius              RATING:  3.26     DURACION: 01:41:57
+CANAL: Fextralife          RATING:  2.78     DURACION: 01:55:21
+====================================================================================================
+Codigo:      BQ199B68
+Nombre:      star citizen
+Descripcion: Space sim; ships; trading; org operations; and events.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: ROSHTEIN            RATING:  4.33     DURACION: 01:55:12
+CANAL: loltyler1           RATING:  1.51     DURACION: 01:44:24
+CANAL: nl_Kripp            RATING:  4.11     DURACION: 01:43:32
+====================================================================================================
+Codigo:      XC175U15
+Nombre:      poker
+Descripcion: Live poker tables; analysis; and tournaments.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Dota2RuHub          RATING:  3.55     DURACION: 00:15:59
+CANAL: TFBlade             RATING:  1.06     DURACION: 01:08:33
+CANAL: hanryang1125        RATING:  2.44     DURACION: 01:29:25
+CANAL: summit1g            RATING:  4.40     DURACION: 00:30:49
+====================================================================================================
+Codigo:      TB183R89
+Nombre:      wuthering waves
+Descripcion: Gacha ARPG; pulls; builds; and open-world exploration.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: dota2mc_ru          RATING:  3.66     DURACION: 00:40:02
+CANAL: LEC                 RATING:  2.67     DURACION: 02:18:14
+====================================================================================================
+Codigo:      AZ147L57
+Nombre:      heroes of might and magic iii
+Descripcion: Turn-based strategy; campaigns and PvP.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: TimTheTatman        RATING:  3.06     DURACION: 02:12:03
+CANAL: ROSHTEIN            RATING:  4.88     DURACION: 00:22:19
+CANAL: TimTheTatman        RATING:  2.20     DURACION: 01:17:20
+CANAL: riotgames           RATING:  1.39     DURACION: 00:42:03
+====================================================================================================
+Codigo:      EB132T28
+Nombre:      call of duty
+Descripcion: General CoD category; multiplayer; BR; and Zombies across titles.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Tfue                RATING:  1.92     DURACION: 02:06:52
+CANAL: BeyondTheSummit     RATING:  1.85     DURACION: 01:27:42
+CANAL: Rubius              RATING:  1.11     DURACION: 00:57:45
+CANAL: auronplay           RATING:  1.52     DURACION: 01:21:22
+CANAL: DrDisrespect        RATING:  3.54     DURACION: 02:21:33
+CANAL: nl_Kripp            RATING:  2.08     DURACION: 01:12:17
+====================================================================================================
+Codigo:      II162W87
+Nombre:      crypto
+Descripcion: Crypto markets talk; education; and web3 project coverage.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: riotgames           RATING:  4.42     DURACION: 01:55:21
+CANAL: nl_Kripp            RATING:  1.58     DURACION: 01:08:50
+CANAL: ibai                RATING:  3.12     DURACION: 00:09:56
+CANAL: Asmongold           RATING:  4.12     DURACION: 02:17:14
+====================================================================================================
+Codigo:      KF142D45
+Nombre:      guild wars 2
+Descripcion: MMORPG; WvW; fractals; raids; and fashion.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: YoDa                RATING:  3.66     DURACION: 00:17:00
+CANAL: NICKMERCS           RATING:  4.21     DURACION: 00:58:02
+CANAL: BeyondTheSummit     RATING:  4.77     DURACION: 00:30:23
+CANAL: LIRIK               RATING:  1.68     DURACION: 00:07:47
+====================================================================================================
+Codigo:      AF136N84
+Nombre:      metal gear solid v  the phantom pain
+Descripcion: Sandbox stealth-action; missions and mods.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: MOONMOON            RATING:  4.70     DURACION: 01:08:07
+====================================================================================================
+Codigo:      AN121I85
+Nombre:      red dead redemption 2
+Descripcion: Open-world Western; story; online; and RP.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: DrDisrespect        RATING:  1.81     DURACION: 01:57:30
+CANAL: TheRealKnossi       RATING:  2.23     DURACION: 01:36:12
+CANAL: Anomaly             RATING:  2.62     DURACION: 01:08:33
+CANAL: Castro_1021         RATING:  1.29     DURACION: 02:14:47
+CANAL: auronplay           RATING:  3.68     DURACION: 01:40:13
+CANAL: Asmongold           RATING:  2.41     DURACION: 01:42:40
+====================================================================================================
+Codigo:      QA163C53
+Nombre:      magic  the gathering
+Descripcion: TCG; Arena/paper play; deck tech; and events.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: summit1g            RATING:  3.39     DURACION: 02:12:03
+CANAL: Pestily             RATING:  1.65     DURACION: 02:10:28
+CANAL: riotgames           RATING:  4.60     DURACION: 02:19:58
+CANAL: TheGrefg            RATING:  1.86     DURACION: 00:00:43
+CANAL: OgamingLoL          RATING:  4.37     DURACION: 01:48:09
+CANAL: NICKMERCS           RATING:  4.17     DURACION: 00:41:02
+CANAL: TheGrefg            RATING:  3.58     DURACION: 01:57:48
+====================================================================================================
+Codigo:      IR129C28
+Nombre:      battlefield 2042
+Descripcion: Large-scale FPS; conquest; portal modes; and specialists.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: TheRealKnossi       RATING:  2.66     DURACION: 01:51:01
+====================================================================================================
+Codigo:      AN114F11
+Nombre:      geoguessr
+Descripcion: Geography guessing; streaks; duels; and tournaments.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Evelone192          RATING:  3.81     DURACION: 00:08:30
+CANAL: Lord_Kebun          RATING:  2.55     DURACION: 00:37:26
+====================================================================================================
+Codigo:      VS157U81
+Nombre:      abiotic factor
+Descripcion: Co-op survival; crafting; exploration; and base defense.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: TheRealKnossi       RATING:  3.57     DURACION: 00:11:05
+CANAL: summit1g            RATING:  4.04     DURACION: 00:38:53
+====================================================================================================
+Codigo:      BC173T92
+Nombre:      blue protocol  star resonance
+Descripcion: Online action RPG with an anime vibe; quests and co-op.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: BeyondTheSummit     RATING:  4.00     DURACION: 00:33:50
+CANAL: NICKMERCS           RATING:  1.95     DURACION: 02:12:20
+CANAL: xQcOW               RATING:  2.48     DURACION: 01:52:28
+CANAL: LCK_Korea           RATING:  1.80     DURACION: 00:16:42
+CANAL: YoDa                RATING:  1.55     DURACION: 00:55:26
+====================================================================================================
+Codigo:      OZ151I97
+Nombre:      haunted room  205
+Descripcion: Horror/escape; investigation; puzzles; and scares.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: handongsuk          RATING:  4.30     DURACION: 00:37:26
+CANAL: MontanaBlack88      RATING:  3.62     DURACION: 01:40:05
+CANAL: LCS                 RATING:  3.17     DURACION: 00:15:16
+CANAL: ESL_CSGO            RATING:  4.41     DURACION: 00:24:20
+CANAL: MOONMOON            RATING:  4.62     DURACION: 00:28:39
+CANAL: TFBlade             RATING:  1.14     DURACION: 02:14:21
+====================================================================================================
+Codigo:      PC112O99
+Nombre:      warframe
+Descripcion: Looter-shooter; frame builds; relic farming; and endgame grinds.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: alanzoka            RATING:  1.44     DURACION: 02:02:50
+CANAL: LCS                 RATING:  1.68     DURACION: 01:18:12
+CANAL: LIRIK               RATING:  4.38     DURACION: 00:31:32
+CANAL: Yassuo              RATING:  4.37     DURACION: 01:10:34
+====================================================================================================
+Codigo:      TP152U58
+Nombre:      chess
+Descripcion: Chess games; puzzles; speed chess; and commentary.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: xQcOW               RATING:  2.72     DURACION: 00:41:37
+CANAL: riotgames           RATING:  2.24     DURACION: 01:04:31
+====================================================================================================
+Codigo:      TM145B57
+Nombre:      eternal return
+Descripcion: MOBA/BR hybrid; characters; routes; and ranked.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Gaules              RATING:  4.40     DURACION: 00:29:31
+CANAL: DrDisrespect        RATING:  2.23     DURACION: 02:21:50
+CANAL: OgamingLoL          RATING:  2.94     DURACION: 00:24:29
+====================================================================================================
+Codigo:      CW154A34
+Nombre:      marbles on stream
+Descripcion: Chat-controlled marble races and events.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: nl_Kripp            RATING:  1.96     DURACION: 00:10:05
+CANAL: YoDa                RATING:  1.35     DURACION: 02:01:49
+CANAL: Solary              RATING:  4.64     DURACION: 02:13:47
+CANAL: LIRIK               RATING:  2.58     DURACION: 01:50:27
+CANAL: Fresh               RATING:  2.61     DURACION: 00:16:42
+CANAL: Evelone192          RATING:  1.53     DURACION: 01:19:29
+CANAL: Fextralife          RATING:  2.91     DURACION: 01:35:20
+CANAL: Rubius              RATING:  1.05     DURACION: 00:35:51
+====================================================================================================
+Codigo:      VO168I62
+Nombre:      world of warships
+Descripcion: Naval combat; grinds; clans; and ranked.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Sardoche            RATING:  2.57     DURACION: 01:45:50
+CANAL: Yassuo              RATING:  3.71     DURACION: 02:06:17
+CANAL: Castro_1021         RATING:  2.10     DURACION: 02:03:16
+CANAL: GamesDoneQuick      RATING:  2.63     DURACION: 00:39:01
+====================================================================================================
+Codigo:      AG139R21
+Nombre:      sea of thieves
+Descripcion: Co-op pirate adventures; voyages and PvP.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: TFBlade             RATING:  1.07     DURACION: 01:31:00
+CANAL: summit1g            RATING:  2.40     DURACION: 00:29:31
+====================================================================================================
+Codigo:      MK171R42
+Nombre:      mobile legends  bang bang
+Descripcion: Mobile MOBA; ranked grind and events.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: hanryang1125        RATING:  3.18     DURACION: 00:43:21
+====================================================================================================
+Codigo:      KK121N95
+Nombre:      shine post  be your idol 
+Descripcion: Rhythm/idol content; music performance and progression.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: Rubius              RATING:  1.48     DURACION: 01:21:04
+CANAL: CohhCarnage         RATING:  3.94     DURACION: 01:26:41
+CANAL: xQcOW               RATING:  4.38     DURACION: 00:48:32
+====================================================================================================
+Codigo:      SJ181Q95
+Nombre:      pools hot tubs and beaches
+Descripcion: Aquatic IRL; pool streams; hot tubs; and beach hangouts.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: LCK                 RATING:  4.67     DURACION: 01:48:17
+CANAL: Tfue                RATING:  2.64     DURACION: 01:01:38
+CANAL: dota2mc_ru          RATING:  2.46     DURACION: 00:40:45
+CANAL: loltyler1           RATING:  1.30     DURACION: 02:20:15
+CANAL: Asmongold           RATING:  2.03     DURACION: 02:02:07
+CANAL: ESL_CSGO            RATING:  2.45     DURACION: 01:41:14
+====================================================================================================
+Codigo:      KS179K68
+Nombre:      metin2
+Descripcion: Classic MMORPG; grinding; dungeons; and PvP.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: hanryang1125        RATING:  3.70     DURACION: 00:25:47
+CANAL: LCK_Korea           RATING:  4.66     DURACION: 00:53:43
+CANAL: Fextralife          RATING:  2.29     DURACION: 00:05:28
+CANAL: Dota2RuHub          RATING:  4.53     DURACION: 02:19:41
+CANAL: nl_Kripp            RATING:  3.18     DURACION: 00:59:54
+CANAL: summit1g            RATING:  1.78     DURACION: 00:17:43
+CANAL: Pestily             RATING:  1.93     DURACION: 01:17:54
+====================================================================================================
+Codigo:      VB136P13
+Nombre:      age of empires ii
+Descripcion: RTS; build orders; ranked matches; and tournaments.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: LCK_Korea           RATING:  2.83     DURACION: 01:19:55
+====================================================================================================
+Codigo:      VD125K99
+Nombre:      supermarket simulator
+Descripcion: Management sim; build and run your own grocery store.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: xQcOW               RATING:  1.34     DURACION: 01:52:02
+CANAL: Evelone192          RATING:  1.97     DURACION: 00:07:38
+CANAL: LIRIK               RATING:  2.91     DURACION: 00:12:06
+CANAL: BeyondTheSummit     RATING:  4.18     DURACION: 00:59:20
+====================================================================================================
+Codigo:      NA174D77
+Nombre:      guilty gear  strive
+Descripcion: 1v1 fighter; training mode tech; sets; and tournaments.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: hanryang1125        RATING:  4.78     DURACION: 02:18:32
+CANAL: handongsuk          RATING:  1.14     DURACION: 02:21:50
+CANAL: Lord_Kebun          RATING:  3.28     DURACION: 01:32:53
+CANAL: NICKMERCS           RATING:  1.91     DURACION: 01:36:29
+CANAL: LCK                 RATING:  2.92     DURACION: 00:42:55
+====================================================================================================
+Codigo:      NN179A87
+Nombre:      software and game development
+Descripcion: Live coding; game engines; tools; and devlogs.
+----------------------------------------------------------------------------------------------------
+REPRODUCCIONES:
+CANAL: riotgames           RATING:  1.48     DURACION: 01:47:25
+CANAL: MontanaBlack88      RATING:  1.16     DURACION: 01:39:22
+CANAL: auronplay           RATING:  4.01     DURACION: 00:48:58
+CANAL: Rubius              RATING:  4.61     DURACION: 00:03:53
+====================================================================================================

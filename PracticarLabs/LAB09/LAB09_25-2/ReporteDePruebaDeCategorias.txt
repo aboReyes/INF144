@@ -1,0 +1,402 @@
+                                      REPORTE POR CATEGORIAS
+====================================================================================================
+Codigo:      UM163F47
+Nombre:      just chatting
+Descripcion: Casual conversations; reactions; and hangouts without a main game.
+----------------------------------------------------------------------------------------------------
+Codigo:      DN124W94
+Nombre:      league of legends
+Descripcion: 5v5 MOBA; ranked climbs; pro play analysis; and coaching.
+----------------------------------------------------------------------------------------------------
+Codigo:      TZ196V36
+Nombre:      grand theft auto v
+Descripcion: Open-world gameplay: GTA Online missions
+----------------------------------------------------------------------------------------------------
+Codigo:      QU119C56
+Nombre:      counter strike
+Descripcion: Tactical 5v5 FPS; scrims; ranked; utility lineups; and tournaments.
+----------------------------------------------------------------------------------------------------
+Codigo:      LH114O61
+Nombre:      valorant
+Descripcion: Hero-based 5v5 FPS; ranked; team scrims; agent guides
+----------------------------------------------------------------------------------------------------
+Codigo:      DB186L52
+Nombre:      world of warcraft
+Descripcion: MMORPG raids; Mythic+; leveling; PvP arenas; and class guides.
+----------------------------------------------------------------------------------------------------
+Codigo:      XG132J21
+Nombre:      irl
+Descripcion: Real-life streaming: travel; city walks; food tours; and daily life.
+----------------------------------------------------------------------------------------------------
+Codigo:      DT153T53
+Nombre:      minecraft
+Descripcion: Survival; creative builds; minigames; speedruns; and modded packs.
+----------------------------------------------------------------------------------------------------
+Codigo:      NL146N94
+Nombre:      dota 2
+Descripcion: 5v5 MOBA; high-MMR pubs; scrims; drafts; and tournament coverage.
+----------------------------------------------------------------------------------------------------
+Codigo:      MJ182W35
+Nombre:      fortnite
+Descripcion: Battle royale & creative modes; arena grind; events; and challenges.
+----------------------------------------------------------------------------------------------------
+Codigo:      WC173Z82
+Nombre:      metal gear solid delta  snake eater
+Descripcion: Stealth-action remake playthroughs; challenges; and lore.
+----------------------------------------------------------------------------------------------------
+Codigo:      KI146T56
+Nombre:      apex legends
+Descripcion: Battle royale/arenas; ranked pushes; tournaments; and legend tips.
+----------------------------------------------------------------------------------------------------
+Codigo:      QC176I92
+Nombre:      call of duty  warzone
+Descripcion: BR metas; loadouts; high-kill lobbies; and ranked Resurgence.
+----------------------------------------------------------------------------------------------------
+Codigo:      LN112E45
+Nombre:      dead by daylight
+Descripcion: 4v1 horror; killer/survivor gameplay; builds; and customs.
+----------------------------------------------------------------------------------------------------
+Codigo:      KO184K63
+Nombre:      teamfight tactics
+Descripcion: Auto-battler; patch meta comps; high-ELO ladders; and tips.
+----------------------------------------------------------------------------------------------------
+Codigo:      MI118Y35
+Nombre:      special events
+Descripcion: One-off broadcasts: showcases; charity streams; and premieres.
+----------------------------------------------------------------------------------------------------
+Codigo:      WT179Q13
+Nombre:      marvel rivals
+Descripcion: Team shooter with Marvel heroes; matches; comps; and strategies.
+----------------------------------------------------------------------------------------------------
+Codigo:      QT146C58
+Nombre:      overwatch 2
+Descripcion: 5v5 hero FPS; role queue ranked; scrims; and VOD reviews.
+----------------------------------------------------------------------------------------------------
+Codigo:      QR146D97
+Nombre:      escape from tarkov
+Descripcion: Extraction shooter; raids; looting routes; wipes; and market.
+----------------------------------------------------------------------------------------------------
+Codigo:      RO195M41
+Nombre:      rocket league
+Descripcion: Car-soccer; ranked playlists; freestyling; and tournaments.
+----------------------------------------------------------------------------------------------------
+Codigo:      RD128Y57
+Nombre:      world of tanks
+Descripcion: Tank warfare; tech tree grinds; clan wars; and missions.
+----------------------------------------------------------------------------------------------------
+Codigo:      DQ172M16
+Nombre:      clash royale
+Descripcion: Mobile RTS; ladder; challenges; deck building; and tips.
+----------------------------------------------------------------------------------------------------
+Codigo:      BY199O22
+Nombre:      variety
+Descripcion: Mixed-content channels rotating games and formats frequently.
+----------------------------------------------------------------------------------------------------
+Codigo:      BQ129A71
+Nombre:      street fighter 6
+Descripcion: 1v1 fighting; ranked sets; lab work; tech; and tournaments.
+----------------------------------------------------------------------------------------------------
+Codigo:      LJ159A55
+Nombre:      hollow knight
+Descripcion: Metroidvania; challenge runs; speedruns; and full completions.
+----------------------------------------------------------------------------------------------------
+Codigo:      CY155Y58
+Nombre:      peak
+Descripcion: Competitive/action title; early-meta exploration and live matches.
+----------------------------------------------------------------------------------------------------
+Codigo:      PK187T86
+Nombre:      sports
+Descripcion: Sports talk; watch-alongs; management sims; and highlights.
+----------------------------------------------------------------------------------------------------
+Codigo:      RK128P86
+Nombre:      last epoch
+Descripcion: ARPG; endgame monoliths; builds; crafting; and loot hunts.
+----------------------------------------------------------------------------------------------------
+Codigo:      RQ191T25
+Nombre:      old school runescape
+Descripcion: Classic MMORPG; skilling; PvM bosses; and Ironman runs.
+----------------------------------------------------------------------------------------------------
+Codigo:      LB198Z91
+Nombre:      deadlock
+Descripcion: Competitive shooter/MOBA hybrid; matches and meta testing.
+----------------------------------------------------------------------------------------------------
+Codigo:      RN127Z69
+Nombre:      hearthstone
+Descripcion: Digital CCG; ladder climbs; Arena; Battlegrounds; and deck guides.
+----------------------------------------------------------------------------------------------------
+Codigo:      KS132B14
+Nombre:      asmr
+Descripcion: Whispered and sound-focused relaxation to help sleep and study.
+----------------------------------------------------------------------------------------------------
+Codigo:      LD127Y85
+Nombre:      path of exile 2
+Descripcion: ARPG; campaign; league starts; crafting; and bossing.
+----------------------------------------------------------------------------------------------------
+Codigo:      HW116B55
+Nombre:      art
+Descripcion: Live drawing; painting; 3D modeling; and illustration workflows.
+----------------------------------------------------------------------------------------------------
+Codigo:      AK118L96
+Nombre:      pubg  battlegrounds
+Descripcion: Tactical battle royale; rotations; clutches; and team comps.
+----------------------------------------------------------------------------------------------------
+Codigo:      NS118H61
+Nombre:      virtual casino
+Descripcion: Virtual casino-style games and demonstrations.
+----------------------------------------------------------------------------------------------------
+Codigo:      GW115W74
+Nombre:      slots
+Descripcion: Slot machine streams and related casino content.
+----------------------------------------------------------------------------------------------------
+Codigo:      NZ127Y46
+Nombre:      roblox
+Descripcion: Community-made experiences: obbies; roleplay; and minigames.
+----------------------------------------------------------------------------------------------------
+Codigo:      AE182A15
+Nombre:      im only sleeping
+Descripcion: "“Sleep"" streams with chat interactions and ambience."
+----------------------------------------------------------------------------------------------------
+Codigo:      UW174Q61
+Nombre:      music
+Descripcion: Live music: covers; songwriting; production; and jam sessions.
+----------------------------------------------------------------------------------------------------
+Codigo:      NU114V45
+Nombre:      djs
+Descripcion: DJ sets; mixing; and live club-style performances.
+----------------------------------------------------------------------------------------------------
+Codigo:      PY187C33
+Nombre:      ea sports fc 25
+Descripcion: Football/soccer; Ultimate Team; Seasons; and tournaments.
+----------------------------------------------------------------------------------------------------
+Codigo:      EW188U26
+Nombre:      rust
+Descripcion: Survival PvP; wipe days; raids; bases; and team warfare.
+----------------------------------------------------------------------------------------------------
+Codigo:      ZG113P58
+Nombre:      retro
+Descripcion: Classic and retro gaming; speedruns; challenges; and nostalgia.
+----------------------------------------------------------------------------------------------------
+Codigo:      FE115G27
+Nombre:      shadowverse  worlds beyond
+Descripcion: Anime-style CCG; ladder; tournaments; and deck tech.
+----------------------------------------------------------------------------------------------------
+Codigo:      ZU177L96
+Nombre:      tom clancys rainbow six siege x
+Descripcion: Tactical FPS; strats; ranked; and operator guides.
+----------------------------------------------------------------------------------------------------
+Codigo:      VG156H76
+Nombre:      albion online
+Descripcion: Sandbox MMORPG; PvP; ZvZ; gathering; and crafting economies.
+----------------------------------------------------------------------------------------------------
+Codigo:      KB123B15
+Nombre:      destiny 2
+Descripcion: Looter-shooter; raids; Trials; builds; and seasonal content.
+----------------------------------------------------------------------------------------------------
+Codigo:      BK137V33
+Nombre:      always on
+Descripcion: 24/7 channels with loops; cams; and continuous programming.
+----------------------------------------------------------------------------------------------------
+Codigo:      LO141I68
+Nombre:      call of duty  black ops 6
+Descripcion: CoD entry; multiplayer; Zombies; and campaign runs.
+----------------------------------------------------------------------------------------------------
+Codigo:      RL171J41
+Nombre:      delta force
+Descripcion: Tactical shooter; squad play; extraction/objective modes.
+----------------------------------------------------------------------------------------------------
+Codigo:      CG165W46
+Nombre:      madden nfl 26
+Descripcion: American football; Franchise; MUT; and head-to-head play.
+----------------------------------------------------------------------------------------------------
+Codigo:      OA138Q42
+Nombre:      rimworld
+Descripcion: Colony sim; storytelling runs; modpacks; and challenge scenarios.
+----------------------------------------------------------------------------------------------------
+Codigo:      DU188A83
+Nombre:      garrys mod
+Descripcion: Sandbox & community modes; RP; TTT; and minigames.
+----------------------------------------------------------------------------------------------------
+Codigo:      PA184Q16
+Nombre:      tibia
+Descripcion: Classic MMORPG; hunts; quests; and guild events.
+----------------------------------------------------------------------------------------------------
+Codigo:      NN197G83
+Nombre:      games + demos
+Descripcion: Demos and showcases for new and indie games.
+----------------------------------------------------------------------------------------------------
+Codigo:      HV185O43
+Nombre:      elden ring
+Descripcion: Soulslike ARPG; challenge runs; builds; and boss fights.
+----------------------------------------------------------------------------------------------------
+Codigo:      UE163E26
+Nombre:      final fantasy xiv online
+Descripcion: MMORPG; MSQ; raids; glam; and daily roulettes.
+----------------------------------------------------------------------------------------------------
+Codigo:      MD184K15
+Nombre:      phasmophobia
+Descripcion: Co-op ghost hunting; investigations and challenge runs.
+----------------------------------------------------------------------------------------------------
+Codigo:      IC184W19
+Nombre:      pokémon community game
+Descripcion: Chat-driven Pokémon minigame played in-stream.
+----------------------------------------------------------------------------------------------------
+Codigo:      BA171U58
+Nombre:      talk shows & podcasts
+Descripcion: Live interviews; panels; and podcast recordings.
+----------------------------------------------------------------------------------------------------
+Codigo:      XL132F68
+Nombre:      clair obscur  expedition 33
+Descripcion: Story-driven RPG; playthroughs and theorycrafting.
+----------------------------------------------------------------------------------------------------
+Codigo:      YC193H47
+Nombre:      animals aquariums and zoos
+Descripcion: Live animal cams; care streams; and zoo tours.
+----------------------------------------------------------------------------------------------------
+Codigo:      DA182Q73
+Nombre:      arena breakout  infinite
+Descripcion: Extraction FPS; builds; raids; and economy.
+----------------------------------------------------------------------------------------------------
+Codigo:      CV195R73
+Nombre:      vrchat
+Descripcion: Social VR; avatar showcases; world hopping; and meetups.
+----------------------------------------------------------------------------------------------------
+Codigo:      ET182T41
+Nombre:      project zomboid
+Descripcion: Survival sim; base building; mods; and RP servers.
+----------------------------------------------------------------------------------------------------
+Codigo:      OR112F58
+Nombre:      are you smarter than a 5th grader
+Descripcion: Quiz/show game sessions with viewers.
+----------------------------------------------------------------------------------------------------
+Codigo:      VD139J89
+Nombre:      gears of war  reloaded
+Descripcion: Cover-based shooter; campaign playthroughs and versus.
+----------------------------------------------------------------------------------------------------
+Codigo:      ZT132U54
+Nombre:      oh deer
+Descripcion: Light indie experience; exploration and humor.
+----------------------------------------------------------------------------------------------------
+Codigo:      VX165C97
+Nombre:      helldivers 2
+Descripcion: Co-op shooter; operations; weapons; and stratagems.
+----------------------------------------------------------------------------------------------------
+Codigo:      NO156F14
+Nombre:      foxhole
+Descripcion: Massive war MMO; logistics; fronts; and player-driven battles.
+----------------------------------------------------------------------------------------------------
+Codigo:      BQ199B68
+Nombre:      star citizen
+Descripcion: Space sim; ships; trading; org operations; and events.
+----------------------------------------------------------------------------------------------------
+Codigo:      XC175U15
+Nombre:      poker
+Descripcion: Live poker tables; analysis; and tournaments.
+----------------------------------------------------------------------------------------------------
+Codigo:      TB183R89
+Nombre:      wuthering waves
+Descripcion: Gacha ARPG; pulls; builds; and open-world exploration.
+----------------------------------------------------------------------------------------------------
+Codigo:      AZ147L57
+Nombre:      heroes of might and magic iii
+Descripcion: Turn-based strategy; campaigns and PvP.
+----------------------------------------------------------------------------------------------------
+Codigo:      EB132T28
+Nombre:      call of duty
+Descripcion: General CoD category; multiplayer; BR; and Zombies across titles.
+----------------------------------------------------------------------------------------------------
+Codigo:      II162W87
+Nombre:      crypto
+Descripcion: Crypto markets talk; education; and web3 project coverage.
+----------------------------------------------------------------------------------------------------
+Codigo:      KF142D45
+Nombre:      guild wars 2
+Descripcion: MMORPG; WvW; fractals; raids; and fashion.
+----------------------------------------------------------------------------------------------------
+Codigo:      AF136N84
+Nombre:      metal gear solid v  the phantom pain
+Descripcion: Sandbox stealth-action; missions and mods.
+----------------------------------------------------------------------------------------------------
+Codigo:      AN121I85
+Nombre:      red dead redemption 2
+Descripcion: Open-world Western; story; online; and RP.
+----------------------------------------------------------------------------------------------------
+Codigo:      QA163C53
+Nombre:      magic  the gathering
+Descripcion: TCG; Arena/paper play; deck tech; and events.
+----------------------------------------------------------------------------------------------------
+Codigo:      IR129C28
+Nombre:      battlefield 2042
+Descripcion: Large-scale FPS; conquest; portal modes; and specialists.
+----------------------------------------------------------------------------------------------------
+Codigo:      AN114F11
+Nombre:      geoguessr
+Descripcion: Geography guessing; streaks; duels; and tournaments.
+----------------------------------------------------------------------------------------------------
+Codigo:      VS157U81
+Nombre:      abiotic factor
+Descripcion: Co-op survival; crafting; exploration; and base defense.
+----------------------------------------------------------------------------------------------------
+Codigo:      BC173T92
+Nombre:      blue protocol  star resonance
+Descripcion: Online action RPG with an anime vibe; quests and co-op.
+----------------------------------------------------------------------------------------------------
+Codigo:      OZ151I97
+Nombre:      haunted room  205
+Descripcion: Horror/escape; investigation; puzzles; and scares.
+----------------------------------------------------------------------------------------------------
+Codigo:      PC112O99
+Nombre:      warframe
+Descripcion: Looter-shooter; frame builds; relic farming; and endgame grinds.
+----------------------------------------------------------------------------------------------------
+Codigo:      TP152U58
+Nombre:      chess
+Descripcion: Chess games; puzzles; speed chess; and commentary.
+----------------------------------------------------------------------------------------------------
+Codigo:      TM145B57
+Nombre:      eternal return
+Descripcion: MOBA/BR hybrid; characters; routes; and ranked.
+----------------------------------------------------------------------------------------------------
+Codigo:      CW154A34
+Nombre:      marbles on stream
+Descripcion: Chat-controlled marble races and events.
+----------------------------------------------------------------------------------------------------
+Codigo:      VO168I62
+Nombre:      world of warships
+Descripcion: Naval combat; grinds; clans; and ranked.
+----------------------------------------------------------------------------------------------------
+Codigo:      AG139R21
+Nombre:      sea of thieves
+Descripcion: Co-op pirate adventures; voyages and PvP.
+----------------------------------------------------------------------------------------------------
+Codigo:      MK171R42
+Nombre:      mobile legends  bang bang
+Descripcion: Mobile MOBA; ranked grind and events.
+----------------------------------------------------------------------------------------------------
+Codigo:      KK121N95
+Nombre:      shine post  be your idol 
+Descripcion: Rhythm/idol content; music performance and progression.
+----------------------------------------------------------------------------------------------------
+Codigo:      SJ181Q95
+Nombre:      pools hot tubs and beaches
+Descripcion: Aquatic IRL; pool streams; hot tubs; and beach hangouts.
+----------------------------------------------------------------------------------------------------
+Codigo:      KS179K68
+Nombre:      metin2
+Descripcion: Classic MMORPG; grinding; dungeons; and PvP.
+----------------------------------------------------------------------------------------------------
+Codigo:      VB136P13
+Nombre:      age of empires ii
+Descripcion: RTS; build orders; ranked matches; and tournaments.
+----------------------------------------------------------------------------------------------------
+Codigo:      VD125K99
+Nombre:      supermarket simulator
+Descripcion: Management sim; build and run your own grocery store.
+----------------------------------------------------------------------------------------------------
+Codigo:      NA174D77
+Nombre:      guilty gear  strive
+Descripcion: 1v1 fighter; training mode tech; sets; and tournaments.
+----------------------------------------------------------------------------------------------------
+Codigo:      NN179A87
+Nombre:      software and game development
+Descripcion: Live coding; game engines; tools; and devlogs.
+----------------------------------------------------------------------------------------------------
