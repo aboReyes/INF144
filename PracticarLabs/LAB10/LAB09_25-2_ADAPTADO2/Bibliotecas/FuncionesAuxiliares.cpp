@@ -37,15 +37,24 @@ void insertarOrdenado(NodoCategoria *&listaCategoria,Categoria categoria) {
     NodoCategoria *anterior=nullptr;
     NodoCategoria *nuevo=new NodoCategoria;
     nuevo->dato=categoria;
-    while (p!=nullptr and strcmp(p->dato.nombre,categoria.nombre)<0) {
-        anterior=p;
-        p=p->siguiente;
+    //Consideramos: LISTA-->A-->C-->F-->nullptr
+    //Donde: anterior=nulllpr  y  p=A
+    while (p!=nullptr and strcmp(p->dato.nombre,categoria.nombre)<0) { //¿Cumple la condición?
+        anterior=p; //anterior=A
+        p=p->siguiente; //p=C
+        //y así sucesivamente en base a cómo recorramos el txt/csv
     }
-    nuevo->siguiente=p;
-    if (anterior==nullptr) {
-        listaCategoria=nuevo;
-    }else {
-        anterior->siguiente=nuevo;
+    //salimos del bucle porque no cumple la condicion del while
+    //consideremos: p=F y anterior=C y nuevo=D 
+    nuevo->siguiente=p; //D->siguiente=F (Después de D, viene F)
+    //"Dentro del nodo NUEVO, en su campo SIGUIENTE, guarda la dirección de memoria 
+    //donde apunta p"
+    if (anterior==nullptr) {//CASO INICIAL(como anterior=C !=nullptr) vamos al else
+        listaCategoria=nuevo; 
+    }else { //caso anterior!=nullptr
+        anterior->siguiente=nuevo; //C->siguiente=D (Después de C, ya no viene F, ahora viene D)
+        //"Dentro del nodo al que apunta ANTERIOR (C), cambia su campo siguiente para
+        //que apunte a NUEVO"
     }
 }
 
