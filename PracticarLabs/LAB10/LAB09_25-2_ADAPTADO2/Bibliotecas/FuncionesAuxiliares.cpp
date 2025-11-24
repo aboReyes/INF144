@@ -49,11 +49,14 @@ void insertarOrdenado(NodoCategoria *&listaCategoria,Categoria categoria) {
     nuevo->siguiente=p; //D->siguiente=F (Después de D, viene F)
     //"Dentro del nodo NUEVO, en su campo SIGUIENTE, guarda la dirección de memoria 
     //donde apunta p"
-    if (anterior==nullptr) {//CASO INICIAL(como anterior=C !=nullptr) vamos al else
-        listaCategoria=nuevo; 
+    if (anterior==nullptr) {//CASO INICIAL/LISTA VACÍA(como anterior=C !=nullptr) vamos al else
+        //Consideramos: LISTA-->nullptr
+        //Donde: anterior=nullptr y p=nullptr y nuevo->siguiente=p=nullptr
+        listaCategoria=nuevo; //LISTA=(nuevo)
+        //Quedaría así: LISTA-->[nuevo]-->nullptr
     }else { //caso anterior!=nullptr
         anterior->siguiente=nuevo; //C->siguiente=D (Después de C, ya no viene F, ahora viene D)
-        //"Dentro del nodo al que apunta ANTERIOR (C), cambia su campo siguiente para
+        //"Dentro del nodo al que apunta ANTERIOR (C), cambia su campo SIGUIENTE para
         //que apunte a NUEVO"
     }
 }
