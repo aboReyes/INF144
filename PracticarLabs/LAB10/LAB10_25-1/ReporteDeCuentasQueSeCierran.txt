@@ -1,0 +1,28 @@
+                                                  BANCO DE LOS CLIENTES DE TP
+                                        LISTADO DE LAS CUENTAS DE AHORROS DE NUESTROS CLIENTES
+==================================================================================================================================
+No.  CUENTA       CLIENTE                                         SALDO        SOBREGIRADA         FECHA DEL ULTIMO SOBREGIRO
+01)  12807889     Cuba Narvaez Paul John                        -35982.33           SI                    17/04/2026
+02)  15544912     Corrales Escalante Eloisa Yliana              -60837.88           SI                    11/01/2025
+03)  24157763     Yino Avila Angel Edgar                       -155420.79           SI                    08/01/2026
+04)  24376652     Zuniga Rivero Nicolas                         -49287.51           SI                    19/06/2025
+05)  30626250     Trigueros Portugal Arturo Fausto              -20116.10           SI                    08/06/2025
+06)  38099749     Vega Garcia Janet Rebeca                       -1379.70           SI                    21/11/2025
+07)  41752551     Montero Montero Annie                        -102125.52           SI                    04/02/2025
+08)  46261631     Amezquita Epiquen Evert Roberto               -26765.34           SI                    06/04/2026
+09)  49777317     Retamoso Tokeshi Gustavo                      -34303.42           SI                    07/05/2025
+10)  58293594     Ruiz Gordillo Carola Erika                    -56300.61           SI                    20/07/2025
+11)  58477632     Larriega Velasquez Moises Roberto             -99781.16           SI                    03/10/2025
+12)  59754237     Fuentes Lopez Nestor Fausto                    -6960.46           SI                    08/08/2025
+13)  61438463     Cortez Leiva Surami Silvia                   -168628.78           SI                    27/10/2025
+14)  62490848     Gamarra Tabori Paul Ronal                      -8392.00           SI                    22/03/2026
+15)  66924485     Yino Pena Zkenia Surami                       -92852.89           SI                    24/01/2026
+16)  69702125     Cortez Segura Carmela Ines                     -3619.12           SI                    22/04/2026
+17)  74183799     Gamarra Chavarri Zkenia                       -14580.32           SI                    18/07/2025
+18)  77555095     Shirakawa Ortega Angel                        -31233.19           SI                    18/11/2024
+19)  79045799     Valverde Pinto Edilberto                      -16473.41           SI                    21/11/2025
+20)  80479769     Malca Saavedra Doris Milagros                 -90325.78           SI                    31/05/2025
+21)  81890953     Egusquiza Berrocal Doris Nancy                -44503.01           SI                    13/01/2025
+22)  89064460     Guevara Miyake Milena                         -47441.80           SI                    21/01/2026
+23)  94017458     Miranda Huayanay Rhony                        -36850.59           SI                    23/09/2025
+24)  94909241     Fuentes Gamarra Hugo                          -16702.50           SI                    15/11/2025

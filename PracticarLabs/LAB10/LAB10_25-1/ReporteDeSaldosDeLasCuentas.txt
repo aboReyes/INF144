@@ -1,0 +1,81 @@
+                                                  BANCO DE LOS CLIENTES DE TP
+                                        LISTADO DE LAS CUENTAS DE AHORROS DE NUESTROS CLIENTES
+==================================================================================================================================
+No.  CUENTA       CLIENTE                                         SALDO        SOBREGIRADA         FECHA DEL ULTIMO SOBREGIRO
+01)  11379018     Escalante Vergel Nestor Manuel                 95218.78           NO                    00/00/0000
+02)  12807889     Cuba Narvaez Paul John                        -35982.33           SI                    17/04/2026
+03)  14398081     Perez Farfan Richard Sandro                    28051.51           SI                    21/01/2026
+04)  15544912     Corrales Escalante Eloisa Yliana              -60837.88           SI                    11/01/2025
+05)  15792945     Chumpitaz Alcocer Angel Erick                  82683.41           SI                    12/12/2025
+06)  16015071     Sueldo Perez Diana Glenda                      52733.00           NO                    00/00/0000
+07)  16721636     Lee Vasquez Jenny                             165879.42           NO                    00/00/0000
+08)  18027503     Escalante Raraz Blanca                         44993.46           NO                    00/00/0000
+09)  18923782     Diaz Tang Enrique                              98804.85           NO                    00/00/0000
+10)  18990676     Guevara Yoshinari Magda Carmela                25379.19           SI                    29/09/2025
+11)  19343103     Ayala Castillo Ericka Ofelia                  154600.73           NO                    00/00/0000
+12)  19661400     Benites Tsukazan Luz Lourdes                  174123.68           NO                    00/00/0000
+13)  21356056     Mori Tokeshi Alonso                           112851.27           NO                    00/00/0000
+14)  24157763     Yino Avila Angel Edgar                       -155420.79           SI                    08/01/2026
+15)  24376652     Zuniga Rivero Nicolas                         -49287.51           SI                    19/06/2025
+16)  30626250     Trigueros Portugal Arturo Fausto              -20116.10           SI                    08/06/2025
+17)  32229412     Pena Suarez Glenda Margot                       4495.96           SI                    30/12/2025
+18)  34277177     Cerna Pairazaman Fiorella Margot               10290.54           SI                    12/08/2025
+19)  35894393     La Haza Cabrera Alberto De                     24679.05           SI                    12/12/2025
+20)  35968268     Vilca Justino Melvin                           91981.44           NO                    00/00/0000
+21)  36041699     Zarate Perez Alexander                         24772.10           SI                    01/01/2026
+22)  38099749     Vega Garcia Janet Rebeca                       -1379.70           SI                    21/11/2025
+23)  38507738     Zavaleta Vilca Ericka Eleonor                  37253.25           SI                    04/12/2025
+24)  41186299     Serrano Iberos Francisco                       73178.26           NO                    00/00/0000
+25)  41752551     Montero Montero Annie                        -102125.52           SI                    04/02/2025
+26)  45974428     Yino Figueroa Magda Karina                     41003.75           NO                    00/00/0000
+27)  46261631     Amezquita Epiquen Evert Roberto               -26765.34           SI                    06/04/2026
+28)  46751817     Merel Arca Silvana                             31624.43           NO                    00/00/0000
+29)  48980155     Vasquez Shirakawa Julian Alfonso              122615.35           SI                    17/01/2025
+30)  49588036     Martinez Cruz Evert Rony                       49264.02           SI                    26/03/2026
+31)  49777317     Retamoso Tokeshi Gustavo                      -34303.42           SI                    07/05/2025
+32)  50323749     Landeo Acuna Karina                            99313.37           SI                    22/06/2025
+33)  50753932     Durand Lopez Emigdio                           97580.96           NO                    00/00/0000
+34)  50954782     Saavedra Contreras Rony Johan                  19225.51           SI                    10/07/2025
+35)  54193859     Cabello Santisteban Marina Valentina           66335.27           SI                    24/07/2025
+36)  54437780     Wong Martel Madeleine                          22906.44           NO                    00/00/0000
+37)  55744475     Moscoso Laura Janet Valentina                  90199.28           SI                    26/03/2026
+38)  56325275     Ayala Farfan Luz Rebeca                        26523.44           SI                    27/12/2025
+39)  56516447     Egusquiza Soma Jessica                        127901.06           NO                    00/00/0000
+40)  57121426     Solis Vilca Julian                            103768.39           NO                    00/00/0000
+41)  58293594     Ruiz Gordillo Carola Erika                    -56300.61           SI                    20/07/2025
+42)  58477632     Larriega Velasquez Moises Roberto             -99781.16           SI                    03/10/2025
+43)  59754237     Fuentes Lopez Nestor Fausto                    -6960.46           SI                    08/08/2025
+44)  61438463     Cortez Leiva Surami Silvia                   -168628.78           SI                    27/10/2025
+45)  62318408     De La Cuba Adria Quio                          25568.07           SI                    23/12/2025
+46)  62490848     Gamarra Tabori Paul Ronal                      -8392.00           SI                    22/03/2026
+47)  62647143     Norabuena Yep Henrry                           94790.43           NO                    00/00/0000
+48)  64584439     Paredes Epiquen Israel Martin                  31343.85           SI                    30/04/2026
+49)  64627562     Zegarra Yino Rebeca                            65818.47           NO                    00/00/0000
+50)  65453860     Rosemberg Rosemberg Jair Alonso                55639.21           SI                    20/04/2025
+51)  66924485     Yino Pena Zkenia Surami                       -92852.89           SI                    24/01/2026
+52)  67053439     Justino Martinez Enrique                       47408.81           SI                    06/04/2026
+53)  67392071     Suarez Morales Amaru                           85075.26           SI                    03/11/2025
+54)  69702125     Cortez Segura Carmela Ines                     -3619.12           SI                    22/04/2026
+55)  70642877     Aranda Torrealba Jenny Ines                    96419.23           SI                    27/10/2025
+56)  71839426     Diaz Moya Elia Annie                           97048.05           NO                    00/00/0000
+57)  74183799     Gamarra Chavarri Zkenia                       -14580.32           SI                    18/07/2025
+58)  75392636     Lovera Iberos Raul Alvaro                      34602.05           NO                    00/00/0000
+59)  75426881     Torrealba Salazar Ronal Evert                 103740.70           SI                    05/05/2026
+60)  77555095     Shirakawa Ortega Angel                        -31233.19           SI                    18/11/2024
+61)  79045799     Valverde Pinto Edilberto                      -16473.41           SI                    21/11/2025
+62)  80009970     Benavente Ayala Virginia Irma                 145235.59           NO                    00/00/0000
+63)  80479769     Malca Saavedra Doris Milagros                 -90325.78           SI                    31/05/2025
+64)  81730833     Mercado Quiroga Christian                      12319.88           SI                    11/09/2025
+65)  81890953     Egusquiza Berrocal Doris Nancy                -44503.01           SI                    13/01/2025
+66)  82950403     Norabuena Pairazaman Julian                    19848.36           SI                    07/05/2025
+67)  83505777     Suchero Aguirre Adolfo                         29269.60           NO                    00/00/0000
+68)  84455439     Chavez Prado Silvana                           75415.53           NO                    00/00/0000
+69)  85374516     Villa Yallico Tatiana Nancy                     3096.35           SI                    11/06/2025
+70)  86624675     Sedano Iberos Jair                             52720.85           NO                    00/00/0000
+71)  89064460     Guevara Miyake Milena                         -47441.80           SI                    21/01/2026
+72)  90334731     Quiroga Laura Annie                            36918.67           NO                    00/00/0000
+73)  94017458     Miranda Huayanay Rhony                        -36850.59           SI                    23/09/2025
+74)  94909241     Fuentes Gamarra Hugo                          -16702.50           SI                    15/11/2025
+75)  96248134     Lam Toro Alex                                    748.45           SI                    22/04/2026
+76)  99718207     Chang Zuniga Glenda                             3975.55           SI                    06/01/2026
+77)  99819074     Saona Arias Alberto                            56230.64           SI                    28/01/2025
