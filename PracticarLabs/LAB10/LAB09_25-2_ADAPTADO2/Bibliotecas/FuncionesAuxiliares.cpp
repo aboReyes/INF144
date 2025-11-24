@@ -37,7 +37,7 @@ void insertarOrdenado(NodoCategoria *&listaCategoria,Categoria categoria) {
     NodoCategoria *anterior=nullptr;
     NodoCategoria *nuevo=new NodoCategoria;
     nuevo->dato=categoria;
-    while (p!=nullptr and strcmp(listaCategoria->dato.nombre,categoria.nombre)<0) {
+    while (p!=nullptr and strcmp(p->dato.nombre,categoria.nombre)<0) {
         anterior=p;
         p=p->siguiente;
     }
