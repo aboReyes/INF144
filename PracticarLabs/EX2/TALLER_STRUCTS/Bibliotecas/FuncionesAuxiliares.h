@@ -28,13 +28,25 @@ void aperturaArchivoEscritura(const char* nombArch,ofstream& arch);
 //Modulos principales
 void leerLibros(const char* arch,
                 Libro *arrLibros,int &cantidadLibros);
-void pruebaLibros(const char* nombArc,
-                            Libro *arrLibros,int cantidadLibros);
+void pruebaLibros(const char* nombArch,
+                            Libro *arrLibros,int cantidadLibros,bool prestamo) ;
 void leerUsuarios(const char* nombArch,
                 Usuario *arrUsuarios,int &cantidadUsuarios);
-
+void pruebaUsuarios(const char* nombArch,
+                    Usuario *arrUsuarios,int cantidadUsuarios,bool prestamo);
+void actualizarPrestamos(const char* nombArch,
+                Libro *arrLibros,int cantidadLibros,Usuario *arrUsuarios,int cantidadUsuarios);
+int buscarCodigoLibro(char *codigoLibro,Libro *arrLibros,int cantidadLibros);
+int buscarUsuario(int dniUsuario,Usuario *arrUsuarios,int cantidadUsuarios);
+void ordenarReporte(Libro *arrLibros,int cantidadLibros);
+void SwapStruct2(UsuarioConElLibro&dato1,UsuarioConElLibro&dato2) ;
+void ordenarUsuarios(Libro &libros,int cantUsuarios);
 
 //Modulos auxiliares
+void SwapStruct(Libro &dato1,Libro &dato2);
+void imprimirCabeceraUsuarios(ofstream& output);
+void imprimirCabeceraLibros(ofstream& output);
+void imprimirLineas(char c,int cant,ofstream& output);
 char leerChar(ifstream& input);
 int leerFecha(ifstream& input);
 char* asignarCadena(char *fuente);
