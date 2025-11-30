@@ -1,0 +1,76 @@
+Fecha de Infraccion: 06/05/2025
+
+Conductor: 
+  Nombres        : Pedro
+  Apellidos      : Ramirez
+  DNI            : 13999315
+  Licencia       : A9279
+
+Conductor: 
+  Placa          : BKF434
+  Marca/Modelo   : Nissan Versa
+
+Infraccion: 
+  Codigo         : F6
+  Descripcion    : LUZ ROJA
+  Gravedad       : Grave
+
+Monto a Pagar: S/  200.00
+
+Fecha de Infraccion: 31/05/2025
+
+Conductor: 
+  Nombres        : Pedro
+  Apellidos      : Ramirez
+  DNI            : 13999315
+  Licencia       : A9279
+
+Conductor: 
+  Placa          : BKF434
+  Marca/Modelo   : Nissan Versa
+
+Infraccion: 
+  Codigo         : C3
+  Descripcion    : SIN CINTURON
+  Gravedad       : Muy Grave
+
+Monto a Pagar: S/  144.00
+
+Fecha de Infraccion: 09/06/2025
+
+Conductor: 
+  Nombres        : Pedro
+  Apellidos      : Ramirez
+  DNI            : 13999315
+  Licencia       : A9279
+
+Conductor: 
+  Placa          : BKF434
+  Marca/Modelo   : Nissan Versa
+
+Infraccion: 
+  Codigo         : G7
+  Descripcion    : HABLAR CELULAR
+  Gravedad       : Muy Grave
+
+Monto a Pagar: S/  150.00
+
+Fecha de Infraccion: 20/06/2025
+
+Conductor: 
+  Nombres        : Pedro
+  Apellidos      : Ramirez
+  DNI            : 13999315
+  Licencia       : A9279
+
+Conductor: 
+  Placa          : BKF434
+  Marca/Modelo   : Nissan Versa
+
+Infraccion: 
+  Codigo         : A1
+  Descripcion    : LUZ ROJA
+  Gravedad       : Muy Grave
+
+Monto a Pagar: S/  300.00
+
