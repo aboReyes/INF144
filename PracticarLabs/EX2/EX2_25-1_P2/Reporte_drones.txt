@@ -1,0 +1,21 @@
+=== Dron N7D-006 ===
+[Grave] Codigo: 235 - Transportar carga ilegal
+[Grave] Codigo: 225 - Intentar agredir oficial
+[Grave] Codigo: 211 - Conducir sin seguro
+[Grave] Codigo: 210 - Negarse a identificacion
+[Leve ] Codigo: 111 - Estacionar sobre ciclovia
+[Leve ] Codigo: 110 - No detenerse en cruce
+[Leve ] Codigo: 135 - Estacionar en cochera ajena
+[Leve ] Codigo: 125 - No senalizar maniobra
+Leves: 4, Graves: 4
+====================
+=== Dron PB9-008 ===
+[Grave] Codigo: 215 - Retirar senalizacion oficial
+[Grave] Codigo: 237 - Negarse a orden detencion
+[Grave] Codigo: 227 - Transportar sustancias ilegales
+[Grave] Codigo: 214 - Amenazar a inspector
+[Leve ] Codigo: 137 - No usar luces emergencia
+[Leve ] Codigo: 115 - No respetar velocidad minima
+[Leve ] Codigo: 114 - Frenar bruscamente
+[Leve ] Codigo: 127 - No portar extintor
+Leves: 4, Graves: 4
